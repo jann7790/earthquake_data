@@ -1,0 +1,106 @@
+{
+  "epicenter_lat": "24.16",
+  "epicenter_lon": "120.82",
+  "magnitude": "3.4",
+  "max_intensity": "2",
+  "locations": [
+    {
+      "latitude": "24.0794",
+      "longitude": "120.5583",
+      "county": "彰化縣",
+      "intensity": "2",
+      "location_name": "彰化市"
+    },
+    {
+      "latitude": "23.8617",
+      "longitude": "120.2892",
+      "county": "彰化縣",
+      "intensity": "1",
+      "location_name": "大城"
+    },
+    {
+      "latitude": "23.9605",
+      "longitude": "120.5799",
+      "county": "彰化縣",
+      "intensity": "1",
+      "location_name": "員林"
+    },
+    {
+      "latitude": "24.1456",
+      "longitude": "120.6841",
+      "county": "臺中市",
+      "intensity": "2",
+      "location_name": "臺中市"
+    },
+    {
+      "latitude": "24.3477",
+      "longitude": "120.6404",
+      "county": "臺中市",
+      "intensity": "1",
+      "location_name": "大甲"
+    },
+    {
+      "latitude": "24.0566",
+      "longitude": "120.9117",
+      "county": "南投縣",
+      "intensity": "1",
+      "location_name": "國姓"
+    },
+    {
+      "latitude": "23.8766",
+      "longitude": "120.6925",
+      "county": "南投縣",
+      "intensity": "1",
+      "location_name": "名間"
+    },
+    {
+      "latitude": "24.6836",
+      "longitude": "120.8703",
+      "county": "苗栗縣",
+      "intensity": "1",
+      "location_name": "竹南"
+    },
+    {
+      "latitude": "24.4144",
+      "longitude": "120.7697",
+      "county": "苗栗縣",
+      "intensity": "1",
+      "location_name": "三義"
+    },
+    {
+      "latitude": "24.3465",
+      "longitude": "120.7809",
+      "county": "苗栗縣",
+      "intensity": "1",
+      "location_name": "鯉魚潭"
+    },
+    {
+      "latitude": "23.6844",
+      "longitude": "120.5703",
+      "county": "雲林縣",
+      "intensity": "1",
+      "location_name": "古坑"
+    },
+    {
+      "latitude": "23.8044",
+      "longitude": "120.2232",
+      "county": "雲林縣",
+      "intensity": "1",
+      "location_name": "麥寮"
+    },
+    {
+      "latitude": "23.6363",
+      "longitude": "120.2298",
+      "county": "雲林縣",
+      "intensity": "1",
+      "location_name": "四湖"
+    },
+    {
+      "latitude": "23.6876",
+      "longitude": "120.3886",
+      "county": "雲林縣",
+      "intensity": "1",
+      "location_name": "土庫"
+    }
+  ]
+}

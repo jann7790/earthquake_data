@@ -1,0 +1,36 @@
+{
+  "epicenter_lat": "24.662",
+  "epicenter_lon": "121.9472",
+  "magnitude": "4.1",
+  "max_intensity": "1",
+  "locations": [
+    {
+      "latitude": "24.4259",
+      "longitude": "121.749",
+      "county": "宜蘭縣",
+      "intensity": "1",
+      "location_name": "南澳"
+    },
+    {
+      "latitude": "24.6378",
+      "longitude": "121.5737",
+      "county": "宜蘭縣",
+      "intensity": "1",
+      "location_name": "牛鬥"
+    },
+    {
+      "latitude": "24.9997",
+      "longitude": "121.2976",
+      "county": "桃園市",
+      "intensity": "1",
+      "location_name": "桃園市"
+    },
+    {
+      "latitude": "24.2495",
+      "longitude": "121.1618",
+      "county": "臺中市",
+      "intensity": "1",
+      "location_name": "德基"
+    }
+  ]
+}

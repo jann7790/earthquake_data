@@ -1,0 +1,15 @@
+{
+  "epicenter_lat": "24.19",
+  "epicenter_lon": "121.1",
+  "magnitude": "2.6",
+  "max_intensity": "2",
+  "locations": [
+    {
+      "latitude": "24.2495",
+      "longitude": "121.1618",
+      "county": "臺中市",
+      "intensity": "2",
+      "location_name": "德基"
+    }
+  ]
+}

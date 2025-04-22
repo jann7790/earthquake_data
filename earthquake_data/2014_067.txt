@@ -1,0 +1,23 @@
+Origin Time:2014/05/16 04:21:52
+Lon:120.49E
+Lat:23.15N
+Depth:15.0km
+Mag:4.0
+Stacode=CHN1,Staname=罚﹁  ,Stalon=120.53,Stalat=23.19,Dist=   5.11,AZ=226.13,PGA(V)=   6.40,PGA(NS)=  22.25,PGA(EW)=  14.72
+Stacode=TWL ,Staname=狥  ,Stalon=120.50,Stalat=23.26,Dist=  12.31,AZ=184.67,PGA(V)=   1.91,PGA(NS)=   1.91,PGA(EW)=   4.19
+Stacode=SGS ,Staname=ヒ  ,Stalon=120.59,Stalat=23.08,Dist=  12.88,AZ=308.68,PGA(V)=   2.63,PGA(NS)=   8.26,PGA(EW)=  12.50
+Stacode=CHN3,Staname=穝て  ,Stalon=120.36,Stalat=23.08,Dist=  15.65,AZ= 56.75,PGA(V)=   8.31,PGA(NS)=  17.47,PGA(EW)=  14.12
+Stacode=WTP ,Staname=瓾  ,Stalon=120.62,Stalat=23.24,Dist=  16.66,AZ=232.91,PGA(V)=   1.32,PGA(NS)=   7.78,PGA(EW)=   9.57
+Stacode=SSH ,Staname=到て  ,Stalon=120.29,Stalat=23.14,Dist=  21.00,AZ= 84.92,PGA(V)=  10.47,PGA(NS)=   9.93,PGA(EW)=   7.06
+Stacode=CHN4,Staname=  ,Stalon=120.59,Stalat=23.35,Dist=  24.29,AZ=205.31,PGA(V)=   0.84,PGA(NS)=   1.38,PGA(EW)=   1.85
+Stacode=STY ,Staname=方  ,Stalon=120.77,Stalat=23.16,Dist=  28.00,AZ=268.25,PGA(V)=   1.97,PGA(NS)=   2.63,PGA(EW)=   1.68
+Stacode=TAI1,Staname=ッ眃  ,Stalon=120.24,Stalat=23.04,Dist=  29.13,AZ= 64.08,PGA(V)=   1.26,PGA(NS)=   1.26,PGA(EW)=   1.14
+Stacode=SCL ,Staname=ㄎń  ,Stalon=120.20,Stalat=23.17,Dist=  29.86,AZ= 94.36,PGA(V)=   3.47,PGA(NS)=   3.23,PGA(EW)=   3.77
+Stacode=TAI ,Staname=籓玭カ,Stalon=120.21,Stalat=22.99,Dist=  34.36,AZ= 59.00,PGA(V)=   1.32,PGA(NS)=   0.90,PGA(EW)=   0.78
+Stacode=CHY ,Staname=古竡カ,Stalon=120.43,Stalat=23.50,Dist=  38.47,AZ=170.85,PGA(V)=   0.60,PGA(NS)=   1.62,PGA(EW)=   1.44
+Stacode=SCK ,Staname=  ,Stalon=120.09,Stalat=23.15,Dist=  41.61,AZ= 89.05,PGA(V)=   1.44,PGA(NS)=   2.09,PGA(EW)=   1.74
+Stacode=CHN7,Staname=せ竲  ,Stalon=120.24,Stalat=23.48,Dist=  44.80,AZ=144.73,PGA(V)=   1.91,PGA(NS)=   1.85,PGA(EW)=   2.39
+Stacode=CHN5,Staname=拉  ,Stalon=120.68,Stalat=23.60,Dist=  52.71,AZ=201.00,PGA(V)=   0.36,PGA(NS)=   0.60,PGA(EW)=   0.90
+Stacode=WGK ,Staname=  ,Stalon=120.57,Stalat=23.68,Dist=  59.40,AZ=187.69,PGA(V)=   0.48,PGA(NS)=   0.90,PGA(EW)=   0.78
+Stacode=WSF ,Staname=打  ,Stalon=120.23,Stalat=23.64,Dist=  59.88,AZ=153.36,PGA(V)=   1.32,PGA(NS)=   2.51,PGA(EW)=   1.68
+Stacode=WCH ,Staname=裹てカ,Stalon=120.56,Stalat=24.08,Dist= 103.06,AZ=183.65,PGA(V)=   0.42,PGA(NS)=   0.90,PGA(EW)=   0.66

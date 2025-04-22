@@ -1,0 +1,50 @@
+{
+  "epicenter_lat": "22.82",
+  "epicenter_lon": "120.67",
+  "magnitude": "4.1",
+  "max_intensity": "2",
+  "locations": [
+    {
+      "latitude": "22.7443",
+      "longitude": "120.64",
+      "county": "屏東縣",
+      "intensity": "2",
+      "location_name": "三地門"
+    },
+    {
+      "latitude": "22.7234",
+      "longitude": "120.4987",
+      "county": "屏東縣",
+      "intensity": "1",
+      "location_name": "九如"
+    },
+    {
+      "latitude": "22.6767",
+      "longitude": "120.4961",
+      "county": "屏東縣",
+      "intensity": "1",
+      "location_name": "屏東市"
+    },
+    {
+      "latitude": "23.2438",
+      "longitude": "120.6223",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "大埔"
+    },
+    {
+      "latitude": "22.8174",
+      "longitude": "121.08",
+      "county": "臺東縣",
+      "intensity": "1",
+      "location_name": "卑南"
+    },
+    {
+      "latitude": "23.1743",
+      "longitude": "120.2018",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "佳里"
+    }
+  ]
+}

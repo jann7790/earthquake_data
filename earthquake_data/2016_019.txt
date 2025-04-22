@@ -1,0 +1,22 @@
+Origin Time:2016/03/01 22:42:13
+Lon:121.50°E
+Lat:24.08°N
+Depth:18.6km
+Mag:4.3
+Stacode=TWD ,Staname=秀林  ,Stalon=121.60,Stalat=24.08,Dist=  10.72,AZ=269.41,PGA(V)=  14.60,PGA(NS)=  14.36,PGA(EW)=  14.78
+Stacode=ETM ,Staname=銅門  ,Stalon=121.49,Stalat=23.97,Dist=  12.70,AZ=  3.00,PGA(V)=  21.89,PGA(NS)=  67.23,PGA(EW)=  58.74
+Stacode=EGA ,Staname=吉安  ,Stalon=121.56,Stalat=23.97,Dist=  13.49,AZ=331.46,PGA(V)=  18.01,PGA(NS)=  32.18,PGA(EW)=  43.79
+Stacode=ETL ,Staname=太魯閣,Stalon=121.62,Stalat=24.16,Dist=  15.27,AZ=235.43,PGA(V)=  10.41,PGA(NS)=  30.69,PGA(EW)=  16.99
+Stacode=HWA ,Staname=花蓮市,Stalon=121.61,Stalat=23.98,Dist=  16.42,AZ=314.99,PGA(V)=  21.06,PGA(NS)=  57.30,PGA(EW)=  39.06
+Stacode=EYL ,Staname=鹽寮  ,Stalon=121.60,Stalat=23.90,Dist=  22.14,AZ=331.86,PGA(V)=   4.67,PGA(NS)=   6.10,PGA(EW)=   6.40
+Stacode=ESF ,Staname=壽豐  ,Stalon=121.51,Stalat=23.87,Dist=  23.19,AZ=358.00,PGA(V)=   8.73,PGA(NS)=  22.25,PGA(EW)=  21.77
+Stacode=WHF ,Staname=合歡山,Stalon=121.27,Stalat=24.14,Dist=  24.11,AZ=106.96,PGA(V)=   4.19,PGA(NS)=   7.06,PGA(EW)=   9.21
+Stacode=ESL ,Staname=西林  ,Stalon=121.44,Stalat=23.81,Dist=  30.28,AZ= 11.21,PGA(V)=   4.37,PGA(NS)=  15.55,PGA(EW)=  18.48
+Stacode=EHP ,Staname=和平  ,Stalon=121.75,Stalat=24.31,Dist=  35.75,AZ=225.19,PGA(V)=   3.71,PGA(NS)=   4.55,PGA(EW)=   4.85
+Stacode=TWT ,Staname=德基  ,Stalon=121.16,Stalat=24.25,Dist=  39.10,AZ=118.60,PGA(V)=   1.02,PGA(NS)=   3.47,PGA(EW)=   2.09
+Stacode=NNS ,Staname=南山  ,Stalon=121.38,Stalat=24.44,Dist=  41.37,AZ=163.16,PGA(V)=   1.74,PGA(NS)=   6.88,PGA(EW)=   7.18
+Stacode=EGC ,Staname=磯崎  ,Stalon=121.55,Stalat=23.71,Dist=  41.51,AZ=353.22,PGA(V)=   0.72,PGA(NS)=   1.32,PGA(EW)=   1.02
+Stacode=EGF ,Staname=光復  ,Stalon=121.48,Stalat=23.68,Dist=  43.84,AZ=  2.24,PGA(V)=   1.38,PGA(NS)=   3.05,PGA(EW)=   3.41
+Stacode=ENA ,Staname=南澳  ,Stalon=121.75,Stalat=24.43,Dist=  45.93,AZ=213.50,PGA(V)=   1.56,PGA(NS)=   6.16,PGA(EW)=   7.00
+Stacode=ENT ,Staname=牛鬥  ,Stalon=121.57,Stalat=24.64,Dist=  62.19,AZ=186.97,PGA(V)=   0.30,PGA(NS)=   0.96,PGA(EW)=   0.78
+Stacode=EHY ,Staname=紅葉  ,Stalon=121.33,Stalat=23.50,Dist=  66.16,AZ= 15.30,PGA(V)=   0.66,PGA(NS)=   1.08,PGA(EW)=   1.26

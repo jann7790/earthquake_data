@@ -1,0 +1,11 @@
+Origin Time:2014/07/22 10:30:51
+Lon:120.48°E
+Lat:23.39°N
+Depth:8.0km
+Mag:3.5
+Stacode=CHY ,Staname=嘉義市,Stalon=120.43,Stalat=23.50,Dist=  12.66,AZ=158.72,PGA(V)=   4.19,PGA(NS)=   9.21,PGA(EW)=   5.56
+Stacode=WTP ,Staname=大埔  ,Stalon=120.62,Stalat=23.24,Dist=  21.90,AZ=317.51,PGA(V)=   0.30,PGA(NS)=   1.26,PGA(EW)=   0.96
+Stacode=CHN1,Staname=楠西  ,Stalon=120.53,Stalat=23.19,Dist=  23.24,AZ=347.07,PGA(V)=   1.20,PGA(NS)=   1.79,PGA(EW)=   0.72
+Stacode=SSH ,Staname=善化  ,Stalon=120.29,Stalat=23.14,Dist=  34.10,AZ= 34.64,PGA(V)=   0.66,PGA(NS)=   0.66,PGA(EW)=   0.96
+Stacode=SCL ,Staname=佳里  ,Stalon=120.20,Stalat=23.17,Dist=  37.00,AZ= 49.72,PGA(V)=   0.66,PGA(NS)=   1.74,PGA(EW)=   1.62
+Stacode=WSF ,Staname=四湖  ,Stalon=120.23,Stalat=23.64,Dist=  37.25,AZ=137.20,PGA(V)=   0.54,PGA(NS)=   1.50,PGA(EW)=   0.90

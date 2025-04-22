@@ -1,0 +1,50 @@
+{
+  "epicenter_lat": "23.8993",
+  "epicenter_lon": "120.6423",
+  "magnitude": "3",
+  "max_intensity": "1",
+  "locations": [
+    {
+      "latitude": "23.7889",
+      "longitude": "120.4862",
+      "county": "雲林縣",
+      "intensity": "1",
+      "location_name": "西螺"
+    },
+    {
+      "latitude": "24.0552",
+      "longitude": "120.4303",
+      "county": "彰化縣",
+      "intensity": "1",
+      "location_name": "鹿港"
+    },
+    {
+      "latitude": "24.0794",
+      "longitude": "120.5583",
+      "county": "彰化縣",
+      "intensity": "1",
+      "location_name": "彰化市"
+    },
+    {
+      "latitude": "23.9026",
+      "longitude": "120.3781",
+      "county": "彰化縣",
+      "intensity": "1",
+      "location_name": "二林"
+    },
+    {
+      "latitude": "23.9605",
+      "longitude": "120.5799",
+      "county": "彰化縣",
+      "intensity": "1",
+      "location_name": "員林"
+    },
+    {
+      "latitude": "24.2566",
+      "longitude": "120.5234",
+      "county": "臺中市",
+      "intensity": "1",
+      "location_name": "梧棲"
+    }
+  ]
+}

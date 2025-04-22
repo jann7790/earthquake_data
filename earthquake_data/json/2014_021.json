@@ -1,0 +1,98 @@
+{
+  "earthquake_id": "021",
+  "timestamp": "2014-02-07T01:48:09",
+  "latitude": 24.7,
+  "longitude": 121.82,
+  "depth_km": 72.5,
+  "magnitude": 3.8,
+  "stations": [
+    {
+      "Stacode": "NLD",
+      "Staname": "羅東",
+      "Stalon": 121.77,
+      "Stalat": 24.67,
+      "Dist": 5.4,
+      "AZ": 55.35,
+      "PGA(V)": 0.6,
+      "PGA(NS)": 1.38,
+      "PGA(EW)": 1.08
+    },
+    {
+      "Stacode": "ILA",
+      "Staname": "宜蘭市",
+      "Stalon": 121.76,
+      "Stalat": 24.76,
+      "Dist": 9.24,
+      "AZ": 138.54,
+      "PGA(V)": 0.42,
+      "PGA(NS)": 1.2,
+      "PGA(EW)": 0.66
+    },
+    {
+      "Stacode": "TWC",
+      "Staname": "蘇澳",
+      "Stalon": 121.86,
+      "Stalat": 24.61,
+      "Dist": 11.16,
+      "AZ": 337.13,
+      "PGA(V)": 0.3,
+      "PGA(NS)": 1.02,
+      "PGA(EW)": 0.84
+    },
+    {
+      "Stacode": "ENT",
+      "Staname": "牛鬥",
+      "Stalon": 121.57,
+      "Stalat": 24.64,
+      "Dist": 25.58,
+      "AZ": 73.99,
+      "PGA(V)": 0.42,
+      "PGA(NS)": 1.2,
+      "PGA(EW)": 0.78
+    },
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 45.19,
+      "AZ": 146.4,
+      "PGA(V)": 2.45,
+      "PGA(NS)": 0.66,
+      "PGA(EW)": 0.72
+    },
+    {
+      "Stacode": "TAP",
+      "Staname": "臺北市",
+      "Stalon": 121.51,
+      "Stalat": 25.04,
+      "Dist": 48.2,
+      "AZ": 140.61,
+      "PGA(V)": 1.32,
+      "PGA(NS)": 0.3,
+      "PGA(EW)": 0.18
+    },
+    {
+      "Stacode": "BAC",
+      "Staname": "新北市",
+      "Stalon": 121.44,
+      "Stalat": 25.0,
+      "Dist": 50.14,
+      "AZ": 130.92,
+      "PGA(V)": 1.14,
+      "PGA(NS)": 0.48,
+      "PGA(EW)": 0.72
+    },
+    {
+      "Stacode": "ETL",
+      "Staname": "太魯閣",
+      "Stalon": 121.62,
+      "Stalat": 24.16,
+      "Dist": 63.25,
+      "AZ": 18.09,
+      "PGA(V)": 0.6,
+      "PGA(NS)": 0.9,
+      "PGA(EW)": 0.78
+    }
+  ]
+}

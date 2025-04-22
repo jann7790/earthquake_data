@@ -1,0 +1,218 @@
+{
+  "epicenter_lat": "22.4255",
+  "epicenter_lon": "121.04",
+  "magnitude": "4.9",
+  "max_intensity": "3",
+  "locations": [
+    {
+      "latitude": "22.382",
+      "longitude": "120.8564",
+      "county": "臺東縣",
+      "intensity": "3",
+      "location_name": "達仁"
+    },
+    {
+      "latitude": "22.3559",
+      "longitude": "120.9036",
+      "county": "臺東縣",
+      "intensity": "3",
+      "location_name": "大武"
+    },
+    {
+      "latitude": "22.7525",
+      "longitude": "121.1552",
+      "county": "臺東縣",
+      "intensity": "2",
+      "location_name": "臺東市"
+    },
+    {
+      "latitude": "22.6733",
+      "longitude": "121.4693",
+      "county": "臺東縣",
+      "intensity": "2",
+      "location_name": "綠島"
+    },
+    {
+      "latitude": "22.5957",
+      "longitude": "120.9617",
+      "county": "臺東縣",
+      "intensity": "2",
+      "location_name": "太麻里"
+    },
+    {
+      "latitude": "22.9725",
+      "longitude": "121.3039",
+      "county": "臺東縣",
+      "intensity": "1",
+      "location_name": "東河"
+    },
+    {
+      "latitude": "22.0373",
+      "longitude": "121.5581",
+      "county": "臺東縣",
+      "intensity": "1",
+      "location_name": "蘭嶼"
+    },
+    {
+      "latitude": "22.9063",
+      "longitude": "121.1305",
+      "county": "臺東縣",
+      "intensity": "1",
+      "location_name": "鹿野"
+    },
+    {
+      "latitude": "22.8174",
+      "longitude": "121.08",
+      "county": "臺東縣",
+      "intensity": "1",
+      "location_name": "卑南"
+    },
+    {
+      "latitude": "23.0978",
+      "longitude": "121.3731",
+      "county": "臺東縣",
+      "intensity": "1",
+      "location_name": "成功"
+    },
+    {
+      "latitude": "22.0038",
+      "longitude": "120.746",
+      "county": "屏東縣",
+      "intensity": "2",
+      "location_name": "恆春"
+    },
+    {
+      "latitude": "21.9009",
+      "longitude": "120.8551",
+      "county": "屏東縣",
+      "intensity": "2",
+      "location_name": "鵝鑾鼻"
+    },
+    {
+      "latitude": "22.2162",
+      "longitude": "120.7989",
+      "county": "屏東縣",
+      "intensity": "2",
+      "location_name": "獅子"
+    },
+    {
+      "latitude": "22.0205",
+      "longitude": "120.8372",
+      "county": "屏東縣",
+      "intensity": "2",
+      "location_name": "滿州"
+    },
+    {
+      "latitude": "21.9598",
+      "longitude": "120.7496",
+      "county": "屏東縣",
+      "intensity": "1",
+      "location_name": "南灣"
+    },
+    {
+      "latitude": "22.6767",
+      "longitude": "120.4961",
+      "county": "屏東縣",
+      "intensity": "1",
+      "location_name": "屏東市"
+    },
+    {
+      "latitude": "22.7443",
+      "longitude": "120.64",
+      "county": "屏東縣",
+      "intensity": "1",
+      "location_name": "三地門"
+    },
+    {
+      "latitude": "22.4835",
+      "longitude": "120.5681",
+      "county": "屏東縣",
+      "intensity": "1",
+      "location_name": "新埤"
+    },
+    {
+      "latitude": "22.3467",
+      "longitude": "120.3691",
+      "county": "屏東縣",
+      "intensity": "1",
+      "location_name": "小琉球"
+    },
+    {
+      "latitude": "22.7054",
+      "longitude": "120.6447",
+      "county": "屏東縣",
+      "intensity": "1",
+      "location_name": "瑪家"
+    },
+    {
+      "latitude": "22.3703",
+      "longitude": "120.6282",
+      "county": "屏東縣",
+      "intensity": "1",
+      "location_name": "春日"
+    },
+    {
+      "latitude": "22.8855",
+      "longitude": "120.4938",
+      "county": "高雄市",
+      "intensity": "1",
+      "location_name": "旗山"
+    },
+    {
+      "latitude": "22.7533",
+      "longitude": "120.3352",
+      "county": "高雄市",
+      "intensity": "1",
+      "location_name": "楠梓"
+    },
+    {
+      "latitude": "23.5972",
+      "longitude": "120.6769",
+      "county": "雲林縣",
+      "intensity": "1",
+      "location_name": "草嶺"
+    },
+    {
+      "latitude": "23.6844",
+      "longitude": "120.5703",
+      "county": "雲林縣",
+      "intensity": "1",
+      "location_name": "古坑"
+    },
+    {
+      "latitude": "23.5319",
+      "longitude": "120.4744",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "民雄"
+    },
+    {
+      "latitude": "23.4385",
+      "longitude": "120.6047",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "番路"
+    },
+    {
+      "latitude": "23.1849",
+      "longitude": "120.5286",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "楠西"
+    },
+    {
+      "latitude": "23.0213",
+      "longitude": "120.3479",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "新化"
+    },
+    {
+      "latitude": "22.9932",
+      "longitude": "120.2047",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "臺南市"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "epicenter_lat": "24.22",
+  "epicenter_lon": "120.74",
+  "magnitude": "3",
+  "max_intensity": "1",
+  "locations": [
+    {
+      "latitude": "24.0566",
+      "longitude": "120.9117",
+      "county": "南投縣",
+      "intensity": "1",
+      "location_name": "國姓"
+    },
+    {
+      "latitude": "24.4144",
+      "longitude": "120.7697",
+      "county": "苗栗縣",
+      "intensity": "1",
+      "location_name": "三義"
+    },
+    {
+      "latitude": "24.0794",
+      "longitude": "120.5583",
+      "county": "彰化縣",
+      "intensity": "1",
+      "location_name": "彰化市"
+    },
+    {
+      "latitude": "24.2777",
+      "longitude": "120.9458",
+      "county": "臺中市",
+      "intensity": "1",
+      "location_name": "烏石坑"
+    }
+  ]
+}

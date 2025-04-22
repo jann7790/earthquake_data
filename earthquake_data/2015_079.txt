@@ -1,0 +1,21 @@
+Origin Time:2015/10/21 09:14:32
+Lon:121.01°E
+Lat:22.55°N
+Depth:9.4km
+Mag:4.5
+Stacode=ECL ,Staname=太麻里,Stalon=120.96,Stalat=22.60,Dist=   7.06,AZ=140.98,PGA(V)=  38.40,PGA(NS)=  49.71,PGA(EW)=  58.98
+Stacode=TAW ,Staname=大武  ,Stalon=120.90,Stalat=22.36,Dist=  23.56,AZ= 26.32,PGA(V)=   3.11,PGA(NS)=   7.24,PGA(EW)=   7.12
+Stacode=EAS ,Staname=安朔  ,Stalon=120.86,Stalat=22.38,Dist=  23.82,AZ= 39.82,PGA(V)=   3.59,PGA(NS)=   5.68,PGA(EW)=   6.94
+Stacode=TTN ,Staname=臺東市,Stalon=121.15,Stalat=22.75,Dist=  27.49,AZ=214.04,PGA(V)=   1.38,PGA(NS)=   3.05,PGA(EW)=   3.23
+Stacode=TWG ,Staname=卑南  ,Stalon=121.08,Stalat=22.82,Dist=  31.00,AZ=194.39,PGA(V)=   2.33,PGA(NS)=   2.33,PGA(EW)=   3.89
+Stacode=ECU ,Staname=初鹿  ,Stalon=121.09,Stalat=22.86,Dist=  35.81,AZ=194.40,PGA(V)=   1.32,PGA(NS)=   1.32,PGA(EW)=   1.97
+Stacode=SCZ ,Staname=枋寮  ,Stalon=120.63,Stalat=22.37,Dist=  43.41,AZ= 63.29,PGA(V)=   0.30,PGA(NS)=   0.96,PGA(EW)=   0.78
+Stacode=SSD ,Staname=三地門,Stalon=120.64,Stalat=22.74,Dist=  43.42,AZ=120.30,PGA(V)=   2.15,PGA(NS)=   4.31,PGA(EW)=   3.17
+Stacode=LDU ,Staname=綠島  ,Stalon=121.47,Stalat=22.67,Dist=  49.75,AZ=253.61,PGA(V)=   0.60,PGA(NS)=   1.79,PGA(EW)=   0.96
+Stacode=SGL ,Staname=九如  ,Stalon=120.50,Stalat=22.72,Dist=  55.63,AZ=110.65,PGA(V)=   0.66,PGA(NS)=   1.97,PGA(EW)=   1.14
+Stacode=EDH ,Staname=東河  ,Stalon=121.30,Stalat=22.97,Dist=  56.26,AZ=213.18,PGA(V)=   0.48,PGA(NS)=   1.02,PGA(EW)=   0.90
+Stacode=TWM1,Staname=旗山  ,Stalon=120.43,Stalat=22.82,Dist=  66.40,AZ=117.30,PGA(V)=   0.24,PGA(NS)=   0.60,PGA(EW)=   0.90
+Stacode=KAU ,Staname=高雄市,Stalon=120.32,Stalat=22.57,Dist=  70.91,AZ= 91.76,PGA(V)=   0.66,PGA(NS)=   1.44,PGA(EW)=   1.02
+Stacode=LAY ,Staname=蘭嶼  ,Stalon=121.56,Stalat=22.04,Dist=  80.17,AZ=314.69,PGA(V)=   0.24,PGA(NS)=   0.90,PGA(EW)=   0.78
+Stacode=CHN1,Staname=楠西  ,Stalon=120.53,Stalat=23.19,Dist=  85.96,AZ=145.34,PGA(V)=   0.54,PGA(NS)=   0.90,PGA(EW)=   0.36
+Stacode=TAI ,Staname=臺南市,Stalon=120.21,Stalat=22.99,Dist=  95.89,AZ=121.06,PGA(V)=   0.72,PGA(NS)=   0.96,PGA(EW)=   1.08

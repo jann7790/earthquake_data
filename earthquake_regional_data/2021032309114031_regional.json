@@ -1,0 +1,29 @@
+{
+  "epicenter_lat": "23.35",
+  "epicenter_lon": "120.26",
+  "magnitude": "3.1",
+  "max_intensity": "4",
+  "locations": [
+    {
+      "latitude": "23.3606",
+      "longitude": "120.2794",
+      "county": "嘉義縣",
+      "intensity": "4",
+      "location_name": "義竹"
+    },
+    {
+      "latitude": "23.1361",
+      "longitude": "120.2882",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "善化"
+    },
+    {
+      "latitude": "23.5226",
+      "longitude": "120.2278",
+      "county": "雲林縣",
+      "intensity": "1",
+      "location_name": "水林"
+    }
+  ]
+}

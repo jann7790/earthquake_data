@@ -1,0 +1,20 @@
+Origin Time:2018/02/07 00:26:45
+Lon:121.61°E
+Lat:23.99°N
+Depth:6.9km
+Mag:4.3
+Stacode=HWA ,Staname=花蓮市,Stalon=121.61,Stalat=23.98,Dist=   2.22,AZ=348.10,PGA(V)=   8.73,PGA(NS)=  39.42,PGA(EW)=  19.80
+Stacode=EGA ,Staname=吉安  ,Stalon=121.56,Stalat=23.97,Dist=   5.30,AZ= 62.83,PGA(V)=   9.27,PGA(NS)=  16.63,PGA(EW)=  25.78
+Stacode=EYL ,Staname=鹽寮  ,Stalon=121.60,Stalat=23.90,Dist=  10.12,AZ=  4.04,PGA(V)=   7.00,PGA(NS)=  18.48,PGA(EW)=  14.72
+Stacode=ETM ,Staname=銅門  ,Stalon=121.49,Stalat=23.97,Dist=  12.26,AZ= 74.64,PGA(V)=  21.77,PGA(NS)=  36.19,PGA(EW)=  35.65
+Stacode=ETL ,Staname=太魯閣,Stalon=121.62,Stalat=24.16,Dist=  18.15,AZ=184.50,PGA(V)=   6.04,PGA(NS)=  13.70,PGA(EW)=   7.48
+Stacode=ESL ,Staname=西林  ,Stalon=121.44,Stalat=23.81,Dist=  26.49,AZ= 40.07,PGA(V)=   1.38,PGA(NS)=   4.97,PGA(EW)=   4.19
+Stacode=EGC ,Staname=磯崎  ,Stalon=121.55,Stalat=23.71,Dist=  32.40,AZ= 11.15,PGA(V)=   1.32,PGA(NS)=   2.39,PGA(EW)=   1.62
+Stacode=EGF ,Staname=光復  ,Stalon=121.48,Stalat=23.68,Dist=  36.71,AZ= 20.55,PGA(V)=   0.66,PGA(NS)=   1.14,PGA(EW)=   1.26
+Stacode=EHP ,Staname=和平  ,Stalon=121.75,Stalat=24.31,Dist=  37.44,AZ=202.33,PGA(V)=   1.91,PGA(NS)=   1.68,PGA(EW)=   2.21
+Stacode=WHF ,Staname=合歡山,Stalon=121.27,Stalat=24.14,Dist=  37.97,AZ=115.70,PGA(V)=   2.39,PGA(NS)=   5.14,PGA(EW)=   5.56
+Stacode=ENA ,Staname=南澳  ,Stalon=121.75,Stalat=24.43,Dist=  49.81,AZ=196.59,PGA(V)=   0.96,PGA(NS)=   2.57,PGA(EW)=   3.23
+Stacode=TWT ,Staname=德基  ,Stalon=121.16,Stalat=24.25,Dist=  53.49,AZ=121.75,PGA(V)=   0.42,PGA(NS)=   1.20,PGA(EW)=   0.84
+Stacode=NNS ,Staname=南山  ,Stalon=121.38,Stalat=24.44,Dist=  54.21,AZ=154.75,PGA(V)=   0.54,PGA(NS)=   2.03,PGA(EW)=   1.38
+Stacode=ENT ,Staname=牛鬥  ,Stalon=121.57,Stalat=24.64,Dist=  71.25,AZ=177.12,PGA(V)=   0.24,PGA(NS)=   1.20,PGA(EW)=   1.20
+Stacode=NLD ,Staname=羅東  ,Stalon=121.77,Stalat=24.67,Dist=  76.96,AZ=192.47,PGA(V)=   0.36,PGA(NS)=   0.90,PGA(EW)=   0.66

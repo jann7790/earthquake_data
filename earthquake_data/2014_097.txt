@@ -1,0 +1,10 @@
+Origin Time:2014/07/26 00:43:59
+Lon:122.01°E
+Lat:24.87°N
+Depth:101.0km
+Mag:4.0
+Stacode=NHY ,Staname=信義區,Stalon=121.57,Stalat=25.04,Dist=  48.63,AZ=112.28,PGA(V)=   1.02,PGA(NS)=   0.18,PGA(EW)=   0.30
+Stacode=ENT ,Staname=牛鬥  ,Stalon=121.57,Stalat=24.64,Dist=  51.77,AZ= 59.52,PGA(V)=   0.48,PGA(NS)=   1.44,PGA(EW)=   1.32
+Stacode=ENA ,Staname=南澳  ,Stalon=121.75,Stalat=24.43,Dist=  56.50,AZ= 28.44,PGA(V)=   0.42,PGA(NS)=   1.14,PGA(EW)=   1.32
+Stacode=BAC ,Staname=新北市,Stalon=121.44,Stalat=25.00,Dist=  59.46,AZ=103.26,PGA(V)=   0.54,PGA(NS)=   0.78,PGA(EW)=   0.84
+Stacode=NJD ,Staname=竹東  ,Stalon=121.09,Stalat=24.74,Dist=  94.94,AZ= 80.70,PGA(V)=   0.54,PGA(NS)=   1.08,PGA(EW)=   0.48

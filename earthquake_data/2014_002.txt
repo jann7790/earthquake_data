@@ -1,0 +1,7 @@
+Origin Time:2014/01/02 19:46:45
+Lon:121.57°E
+Lat:25.06°N
+Depth:9.8km
+Mag:2.5
+Stacode=NHY ,Staname=信義區,Stalon=121.57,Stalat=25.04,Dist=   2.21,AZ=  8.69,PGA(V)=   1.02,PGA(NS)=   1.14,PGA(EW)=   0.54
+Stacode=TAP ,Staname=臺北市,Stalon=121.51,Stalat=25.04,Dist=   6.44,AZ= 66.48,PGA(V)=   0.66,PGA(NS)=   0.90,PGA(EW)=   0.36

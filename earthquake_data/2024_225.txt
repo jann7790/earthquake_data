@@ -1,0 +1,8 @@
+Origin Time:2024/04/22 18:46:11
+Lon:121.53¢XE
+Lat:23.74¢XN
+Depth:9.6km
+Mag:4.8
+Stacode=EGC ,Staname=ÁF±T  ,Stalon=121.55,Stalat=23.71,Dist=   4.36,BAZ=335.18,PGA(V)=  35.79,PGA(NS)= 331.34,PGA(EW)=  55.31,PGV(V)=   6.49,PGV(NS)=   9.67,PGV(EW)=   2.80,Int= 4¯Å,PGA(SUM)= 227.99,PGV(SUM)=  10.57
+Stacode=SHUL,Staname=¤ôæ£  ,Stalon=121.56,Stalat=23.79,Dist=   5.92,BAZ=214.64,PGA(V)=  45.80,PGA(NS)= 106.06,PGA(EW)=  78.68,PGV(V)=   0.99,PGV(NS)=   3.63,PGV(EW)=   4.55,Int= 4¯Å,PGA(SUM)= 108.28,PGV(SUM)=   5.27
+Stacode=EYL ,Staname=ÆQ¼d  ,Stalon=121.60,Stalat=23.90,Dist=  19.18,BAZ=202.50,PGA(V)=  33.65,PGA(NS)=  62.87,PGA(EW)=  84.05,PGV(V)=   1.17,PGV(NS)=   3.04,PGV(EW)=   3.78,Int= 4¯Å,PGA(SUM)=  88.55,PGV(SUM)=   3.98

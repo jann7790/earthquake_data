@@ -1,0 +1,22 @@
+{
+  "epicenter_lat": "22.68",
+  "epicenter_lon": "119.79",
+  "magnitude": "4",
+  "max_intensity": "2",
+  "locations": [
+    {
+      "latitude": "22.9932",
+      "longitude": "120.2047",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "臺南市"
+    },
+    {
+      "latitude": "22.3467",
+      "longitude": "120.3691",
+      "county": "屏東縣",
+      "intensity": "1",
+      "location_name": "小琉球"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "epicenter_lat": "22.93",
+  "epicenter_lon": "120.16",
+  "magnitude": "2.1",
+  "max_intensity": "2",
+  "locations": [
+    {
+      "latitude": "22.9932",
+      "longitude": "120.2047",
+      "county": "臺南市",
+      "intensity": "2",
+      "location_name": "臺南市"
+    }
+  ]
+}

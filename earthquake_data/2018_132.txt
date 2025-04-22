@@ -1,0 +1,36 @@
+Origin Time:2018/12/09 00:07:07
+Lon:120.71°E
+Lat:23.62°N
+Depth:15.8km
+Mag:4.2
+Stacode=WGK ,Staname=古坑  ,Stalon=120.57,Stalat=23.68,Dist=  16.41,AZ=116.19,PGA(V)=  10.07,PGA(NS)=  28.48,PGA(EW)=  20.35
+Stacode=WHY ,Staname=信義鄉,Stalon=120.85,Stalat=23.70,Dist=  16.51,AZ=238.86,PGA(V)=   5.14,PGA(NS)=  17.66,PGA(EW)=   8.34
+Stacode=WJS ,Staname=竹山  ,Stalon=120.73,Stalat=23.82,Dist=  22.51,AZ=183.44,PGA(V)=   1.79,PGA(NS)=   1.97,PGA(EW)=   3.55
+Stacode=WCKO,Staname=番路  ,Stalon=120.60,Stalat=23.44,Dist=  22.93,AZ= 29.32,PGA(V)=   4.32,PGA(NS)=   9.45,PGA(EW)=   8.25
+Stacode=CHN2,Staname=民雄  ,Stalon=120.47,Stalat=23.53,Dist=  26.35,AZ= 68.53,PGA(V)=   3.59,PGA(NS)=   7.43,PGA(EW)=   4.68
+Stacode=WNT ,Staname=名間  ,Stalon=120.69,Stalat=23.88,Dist=  28.63,AZ=175.47,PGA(V)=   5.46,PGA(NS)=   6.23,PGA(EW)=  11.07
+Stacode=CHY ,Staname=嘉義市,Stalon=120.43,Stalat=23.50,Dist=  31.85,AZ= 64.74,PGA(V)=   2.33,PGA(NS)=  11.81,PGA(EW)=   6.04
+Stacode=WNT1,Staname=南投市,Stalon=120.68,Stalat=23.91,Dist=  32.07,AZ=173.64,PGA(V)=   3.28,PGA(NS)=   1.05,PGA(EW)=   1.63
+Stacode=WTK ,Staname=土庫  ,Stalon=120.39,Stalat=23.69,Dist=  34.12,AZ=102.88,PGA(V)=   7.37,PGA(NS)=   2.76,PGA(EW)=   2.00
+Stacode=SML ,Staname=日月潭,Stalon=120.91,Stalat=23.88,Dist=  35.12,AZ=214.19,PGA(V)=   0.43,PGA(NS)=   0.40,PGA(EW)=   0.85
+Stacode=WYL ,Staname=員林  ,Stalon=120.58,Stalat=23.96,Dist=  40.22,AZ=160.07,PGA(V)=   4.34,PGA(NS)=   7.61,PGA(EW)=   4.13
+Stacode=WTP ,Staname=大埔  ,Stalon=120.62,Stalat=23.24,Dist=  42.61,AZ= 12.80,PGA(V)=   0.24,PGA(NS)=   0.78,PGA(EW)=   1.38
+Stacode=WRL ,Staname=二林  ,Stalon=120.38,Stalat=23.90,Dist=  46.51,AZ=132.48,PGA(V)=   3.62,PGA(NS)=   3.18,PGA(EW)=   2.70
+Stacode=WWF ,Staname=霧峰  ,Stalon=120.70,Stalat=24.04,Dist=  46.96,AZ=177.97,PGA(V)=   2.20,PGA(NS)=   2.09,PGA(EW)=   3.95
+Stacode=STYH,Staname=桃源  ,Stalon=120.78,Stalat=23.18,Dist=  49.16,AZ=352.06,PGA(V)=   0.61,PGA(NS)=   0.89,PGA(EW)=   1.10
+Stacode=WSF ,Staname=四湖  ,Stalon=120.23,Stalat=23.64,Dist=  49.51,AZ= 92.23,PGA(V)=   1.16,PGA(NS)=   2.78,PGA(EW)=   1.16
+Stacode=WSL ,Staname=水林  ,Stalon=120.23,Stalat=23.52,Dist=  50.83,AZ= 77.88,PGA(V)=   1.19,PGA(NS)=   3.88,PGA(EW)=   3.84
+Stacode=WTC ,Staname=大城  ,Stalon=120.29,Stalat=23.86,Dist=  51.03,AZ=121.79,PGA(V)=   1.92,PGA(NS)=   1.81,PGA(EW)=   2.45
+Stacode=WCS ,Staname=國姓  ,Stalon=120.91,Stalat=24.06,Dist=  52.45,AZ=202.49,PGA(V)=   0.88,PGA(NS)=   1.16,PGA(EW)=   0.83
+Stacode=ICHU,Staname=義竹  ,Stalon=120.28,Stalat=23.36,Dist=  52.88,AZ= 57.24,PGA(V)=   1.13,PGA(NS)=   1.98,PGA(EW)=   2.46
+Stacode=TCU ,Staname=臺中市,Stalon=120.68,Stalat=24.15,Dist=  58.42,AZ=176.95,PGA(V)=   0.43,PGA(NS)=   0.94,PGA(EW)=   0.85
+Stacode=OWD ,Staname=奧萬大,Stalon=121.18,Stalat=23.95,Dist=  59.92,AZ=231.67,PGA(V)=   1.73,PGA(NS)=   1.54,PGA(EW)=   1.83
+Stacode=SSH ,Staname=善化  ,Stalon=120.29,Stalat=23.14,Dist=  69.02,AZ= 39.19,PGA(V)=   0.80,PGA(NS)=   1.21,PGA(EW)=   1.46
+Stacode=SCL ,Staname=佳里  ,Stalon=120.20,Stalat=23.17,Dist=  71.99,AZ= 46.74,PGA(V)=   0.95,PGA(NS)=   1.97,PGA(EW)=   2.23
+Stacode=WHP ,Staname=烏石坑,Stalon=120.95,Stalat=24.28,Dist=  76.65,AZ=197.87,PGA(V)=   0.67,PGA(NS)=   1.04,PGA(EW)=   1.17
+Stacode=TWQ1,Staname=鯉魚潭,Stalon=120.77,Stalat=24.35,Dist=  80.79,AZ=184.23,PGA(V)=   0.32,PGA(NS)=   0.83,PGA(EW)=   0.70
+Stacode=TAI1,Staname=永康  ,Stalon=120.24,Stalat=23.04,Dist=  80.83,AZ= 37.23,PGA(V)=   0.47,PGA(NS)=   1.14,PGA(EW)=   0.78
+Stacode=WDJ ,Staname=大甲  ,Stalon=120.64,Stalat=24.35,Dist=  81.07,AZ=174.64,PGA(V)=   0.33,PGA(NS)=   0.63,PGA(EW)=   0.84
+Stacode=SCK ,Staname=七股  ,Stalon=120.09,Stalat=23.15,Dist=  82.82,AZ= 50.83,PGA(V)=   0.76,PGA(NS)=   2.90,PGA(EW)=   2.42
+Stacode=HWA ,Staname=花蓮市,Stalon=121.61,Stalat=23.98,Dist=  99.72,AZ=246.70,PGA(V)=   0.16,PGA(NS)=   0.68,PGA(EW)=   0.87
+Stacode=PNG ,Staname=馬公市,Stalon=119.56,Stalat=23.57,Dist= 117.62,AZ= 87.10,PGA(V)=   0.28,PGA(NS)=   2.22,PGA(EW)=   1.39

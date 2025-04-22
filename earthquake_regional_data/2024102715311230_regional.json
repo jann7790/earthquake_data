@@ -1,0 +1,36 @@
+{
+  "epicenter_lat": "23.4247",
+  "epicenter_lon": "120.4837",
+  "magnitude": "3",
+  "max_intensity": "2",
+  "locations": [
+    {
+      "latitude": "23.4963",
+      "longitude": "120.4327",
+      "county": "嘉義市",
+      "intensity": "2",
+      "location_name": "嘉義市"
+    },
+    {
+      "latitude": "23.3526",
+      "longitude": "120.4144",
+      "county": "臺南市",
+      "intensity": "2",
+      "location_name": "白河"
+    },
+    {
+      "latitude": "23.5319",
+      "longitude": "120.4744",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "民雄"
+    },
+    {
+      "latitude": "23.4385",
+      "longitude": "120.6047",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "番路"
+    }
+  ]
+}

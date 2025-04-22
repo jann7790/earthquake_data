@@ -1,0 +1,26 @@
+Origin Time:2018/10/10 17:43:11
+Lon:122.04°E
+Lat:24.91°N
+Depth:14.5km
+Mag:4.5
+Stacode=EGS ,Staname=龜山島,Stalon=121.94,Stalat=24.84,Dist=  12.12,AZ= 55.30,PGA(V)=   2.36,PGA(NS)=   4.78,PGA(EW)=   4.20
+Stacode=TWB1,Staname=三貂角,Stalon=122.00,Stalat=25.01,Dist=  12.16,AZ=157.99,PGA(V)=   8.37,PGA(NS)=  10.21,PGA(EW)=  11.58
+Stacode=NTC ,Staname=頭城  ,Stalon=121.83,Stalat=24.85,Dist=  22.20,AZ= 75.38,PGA(V)=   5.20,PGA(NS)=   8.32,PGA(EW)=   7.39
+Stacode=TIPB,Staname=雙溪  ,Stalon=121.83,Stalat=24.97,Dist=  23.11,AZ=108.70,PGA(V)=   1.62,PGA(NS)=   2.68,PGA(EW)=   3.38
+Stacode=ILA ,Staname=宜蘭市,Stalon=121.76,Stalat=24.76,Dist=  32.87,AZ= 61.59,PGA(V)=   0.72,PGA(NS)=   1.42,PGA(EW)=   1.48
+Stacode=ESA ,Staname=蘇澳  ,Stalon=121.84,Stalat=24.58,Dist=  41.63,AZ= 28.82,PGA(V)=   3.03,PGA(NS)=   4.11,PGA(EW)=   4.21
+Stacode=TWE ,Staname=內城  ,Stalon=121.68,Stalat=24.72,Dist=  41.83,AZ= 60.32,PGA(V)=   1.19,PGA(NS)=   1.00,PGA(EW)=   1.06
+Stacode=NDS ,Staname=冬山  ,Stalon=121.72,Stalat=24.63,Dist=  44.55,AZ= 47.64,PGA(V)=   0.97,PGA(NS)=   0.91,PGA(EW)=   0.68
+Stacode=NHY ,Staname=信義區,Stalon=121.57,Stalat=25.04,Dist=  50.02,AZ=107.30,PGA(V)=   2.44,PGA(NS)=   2.54,PGA(EW)=   1.12
+Stacode=TAP ,Staname=臺北市,Stalon=121.51,Stalat=25.04,Dist=  55.35,AZ=105.40,PGA(V)=   1.78,PGA(NS)=   0.56,PGA(EW)=   0.56
+Stacode=ENT ,Staname=牛鬥  ,Stalon=121.57,Stalat=24.64,Dist=  55.88,AZ= 58.02,PGA(V)=   0.38,PGA(NS)=   1.41,PGA(EW)=   1.13
+Stacode=EWT ,Staname=武塔  ,Stalon=121.78,Stalat=24.45,Dist=  57.53,AZ= 27.67,PGA(V)=   0.81,PGA(NS)=   1.48,PGA(EW)=   1.62
+Stacode=ENA ,Staname=南澳  ,Stalon=121.75,Stalat=24.43,Dist=  60.77,AZ= 29.25,PGA(V)=   1.22,PGA(NS)=   4.87,PGA(EW)=   3.46
+Stacode=BAC ,Staname=新北市,Stalon=121.44,Stalat=25.00,Dist=  61.50,AZ= 99.59,PGA(V)=   1.46,PGA(NS)=   1.18,PGA(EW)=   1.44
+Stacode=NSM ,Staname=石門  ,Stalon=121.59,Stalat=25.29,Dist=  62.39,AZ=132.82,PGA(V)=   1.25,PGA(NS)=   1.05,PGA(EW)=   0.86
+Stacode=TWS1,Staname=五股  ,Stalon=121.42,Stalat=25.10,Dist=  66.15,AZ=109.20,PGA(V)=   0.83,PGA(NS)=   0.42,PGA(EW)=   0.37
+Stacode=NTS ,Staname=淡水  ,Stalon=121.45,Stalat=25.16,Dist=  66.39,AZ=115.64,PGA(V)=   0.92,PGA(NS)=   0.89,PGA(EW)=   0.77
+Stacode=EAH ,Staname=澳花  ,Stalon=121.74,Stalat=24.33,Dist=  70.76,AZ= 25.70,PGA(V)=   0.75,PGA(NS)=   0.80,PGA(EW)=   0.69
+Stacode=EHP ,Staname=和平  ,Stalon=121.75,Stalat=24.31,Dist=  72.54,AZ= 24.17,PGA(V)=   1.03,PGA(NS)=   1.26,PGA(EW)=   1.36
+Stacode=NTY ,Staname=桃園市,Stalon=121.30,Stalat=25.00,Dist=  75.93,AZ= 97.94,PGA(V)=   0.77,PGA(NS)=   0.80,PGA(EW)=   0.97
+Stacode=ETLH,Staname=西寶  ,Stalon=121.48,Stalat=24.21,Dist=  95.94,AZ= 36.29,PGA(V)=   0.52,PGA(NS)=   0.89,PGA(EW)=   0.73

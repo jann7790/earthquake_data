@@ -1,0 +1,71 @@
+{
+  "epicenter_lat": "23.23",
+  "epicenter_lon": "120.32",
+  "magnitude": "3.6",
+  "max_intensity": "2",
+  "locations": [
+    {
+      "latitude": "23.1466",
+      "longitude": "120.0865",
+      "county": "臺南市",
+      "intensity": "2",
+      "location_name": "七股"
+    },
+    {
+      "latitude": "23.1743",
+      "longitude": "120.2018",
+      "county": "臺南市",
+      "intensity": "2",
+      "location_name": "佳里"
+    },
+    {
+      "latitude": "23.1361",
+      "longitude": "120.2882",
+      "county": "臺南市",
+      "intensity": "2",
+      "location_name": "善化"
+    },
+    {
+      "latitude": "23.0385",
+      "longitude": "120.2364",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "永康"
+    },
+    {
+      "latitude": "23.265",
+      "longitude": "120.4999",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "東山"
+    },
+    {
+      "latitude": "23.1849",
+      "longitude": "120.5286",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "楠西"
+    },
+    {
+      "latitude": "23.0753",
+      "longitude": "120.3641",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "新化"
+    },
+    {
+      "latitude": "23.6363",
+      "longitude": "120.2298",
+      "county": "雲林縣",
+      "intensity": "1",
+      "location_name": "四湖"
+    },
+    {
+      "latitude": "23.2438",
+      "longitude": "120.6223",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "大埔"
+    }
+  ]
+}

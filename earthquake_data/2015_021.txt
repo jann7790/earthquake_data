@@ -1,0 +1,7 @@
+Origin Time:2015/04/19 07:21:51
+Lon:120.33°E
+Lat:22.43°N
+Depth:28.4km
+Mag:3.7
+Stacode=KAU ,Staname=高雄市,Stalon=120.32,Stalat=22.57,Dist=  14.85,AZ=172.63,PGA(V)=   5.14,PGA(NS)=   8.20,PGA(EW)=   5.62
+Stacode=TAI ,Staname=臺南市,Stalon=120.21,Stalat=22.99,Dist=  63.42,AZ=167.91,PGA(V)=   0.72,PGA(NS)=   0.84,PGA(EW)=   0.36

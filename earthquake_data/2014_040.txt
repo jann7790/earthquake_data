@@ -1,0 +1,28 @@
+Origin Time:2014/03/16 04:04:36
+Lon:121.39°E
+Lat:22.23°N
+Depth:19.7km
+Mag:5.1
+Stacode=LAY ,Staname=蘭嶼  ,Stalon=121.56,Stalat=22.04,Dist=  28.09,AZ=320.73,PGA(V)=  25.48,PGA(NS)=  48.87,PGA(EW)=  49.41
+Stacode=LDU ,Staname=綠島  ,Stalon=121.47,Stalat=22.67,Dist=  49.43,AZ=190.01,PGA(V)=   1.74,PGA(NS)=   2.87,PGA(EW)=   3.59
+Stacode=TAW ,Staname=大武  ,Stalon=120.90,Stalat=22.36,Dist=  51.50,AZ=105.22,PGA(V)=   1.50,PGA(NS)=   2.75,PGA(EW)=   2.51
+Stacode=EAS ,Staname=安朔  ,Stalon=120.86,Stalat=22.38,Dist=  56.90,AZ=106.70,PGA(V)=   1.68,PGA(NS)=   3.41,PGA(EW)=   3.71
+Stacode=ECL ,Staname=太麻里,Stalon=120.96,Stalat=22.60,Dist=  59.29,AZ=132.59,PGA(V)=   1.02,PGA(NS)=   1.91,PGA(EW)=   1.62
+Stacode=TTN ,Staname=臺東市,Stalon=121.15,Stalat=22.75,Dist=  62.15,AZ=157.50,PGA(V)=   0.72,PGA(NS)=   1.85,PGA(EW)=   1.79
+Stacode=SEB ,Staname=鵝鑾鼻,Stalon=120.86,Stalat=21.90,Dist=  66.01,AZ= 56.05,PGA(V)=   1.26,PGA(NS)=   3.17,PGA(EW)=   3.47
+Stacode=TWK1,Staname=墾丁  ,Stalon=120.81,Stalat=21.94,Dist=  67.39,AZ= 61.15,PGA(V)=   1.02,PGA(NS)=   1.62,PGA(EW)=   1.74
+Stacode=HEN ,Staname=恆春  ,Stalon=120.75,Stalat=22.00,Dist=  70.74,AZ= 68.90,PGA(V)=   3.47,PGA(NS)=  13.82,PGA(EW)=   9.21
+Stacode=TWG ,Staname=卑南  ,Stalon=121.08,Stalat=22.82,Dist=  71.92,AZ=154.06,PGA(V)=   0.90,PGA(NS)=   1.14,PGA(EW)=   0.78
+Stacode=ECU ,Staname=初鹿  ,Stalon=121.09,Stalat=22.86,Dist=  75.64,AZ=156.43,PGA(V)=   0.84,PGA(NS)=   0.84,PGA(EW)=   1.79
+Stacode=SCZ ,Staname=枋寮  ,Stalon=120.63,Stalat=22.37,Dist=  79.50,AZ=100.97,PGA(V)=   0.54,PGA(NS)=   0.78,PGA(EW)=   0.84
+Stacode=EDH ,Staname=東河  ,Stalon=121.30,Stalat=22.97,Dist=  82.15,AZ=174.18,PGA(V)=   1.08,PGA(NS)=   1.79,PGA(EW)=   2.09
+Stacode=CHK ,Staname=成功  ,Stalon=121.37,Stalat=23.10,Dist=  95.69,AZ=179.20,PGA(V)=   0.84,PGA(NS)=   1.50,PGA(EW)=   1.91
+Stacode=ECS ,Staname=池上  ,Stalon=121.22,Stalat=23.10,Dist=  96.94,AZ=169.83,PGA(V)=   0.66,PGA(NS)=   1.02,PGA(EW)=   1.26
+Stacode=SPT ,Staname=屏東市,Stalon=120.50,Stalat=22.68,Dist= 103.90,AZ=118.17,PGA(V)=   0.66,PGA(NS)=   0.66,PGA(EW)=   0.90
+Stacode=SGL ,Staname=九如  ,Stalon=120.50,Stalat=22.72,Dist= 106.21,AZ=120.72,PGA(V)=   0.72,PGA(NS)=   0.72,PGA(EW)=   0.84
+Stacode=KAU ,Staname=高雄市,Stalon=120.32,Stalat=22.57,Dist= 116.15,AZ=108.48,PGA(V)=   0.90,PGA(NS)=   1.32,PGA(EW)=   1.20
+Stacode=ECB ,Staname=長濱  ,Stalon=121.45,Stalat=23.32,Dist= 120.08,AZ=183.20,PGA(V)=   0.60,PGA(NS)=   0.84,PGA(EW)=   0.96
+Stacode=CHN3,Staname=新化  ,Stalon=120.36,Stalat=23.08,Dist= 140.36,AZ=131.62,PGA(V)=   0.30,PGA(NS)=   0.96,PGA(EW)=   0.96
+Stacode=ALS ,Staname=阿里山,Stalon=120.81,Stalat=23.51,Dist= 152.89,AZ=157.40,PGA(V)=   0.36,PGA(NS)=   0.90,PGA(EW)=   0.66
+Stacode=SCK ,Staname=七股  ,Stalon=120.09,Stalat=23.15,Dist= 167.49,AZ=127.14,PGA(V)=   0.30,PGA(NS)=   0.60,PGA(EW)=   0.90
+Stacode=CHN5,Staname=草嶺  ,Stalon=120.68,Stalat=23.60,Dist= 167.59,AZ=154.30,PGA(V)=   0.24,PGA(NS)=   0.72,PGA(EW)=   0.84

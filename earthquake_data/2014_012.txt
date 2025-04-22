@@ -1,0 +1,16 @@
+Origin Time:2014/01/20 10:06:28
+Lon:120.64°E
+Lat:23.97°N
+Depth:23.8km
+Mag:3.1
+Stacode=WYL ,Staname=員林  ,Stalon=120.58,Stalat=23.96,Dist=   6.25,AZ= 84.41,PGA(V)=   2.51,PGA(NS)=   2.33,PGA(EW)=   4.49
+Stacode=WNT1,Staname=南投市,Stalon=120.68,Stalat=23.91,Dist=   7.66,AZ=328.92,PGA(V)=   2.15,PGA(NS)=   1.68,PGA(EW)=   0.90
+Stacode=WWF ,Staname=霧峰  ,Stalon=120.70,Stalat=24.04,Dist=  10.29,AZ=214.38,PGA(V)=   8.91,PGA(NS)=   4.91,PGA(EW)=   7.00
+Stacode=WNT ,Staname=名間  ,Stalon=120.69,Stalat=23.88,Dist=  11.19,AZ=332.15,PGA(V)=   0.78,PGA(NS)=   2.45,PGA(EW)=   1.50
+Stacode=WCH ,Staname=彰化市,Stalon=120.56,Stalat=24.08,Dist=  15.42,AZ=146.19,PGA(V)=   3.11,PGA(NS)=  12.14,PGA(EW)=   9.69
+Stacode=WES ,Staname=二水  ,Stalon=120.62,Stalat=23.81,Dist=  17.33,AZ=  7.89,PGA(V)=   0.96,PGA(NS)=   1.26,PGA(EW)=   1.44
+Stacode=TCU ,Staname=臺中市,Stalon=120.68,Stalat=24.15,Dist=  20.37,AZ=192.34,PGA(V)=   0.36,PGA(NS)=   0.90,PGA(EW)=   0.72
+Stacode=WDD ,Staname=大肚  ,Stalon=120.56,Stalat=24.13,Dist=  20.56,AZ=155.34,PGA(V)=   1.32,PGA(NS)=   1.56,PGA(EW)=   2.33
+Stacode=WGK ,Staname=古坑  ,Stalon=120.57,Stalat=23.68,Dist=  32.00,AZ= 13.04,PGA(V)=   0.54,PGA(NS)=   3.47,PGA(EW)=   2.99
+Stacode=WTC ,Staname=大城  ,Stalon=120.29,Stalat=23.86,Dist=  37.67,AZ= 72.11,PGA(V)=   0.54,PGA(NS)=   1.08,PGA(EW)=   1.32
+Stacode=WSF ,Staname=四湖  ,Stalon=120.23,Stalat=23.64,Dist=  55.59,AZ= 48.94,PGA(V)=   0.42,PGA(NS)=   0.78,PGA(EW)=   1.08

@@ -1,0 +1,10 @@
+Origin Time:2014/05/11 21:16:21
+Lon:120.61°E
+Lat:23.31°N
+Depth:8.1km
+Mag:3.3
+Stacode=CHN4,Staname=草山  ,Stalon=120.59,Stalat=23.35,Dist=   5.32,AZ=163.23,PGA(V)=   0.84,PGA(NS)=   1.32,PGA(EW)=   1.32
+Stacode=WTP ,Staname=大埔  ,Stalon=120.62,Stalat=23.24,Dist=   6.96,AZ=348.73,PGA(V)=   2.33,PGA(NS)=  25.48,PGA(EW)=  20.58
+Stacode=TWL ,Staname=東山  ,Stalon=120.50,Stalat=23.26,Dist=  11.84,AZ= 67.15,PGA(V)=   0.60,PGA(NS)=   0.54,PGA(EW)=   0.84
+Stacode=CHN1,Staname=楠西  ,Stalon=120.53,Stalat=23.19,Dist=  15.67,AZ= 31.72,PGA(V)=   0.72,PGA(NS)=   1.85,PGA(EW)=   1.85
+Stacode=STY ,Staname=桃源  ,Stalon=120.77,Stalat=23.16,Dist=  22.67,AZ=314.95,PGA(V)=   0.36,PGA(NS)=   1.85,PGA(EW)=   0.90

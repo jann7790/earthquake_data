@@ -1,0 +1,183 @@
+{
+  "epicenter_lat": "23.95",
+  "epicenter_lon": "120.65",
+  "magnitude": "4",
+  "max_intensity": "3",
+  "locations": [
+    {
+      "latitude": "24.0794",
+      "longitude": "120.5583",
+      "county": "彰化縣",
+      "intensity": "3",
+      "location_name": "彰化市"
+    },
+    {
+      "latitude": "23.9026",
+      "longitude": "120.3781",
+      "county": "彰化縣",
+      "intensity": "3",
+      "location_name": "二林"
+    },
+    {
+      "latitude": "23.8617",
+      "longitude": "120.2892",
+      "county": "彰化縣",
+      "intensity": "2",
+      "location_name": "大城"
+    },
+    {
+      "latitude": "23.9605",
+      "longitude": "120.5799",
+      "county": "彰化縣",
+      "intensity": "2",
+      "location_name": "員林"
+    },
+    {
+      "latitude": "24.2566",
+      "longitude": "120.5234",
+      "county": "臺中市",
+      "intensity": "2",
+      "location_name": "梧棲"
+    },
+    {
+      "latitude": "24.1456",
+      "longitude": "120.6841",
+      "county": "臺中市",
+      "intensity": "1",
+      "location_name": "臺中市"
+    },
+    {
+      "latitude": "24.3477",
+      "longitude": "120.6404",
+      "county": "臺中市",
+      "intensity": "1",
+      "location_name": "大甲"
+    },
+    {
+      "latitude": "23.6844",
+      "longitude": "120.5703",
+      "county": "雲林縣",
+      "intensity": "2",
+      "location_name": "古坑"
+    },
+    {
+      "latitude": "23.6363",
+      "longitude": "120.2298",
+      "county": "雲林縣",
+      "intensity": "2",
+      "location_name": "四湖"
+    },
+    {
+      "latitude": "23.5226",
+      "longitude": "120.2278",
+      "county": "雲林縣",
+      "intensity": "2",
+      "location_name": "水林"
+    },
+    {
+      "latitude": "23.6876",
+      "longitude": "120.3886",
+      "county": "雲林縣",
+      "intensity": "1",
+      "location_name": "土庫"
+    },
+    {
+      "latitude": "23.8044",
+      "longitude": "120.2232",
+      "county": "雲林縣",
+      "intensity": "1",
+      "location_name": "麥寮"
+    },
+    {
+      "latitude": "23.6888",
+      "longitude": "120.5381",
+      "county": "雲林縣",
+      "intensity": "1",
+      "location_name": "斗六市"
+    },
+    {
+      "latitude": "23.4963",
+      "longitude": "120.4327",
+      "county": "嘉義市",
+      "intensity": "1",
+      "location_name": "嘉義市"
+    },
+    {
+      "latitude": "23.4385",
+      "longitude": "120.6047",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "番路"
+    },
+    {
+      "latitude": "23.8813",
+      "longitude": "120.9082",
+      "county": "南投縣",
+      "intensity": "1",
+      "location_name": "日月潭"
+    },
+    {
+      "latitude": "24.0566",
+      "longitude": "120.9117",
+      "county": "南投縣",
+      "intensity": "1",
+      "location_name": "國姓"
+    },
+    {
+      "latitude": "23.6961",
+      "longitude": "120.8532",
+      "county": "南投縣",
+      "intensity": "1",
+      "location_name": "信義鄉"
+    },
+    {
+      "latitude": "23.8219",
+      "longitude": "120.7279",
+      "county": "南投縣",
+      "intensity": "1",
+      "location_name": "竹山"
+    },
+    {
+      "latitude": "23.8766",
+      "longitude": "120.6925",
+      "county": "南投縣",
+      "intensity": "1",
+      "location_name": "名間"
+    },
+    {
+      "latitude": "23.9071",
+      "longitude": "120.6802",
+      "county": "南投縣",
+      "intensity": "1",
+      "location_name": "南投市"
+    },
+    {
+      "latitude": "24.0124",
+      "longitude": "120.9573",
+      "county": "南投縣",
+      "intensity": "1",
+      "location_name": "埔里"
+    },
+    {
+      "latitude": "24.6836",
+      "longitude": "120.8703",
+      "county": "苗栗縣",
+      "intensity": "1",
+      "location_name": "竹南"
+    },
+    {
+      "latitude": "24.5374",
+      "longitude": "120.7909",
+      "county": "苗栗縣",
+      "intensity": "1",
+      "location_name": "苗栗市"
+    },
+    {
+      "latitude": "23.5653",
+      "longitude": "119.5633",
+      "county": "澎湖縣",
+      "intensity": "1",
+      "location_name": "馬公市"
+    }
+  ]
+}

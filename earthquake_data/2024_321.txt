@@ -1,0 +1,16 @@
+Origin Time:2024/04/23 11:44:02
+Lon:121.57°E
+Lat:23.81°N
+Depth:7.1km
+Mag:4.0
+Stacode=SHUL,Staname=水璉  ,Stalon=121.56,Stalat=23.79,Dist=   2.71,BAZ= 20.07,PGA(V)=   3.69,PGA(NS)=   5.36,PGA(EW)=   9.26,PGV(V)=   0.08,PGV(NS)=   0.20,PGV(EW)=   0.31,Int= 2級,PGA(SUM)=   7.89,PGV(SUM)=   0.33
+Stacode=EYL ,Staname=鹽寮  ,Stalon=121.60,Stalat=23.90,Dist=  10.74,BAZ=196.45,PGA(V)=   5.87,PGA(NS)=  17.27,PGA(EW)=  14.82,PGV(V)=   0.24,PGV(NS)=   0.44,PGV(EW)=   0.55,Int= 3級,PGA(SUM)=  14.76,PGV(SUM)=   0.58
+Stacode=EGC ,Staname=磯崎  ,Stalon=121.55,Stalat=23.71,Dist=  11.64,BAZ= 12.25,PGA(V)=   2.16,PGA(NS)=  14.84,PGA(EW)=   2.93,PGV(V)=   0.03,PGV(NS)=   0.30,PGV(EW)=   0.04,Int= 3級,PGA(SUM)=   9.13,PGV(SUM)=   0.30
+Stacode=ESL ,Staname=西林  ,Stalon=121.44,Stalat=23.81,Dist=  13.27,BAZ= 90.72,PGA(V)=   5.99,PGA(NS)=  15.32,PGA(EW)=  17.71,PGV(V)=   0.09,PGV(NS)=   0.18,PGV(EW)=   0.27,Int= 3級,PGA(SUM)=   9.55,PGV(SUM)=   0.28
+Stacode=HWA ,Staname=花蓮市,Stalon=121.61,Stalat=23.98,Dist=  18.71,BAZ=193.11,PGA(V)=   2.13,PGA(NS)=   6.34,PGA(EW)=   7.10,PGV(V)=   0.08,PGV(NS)=   0.20,PGV(EW)=   0.29,Int= 2級,PGA(SUM)=   7.81,PGV(SUM)=   0.30
+Stacode=ETM ,Staname=銅門  ,Stalon=121.49,Stalat=23.97,Dist=  19.00,BAZ=154.94,PGA(V)=   7.24,PGA(NS)=  12.53,PGA(EW)=  21.21,PGV(V)=   0.17,PGV(NS)=   0.35,PGV(EW)=   0.65,Int= 3級,PGA(SUM)=  22.20,PGV(SUM)=   0.71
+Stacode=EGFH,Staname=光復  ,Stalon=121.43,Stalat=23.67,Dist=  21.50,BAZ= 43.17,PGA(V)=   2.10,PGA(NS)=   2.56,PGA(EW)=   2.21,PGV(V)=   0.04,PGV(NS)=   0.07,PGV(EW)=   0.08,Int= 1級,PGA(SUM)=   2.46,PGV(SUM)=   0.09
+Stacode=ETL ,Staname=太魯閣,Stalon=121.62,Stalat=24.16,Dist=  38.91,BAZ=187.67,PGA(V)=   0.36,PGA(NS)=   2.25,PGA(EW)=   1.72,PGV(V)=   0.01,PGV(NS)=   0.04,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   1.46,PGV(SUM)=   0.04
+Stacode=OWD ,Staname=奧萬大,Stalon=121.18,Stalat=23.95,Dist=  43.37,BAZ=111.58,PGA(V)=   0.26,PGA(NS)=   3.28,PGA(EW)=   2.22,PGV(V)=   0.13,PGV(NS)=   0.05,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   2.37,PGV(SUM)=   0.13
+Stacode=WHF ,Staname=合歡山,Stalon=121.27,Stalat=24.14,Dist=  47.82,BAZ=140.44,PGA(V)=   0.84,PGA(NS)=   1.41,PGA(EW)=   1.71,PGV(V)=   0.02,PGV(NS)=   0.03,PGV(EW)=   0.05,Int= 1級,PGA(SUM)=   1.61,PGV(SUM)=   0.05
+Stacode=FUSS,Staname=梨山  ,Stalon=121.24,Stalat=24.25,Dist=  58.80,BAZ=145.42,PGA(V)=   0.30,PGA(NS)=   1.03,PGA(EW)=   0.84,PGV(V)=   0.01,PGV(NS)=   0.03,PGV(EW)=   0.02,Int= 1級,PGA(SUM)=   1.24,PGV(SUM)=   0.03

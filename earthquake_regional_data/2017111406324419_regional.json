@@ -1,0 +1,22 @@
+{
+  "epicenter_lat": "24.78",
+  "epicenter_lon": "121.08",
+  "magnitude": "1.9",
+  "max_intensity": "1",
+  "locations": [
+    {
+      "latitude": "24.7786",
+      "longitude": "121.0182",
+      "county": "新竹市",
+      "intensity": "1",
+      "location_name": "新竹市"
+    },
+    {
+      "latitude": "24.7357",
+      "longitude": "121.0881",
+      "county": "新竹縣",
+      "intensity": "1",
+      "location_name": "竹東"
+    }
+  ]
+}

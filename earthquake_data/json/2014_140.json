@@ -1,0 +1,98 @@
+{
+  "earthquake_id": "140",
+  "timestamp": "2014-11-20T01:55:25",
+  "latitude": 24.9,
+  "longitude": 122.03,
+  "depth_km": 13.9,
+  "magnitude": 4.0,
+  "stations": [
+    {
+      "Stacode": "EGS",
+      "Staname": "龜山島",
+      "Stalon": 121.94,
+      "Stalat": 24.84,
+      "Dist": 10.51,
+      "AZ": 51.82,
+      "PGA(V)": 1.74,
+      "PGA(NS)": 3.23,
+      "PGA(EW)": 3.59
+    },
+    {
+      "Stacode": "NGL",
+      "Staname": "貢寮",
+      "Stalon": 121.92,
+      "Stalat": 25.04,
+      "Dist": 18.44,
+      "AZ": 145.78,
+      "PGA(V)": 3.29,
+      "PGA(NS)": 2.87,
+      "PGA(EW)": 2.27
+    },
+    {
+      "Stacode": "NWF",
+      "Staname": "五分山",
+      "Stalon": 121.78,
+      "Stalat": 25.07,
+      "Dist": 31.14,
+      "AZ": 127.47,
+      "PGA(V)": 1.14,
+      "PGA(NS)": 2.87,
+      "PGA(EW)": 2.57
+    },
+    {
+      "Stacode": "NPL",
+      "Staname": "坪林",
+      "Stalon": 121.71,
+      "Stalat": 24.94,
+      "Dist": 31.92,
+      "AZ": 97.5,
+      "PGA(V)": 0.42,
+      "PGA(NS)": 1.38,
+      "PGA(EW)": 0.96
+    },
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 48.62,
+      "AZ": 108.62,
+      "PGA(V)": 1.32,
+      "PGA(NS)": 1.02,
+      "PGA(EW)": 0.72
+    },
+    {
+      "Stacode": "NWR",
+      "Staname": "萬里",
+      "Stalon": 121.66,
+      "Stalat": 25.2,
+      "Dist": 49.79,
+      "AZ": 132.24,
+      "PGA(V)": 0.9,
+      "PGA(NS)": 0.9,
+      "PGA(EW)": 0.96
+    },
+    {
+      "Stacode": "ENA",
+      "Staname": "南澳",
+      "Stalon": 121.75,
+      "Stalat": 24.43,
+      "Dist": 59.58,
+      "AZ": 28.02,
+      "PGA(V)": 0.66,
+      "PGA(NS)": 2.15,
+      "PGA(EW)": 2.57
+    },
+    {
+      "Stacode": "BAC",
+      "Staname": "新北市",
+      "Stalon": 121.44,
+      "Stalat": 25.0,
+      "Dist": 59.91,
+      "AZ": 100.31,
+      "PGA(V)": 0.54,
+      "PGA(NS)": 0.9,
+      "PGA(EW)": 1.68
+    }
+  ]
+}

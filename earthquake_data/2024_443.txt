@@ -1,0 +1,15 @@
+Origin Time:2024/08/15 17:07:15
+Lon:121.88°E
+Lat:24.40°N
+Depth:12.4km
+Mag:4.6
+Stacode=EWT ,Staname=武塔  ,Stalon=121.78,Stalat=24.45,Dist=  11.28,BAZ=114.35,PGA(V)=  12.21,PGA(NS)=  28.05,PGA(EW)=  27.68,PGV(V)=   0.21,PGV(NS)=   0.45,PGV(EW)=   0.44,Int= 3級,PGA(SUM)=  21.82,PGV(SUM)=   0.57
+Stacode=ENA ,Staname=南澳  ,Stalon=121.75,Stalat=24.43,Dist=  13.49,BAZ=100.84,PGA(V)=   9.74,PGA(NS)=  42.69,PGA(EW)=  55.74,PGV(V)=   0.13,PGV(NS)=   0.55,PGV(EW)=   0.84,Int= 4級,PGA(SUM)=  35.08,PGV(SUM)=   0.96
+Stacode=EAH ,Staname=澳花  ,Stalon=121.74,Stalat=24.33,Dist=  16.41,BAZ= 60.18,PGA(V)=   3.01,PGA(NS)=   3.36,PGA(EW)=   3.81,PGV(V)=   0.14,PGV(NS)=   0.17,PGV(EW)=   0.17,Int= 2級,PGA(SUM)=   4.19,PGV(SUM)=   0.25
+Stacode=EHP ,Staname=和平  ,Stalon=121.75,Stalat=24.31,Dist=  16.83,BAZ= 51.77,PGA(V)=   4.33,PGA(NS)=   5.01,PGA(EW)=   4.05,PGV(V)=   0.16,PGV(NS)=   0.33,PGV(EW)=   0.24,Int= 2級,PGA(SUM)=   5.13,PGV(SUM)=   0.35
+Stacode=TWC ,Staname=蘇澳  ,Stalon=121.86,Stalat=24.61,Dist=  22.82,BAZ=174.99,PGA(V)=   1.13,PGA(NS)=   1.95,PGA(EW)=   3.70,PGV(V)=   0.07,PGV(NS)=   0.08,PGV(EW)=   0.12,Int= 2級,PGA(SUM)=   3.15,PGV(SUM)=   0.13
+Stacode=ETL ,Staname=太魯閣,Stalon=121.62,Stalat=24.16,Dist=  37.57,BAZ= 43.93,PGA(V)=   1.49,PGA(NS)=   4.94,PGA(EW)=   4.62,PGV(V)=   0.06,PGV(NS)=   0.16,PGV(EW)=   0.15,Int= 2級,PGA(SUM)=   4.63,PGV(SUM)=   0.16
+Stacode=ILA ,Staname=宜蘭市,Stalon=121.76,Stalat=24.76,Dist=  41.87,BAZ=162.64,PGA(V)=   3.42,PGA(NS)=   4.73,PGA(EW)=   4.35,PGV(V)=   0.60,PGV(NS)=   0.93,PGV(EW)=   0.60,Int= 2級,PGA(SUM)=   4.90,PGV(SUM)=   1.03
+Stacode=NDT ,Staname=大同  ,Stalon=121.51,Stalat=24.60,Dist=  43.25,BAZ=120.72,PGA(V)=   1.08,PGA(NS)=   2.18,PGA(EW)=   2.17,PGV(V)=   0.10,PGV(NS)=   0.12,PGV(EW)=   0.21,Int= 1級,PGA(SUM)=   2.19,PGV(SUM)=   0.22
+Stacode=NNS ,Staname=南山  ,Stalon=121.38,Stalat=24.44,Dist=  50.68,BAZ= 94.31,PGA(V)=   1.37,PGA(NS)=   5.45,PGA(EW)=   3.37,PGV(V)=   0.09,PGV(NS)=   0.28,PGV(EW)=   0.30,Int= 2級,PGA(SUM)=   4.16,PGV(SUM)=   0.34
+Stacode=NSK ,Staname=三光  ,Stalon=121.37,Stalat=24.67,Dist=  60.01,BAZ=119.98,PGA(V)=   0.99,PGA(NS)=   2.39,PGA(EW)=   2.19,PGV(V)=   0.12,PGV(NS)=   0.14,PGV(EW)=   0.19,Int= 1級,PGA(SUM)=   2.36,PGV(SUM)=   0.19

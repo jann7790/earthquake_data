@@ -1,0 +1,29 @@
+{
+  "epicenter_lat": "25.13",
+  "epicenter_lon": "121.57",
+  "magnitude": "2.5",
+  "max_intensity": "1",
+  "locations": [
+    {
+      "latitude": "25.2021",
+      "longitude": "121.6606",
+      "county": "新北市",
+      "intensity": "1",
+      "location_name": "萬里"
+    },
+    {
+      "latitude": "25.1014",
+      "longitude": "121.4234",
+      "county": "新北市",
+      "intensity": "1",
+      "location_name": "五股"
+    },
+    {
+      "latitude": "25.0408",
+      "longitude": "121.5692",
+      "county": "臺北市",
+      "intensity": "1",
+      "location_name": "信義區"
+    }
+  ]
+}

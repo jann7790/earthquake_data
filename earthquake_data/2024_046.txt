@@ -1,0 +1,34 @@
+Origin Time:2024/04/03 10:20:37
+Lon:121.63°E
+Lat:23.93°N
+Depth:36.6km
+Mag:4.5
+Stacode=EYL ,Staname=鹽寮  ,Stalon=121.60,Stalat=23.90,Dist=   3.75,BAZ= 41.21,PGA(V)=   2.39,PGA(NS)=   5.57,PGA(EW)=   6.01,PGV(V)=   0.07,PGV(NS)=   0.15,PGV(EW)=   0.26,Int= 2級,PGA(SUM)=   7.05,PGV(SUM)=   0.29
+Stacode=ETM ,Staname=銅門  ,Stalon=121.49,Stalat=23.97,Dist=  14.16,BAZ=106.78,PGA(V)=   4.36,PGA(NS)=   5.06,PGA(EW)=   5.76,PGV(V)=   0.08,PGV(NS)=   0.12,PGV(EW)=   0.15,Int= 2級,PGA(SUM)=   5.10,PGV(SUM)=   0.15
+Stacode=SHUL,Staname=水璉  ,Stalon=121.56,Stalat=23.79,Dist=  16.95,BAZ= 22.36,PGA(V)=   0.67,PGA(NS)=   0.90,PGA(EW)=   0.84,PGV(V)=   0.01,PGV(NS)=   0.03,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   0.82,PGV(SUM)=   0.03
+Stacode=ESL ,Staname=西林  ,Stalon=121.44,Stalat=23.81,Dist=  22.82,BAZ= 55.39,PGA(V)=   2.77,PGA(NS)=   4.11,PGA(EW)=   3.82,PGV(V)=   0.05,PGV(NS)=   0.09,PGV(EW)=   0.05,Int= 2級,PGA(SUM)=   2.64,PGV(SUM)=   0.11
+Stacode=ETL ,Staname=太魯閣,Stalon=121.62,Stalat=24.16,Dist=  25.44,BAZ=179.29,PGA(V)=   1.79,PGA(NS)=   7.18,PGA(EW)=   6.14,PGV(V)=   0.03,PGV(NS)=   0.15,PGV(EW)=   0.11,Int= 2級,PGA(SUM)=   5.72,PGV(SUM)=   0.18
+Stacode=EGC ,Staname=磯崎  ,Stalon=121.55,Stalat=23.71,Dist=  25.77,BAZ= 18.06,PGA(V)=   0.30,PGA(NS)=   4.60,PGA(EW)=   4.65,PGV(V)=   0.03,PGV(NS)=   0.15,PGV(EW)=   0.13,Int= 2級,PGA(SUM)=   5.02,PGV(SUM)=   0.18
+Stacode=EGFH,Staname=光復  ,Stalon=121.43,Stalat=23.67,Dist=  35.20,BAZ= 35.07,PGA(V)=   2.21,PGA(NS)=   3.40,PGA(EW)=   3.65,PGV(V)=   0.03,PGV(NS)=   0.06,PGV(EW)=   0.07,Int= 2級,PGA(SUM)=   2.89,PGV(SUM)=   0.08
+Stacode=WHF ,Staname=合歡山,Stalon=121.27,Stalat=24.14,Dist=  43.09,BAZ=123.44,PGA(V)=   1.10,PGA(NS)=   2.21,PGA(EW)=   2.41,PGV(V)=   0.02,PGV(NS)=   0.06,PGV(EW)=   0.06,Int= 1級,PGA(SUM)=   2.34,PGV(SUM)=   0.08
+Stacode=EHP ,Staname=和平  ,Stalon=121.75,Stalat=24.31,Dist=  43.92,BAZ=196.60,PGA(V)=   1.46,PGA(NS)=   2.54,PGA(EW)=   1.96,PGV(V)=   0.06,PGV(NS)=   0.09,PGV(EW)=   0.08,Int= 2級,PGA(SUM)=   2.64,PGV(SUM)=   0.12
+Stacode=FUSS,Staname=梨山  ,Stalon=121.24,Stalat=24.25,Dist=  52.49,BAZ=132.24,PGA(V)=   1.43,PGA(NS)=   1.65,PGA(EW)=   1.18,PGV(V)=   0.03,PGV(NS)=   0.04,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   1.55,PGV(SUM)=   0.04
+Stacode=EHY ,Staname=紅葉  ,Stalon=121.33,Stalat=23.50,Dist=  55.94,BAZ= 32.66,PGA(V)=   0.73,PGA(NS)=   1.99,PGA(EW)=   1.70,PGV(V)=   0.01,PGV(NS)=   0.02,PGV(EW)=   0.02,Int= 1級,PGA(SUM)=   0.96,PGV(SUM)=   0.03
+Stacode=ENA ,Staname=南澳  ,Stalon=121.75,Stalat=24.43,Dist=  56.44,BAZ=192.79,PGA(V)=   1.13,PGA(NS)=   2.52,PGA(EW)=   2.68,PGV(V)=   0.02,PGV(NS)=   0.05,PGV(EW)=   0.06,Int= 1級,PGA(SUM)=   1.93,PGV(SUM)=   0.07
+Stacode=TWT ,Staname=德基  ,Stalon=121.16,Stalat=24.25,Dist=  59.05,BAZ=126.95,PGA(V)=   0.61,PGA(NS)=   1.18,PGA(EW)=   1.38,PGV(V)=   0.02,PGV(NS)=   0.04,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   1.32,PGV(SUM)=   0.04
+Stacode=NNS ,Staname=南山  ,Stalon=121.38,Stalat=24.44,Dist=  61.55,BAZ=156.18,PGA(V)=   0.30,PGA(NS)=   1.13,PGA(EW)=   0.95,PGV(V)=   0.01,PGV(NS)=   0.03,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   1.04,PGV(SUM)=   0.04
+Stacode=WCS ,Staname=國姓  ,Stalon=120.91,Stalat=24.06,Dist=  74.04,BAZ=101.00,PGA(V)=   0.28,PGA(NS)=   0.93,PGA(EW)=   0.56,PGV(V)=   0.01,PGV(NS)=   0.02,PGV(EW)=   0.01,Int= 1級,PGA(SUM)=   0.84,PGV(SUM)=   0.02
+Stacode=ENT ,Staname=牛鬥  ,Stalon=121.57,Stalat=24.64,Dist=  78.69,BAZ=176.13,PGA(V)=   0.36,PGA(NS)=   1.32,PGA(EW)=   0.93,PGV(V)=   0.01,PGV(NS)=   0.03,PGV(EW)=   0.02,Int= 1級,PGA(SUM)=   1.25,PGV(SUM)=   0.03
+Stacode=YUS ,Staname=玉山  ,Stalon=120.96,Stalat=23.49,Dist=  83.74,BAZ= 54.26,PGA(V)=   0.37,PGA(NS)=   0.64,PGA(EW)=   0.97,PGV(V)=   0.01,PGV(NS)=   0.03,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   0.94,PGV(SUM)=   0.04
+Stacode=B219,Staname=霧峰  ,Stalon=120.70,Stalat=24.04,Dist=  95.10,BAZ= 97.56,PGA(V)=   0.68,PGA(NS)=   2.91,PGA(EW)=   0.87,PGV(V)=   0.02,PGV(NS)=   0.07,PGV(EW)=   0.04,Int= 2級,PGA(SUM)=   2.61,PGV(SUM)=   0.07
+Stacode=TCU ,Staname=臺中市,Stalon=120.68,Stalat=24.15,Dist=  98.76,BAZ=104.06,PGA(V)=   0.41,PGA(NS)=   0.89,PGA(EW)=   0.78,PGV(V)=   0.01,PGV(NS)=   0.03,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   0.98,PGV(SUM)=   0.03
+Stacode=KSHI,Staname=關西  ,Stalon=121.18,Stalat=24.78,Dist= 104.47,BAZ=154.04,PGA(V)=   0.26,PGA(NS)=   0.54,PGA(EW)=   0.80,PGV(V)=   0.01,PGV(NS)=   0.02,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   0.92,PGV(SUM)=   0.04
+Stacode=NJD ,Staname=竹東  ,Stalon=121.09,Stalat=24.74,Dist= 104.70,BAZ=148.58,PGA(V)=   0.39,PGA(NS)=   0.85,PGA(EW)=   0.81,PGV(V)=   0.01,PGV(NS)=   0.04,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   1.10,PGV(SUM)=   0.04
+Stacode=WYL ,Staname=員林  ,Stalon=120.58,Stalat=23.96,Dist= 106.53,BAZ= 91.88,PGA(V)=   0.92,PGA(NS)=   1.14,PGA(EW)=   1.03,PGV(V)=   0.03,PGV(NS)=   0.06,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   1.12,PGV(SUM)=   0.07
+Stacode=WCHH,Staname=彰化市,Stalon=120.56,Stalat=24.08,Dist= 109.91,BAZ= 98.72,PGA(V)=   0.85,PGA(NS)=   2.63,PGA(EW)=   2.55,PGV(V)=   0.03,PGV(NS)=   0.06,PGV(EW)=   0.06,Int= 2級,PGA(SUM)=   2.93,PGV(SUM)=   0.08
+Stacode=C092,Staname=西螺  ,Stalon=120.49,Stalat=23.79,Dist= 117.12,BAZ= 82.39,PGA(V)=   0.39,PGA(NS)=   1.09,PGA(EW)=   0.90,PGV(V)=   0.01,PGV(NS)=   0.03,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   1.03,PGV(SUM)=   0.03
+Stacode=WCKO,Staname=番路  ,Stalon=120.60,Stalat=23.44,Dist= 117.47,BAZ= 62.46,PGA(V)=   0.24,PGA(NS)=   0.82,PGA(EW)=   0.55,PGV(V)=   0.01,PGV(NS)=   0.03,PGV(EW)=   0.02,Int= 1級,PGA(SUM)=   0.82,PGV(SUM)=   0.03
+Stacode=WRL ,Staname=二林  ,Stalon=120.38,Stalat=23.90,Dist= 127.08,BAZ= 88.68,PGA(V)=   1.61,PGA(NS)=   1.59,PGA(EW)=   1.87,PGV(V)=   0.03,PGV(NS)=   0.04,PGV(EW)=   0.06,Int= 1級,PGA(SUM)=   1.74,PGV(SUM)=   0.07
+Stacode=WTK ,Staname=土庫  ,Stalon=120.39,Stalat=23.69,Dist= 128.88,BAZ= 78.03,PGA(V)=   1.44,PGA(NS)=   0.90,PGA(EW)=   0.82,PGV(V)=   0.02,PGV(NS)=   0.05,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   0.84,PGV(SUM)=   0.05
+Stacode=WTC ,Staname=大城  ,Stalon=120.29,Stalat=23.86,Dist= 136.32,BAZ= 86.87,PGA(V)=   0.60,PGA(NS)=   0.83,PGA(EW)=   1.08,PGV(V)=   0.02,PGV(NS)=   0.04,PGV(EW)=   0.05,Int= 1級,PGA(SUM)=   1.07,PGV(SUM)=   0.05
+Stacode=WSF ,Staname=四湖  ,Stalon=120.23,Stalat=23.64,Dist= 145.93,BAZ= 77.17,PGA(V)=   0.67,PGA(NS)=   1.27,PGA(EW)=   0.70,PGV(V)=   0.02,PGV(NS)=   0.05,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   1.23,PGV(SUM)=   0.05

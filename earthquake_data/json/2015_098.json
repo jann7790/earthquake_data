@@ -1,0 +1,87 @@
+{
+  "earthquake_id": "098",
+  "timestamp": "2015-12-26T05:10:05",
+  "latitude": 24.8,
+  "longitude": 121.23,
+  "depth_km": 11.3,
+  "magnitude": 3.7,
+  "stations": [
+    {
+      "Stacode": "NJD",
+      "Staname": "竹東",
+      "Stalon": 121.09,
+      "Stalat": 24.74,
+      "Dist": 16.14,
+      "AZ": 64.66,
+      "PGA(V)": 0.6,
+      "PGA(NS)": 1.38,
+      "PGA(EW)": 1.2
+    },
+    {
+      "Stacode": "NCU",
+      "Staname": "中壢",
+      "Stalon": 121.19,
+      "Stalat": 24.97,
+      "Dist": 19.12,
+      "AZ": 168.47,
+      "PGA(V)": 1.97,
+      "PGA(NS)": 3.29,
+      "PGA(EW)": 1.85
+    },
+    {
+      "Stacode": "NSK",
+      "Staname": "三光",
+      "Stalon": 121.37,
+      "Stalat": 24.67,
+      "Dist": 19.35,
+      "AZ": 315.38,
+      "PGA(V)": 0.54,
+      "PGA(NS)": 2.33,
+      "PGA(EW)": 2.63
+    },
+    {
+      "Stacode": "NTY",
+      "Staname": "桃園市",
+      "Stalon": 121.31,
+      "Stalat": 25.0,
+      "Dist": 23.38,
+      "AZ": 198.75,
+      "PGA(V)": 2.87,
+      "PGA(NS)": 6.94,
+      "PGA(EW)": 5.8
+    },
+    {
+      "Stacode": "BAC",
+      "Staname": "新北市",
+      "Stalon": 121.44,
+      "Stalat": 25.0,
+      "Dist": 30.58,
+      "AZ": 223.78,
+      "PGA(V)": 0.96,
+      "PGA(NS)": 2.99,
+      "PGA(EW)": 1.68
+    },
+    {
+      "Stacode": "ENT",
+      "Staname": "牛鬥",
+      "Stalon": 121.57,
+      "Stalat": 24.64,
+      "Dist": 38.86,
+      "AZ": 297.29,
+      "PGA(V)": 0.36,
+      "PGA(NS)": 1.08,
+      "PGA(EW)": 0.84
+    },
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 43.36,
+      "AZ": 231.7,
+      "PGA(V)": 1.2,
+      "PGA(NS)": 0.78,
+      "PGA(EW)": 0.9
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "epicenter_lat": "21.62",
+  "epicenter_lon": "121.46",
+  "magnitude": "5.1",
+  "max_intensity": "2",
+  "locations": [
+    {
+      "latitude": "22.0373",
+      "longitude": "121.5581",
+      "county": "臺東縣",
+      "intensity": "2",
+      "location_name": "蘭嶼"
+    },
+    {
+      "latitude": "23.0978",
+      "longitude": "121.3731",
+      "county": "臺東縣",
+      "intensity": "1",
+      "location_name": "成功"
+    },
+    {
+      "latitude": "22.9725",
+      "longitude": "121.3039",
+      "county": "臺東縣",
+      "intensity": "1",
+      "location_name": "東河"
+    },
+    {
+      "latitude": "23.1466",
+      "longitude": "120.0865",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "七股"
+    },
+    {
+      "latitude": "23.1743",
+      "longitude": "120.2018",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "佳里"
+    },
+    {
+      "latitude": "23.1361",
+      "longitude": "120.2882",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "善化"
+    },
+    {
+      "latitude": "21.9009",
+      "longitude": "120.8551",
+      "county": "屏東縣",
+      "intensity": "1",
+      "location_name": "鵝鑾鼻"
+    },
+    {
+      "latitude": "23.6363",
+      "longitude": "120.2298",
+      "county": "雲林縣",
+      "intensity": "1",
+      "location_name": "四湖"
+    },
+    {
+      "latitude": "23.4963",
+      "longitude": "120.4327",
+      "county": "嘉義市",
+      "intensity": "1",
+      "location_name": "嘉義市"
+    }
+  ]
+}

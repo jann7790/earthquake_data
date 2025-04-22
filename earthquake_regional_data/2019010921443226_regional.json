@@ -1,0 +1,15 @@
+{
+  "epicenter_lat": "24.24",
+  "epicenter_lon": "120.82",
+  "magnitude": "2.6",
+  "max_intensity": "1",
+  "locations": [
+    {
+      "latitude": "24.1456",
+      "longitude": "120.6841",
+      "county": "臺中市",
+      "intensity": "1",
+      "location_name": "臺中市"
+    }
+  ]
+}

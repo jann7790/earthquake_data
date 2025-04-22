@@ -1,0 +1,18 @@
+Origin Time:2024/04/05 01:22:41
+Lon:121.75°E
+Lat:24.24°N
+Depth:13.8km
+Mag:4.1
+Stacode=EHP ,Staname=和平  ,Stalon=121.75,Stalat=24.31,Dist=   7.70,BAZ=176.01,PGA(V)=   8.64,PGA(NS)=  19.27,PGA(EW)=  18.13,PGV(V)=   0.17,PGV(NS)=   0.35,PGV(EW)=   0.45,Int= 3級,PGA(SUM)=  19.00,PGV(SUM)=   0.57
+Stacode=EAH ,Staname=澳花  ,Stalon=121.74,Stalat=24.33,Dist=  10.05,BAZ=171.07,PGA(V)=   5.90,PGA(NS)=   8.38,PGA(EW)=   5.96,PGV(V)=   0.14,PGV(NS)=   0.27,PGV(EW)=   0.19,Int= 3級,PGA(SUM)=   8.35,PGV(SUM)=   0.29
+Stacode=ETL ,Staname=太魯閣,Stalon=121.62,Stalat=24.16,Dist=  16.11,BAZ= 56.18,PGA(V)=  11.28,PGA(NS)=  30.68,PGA(EW)=  14.74,PGV(V)=   0.12,PGV(NS)=   0.51,PGV(EW)=   0.21,Int= 3級,PGA(SUM)=  17.23,PGV(SUM)=   0.52
+Stacode=ENA ,Staname=南澳  ,Stalon=121.75,Stalat=24.43,Dist=  20.64,BAZ=178.40,PGA(V)=   4.75,PGA(NS)=  23.35,PGA(EW)=  18.80,PGV(V)=   0.05,PGV(NS)=   0.24,PGV(EW)=   0.21,Int= 2級,PGA(SUM)=   6.50,PGV(SUM)=   0.25
+Stacode=EWT ,Staname=武塔  ,Stalon=121.78,Stalat=24.45,Dist=  22.87,BAZ=186.02,PGA(V)=   3.71,PGA(NS)=   5.41,PGA(EW)=   5.88,PGV(V)=   0.08,PGV(NS)=   0.14,PGV(EW)=   0.10,Int= 2級,PGA(SUM)=   3.90,PGV(SUM)=   0.14
+Stacode=TWD ,Staname=秀林  ,Stalon=121.60,Stalat=24.08,Dist=  23.26,BAZ= 41.00,PGA(V)=   1.64,PGA(NS)=   1.00,PGA(EW)=   1.99,PGV(V)=   0.04,PGV(NS)=   0.03,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   1.75,PGV(SUM)=   0.06
+Stacode=TWC ,Staname=蘇澳  ,Stalon=121.86,Stalat=24.61,Dist=  42.19,BAZ=194.66,PGA(V)=   0.62,PGA(NS)=   0.49,PGA(EW)=   1.25,PGV(V)=   0.01,PGV(NS)=   0.01,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   0.93,PGV(SUM)=   0.03
+Stacode=NNS ,Staname=南山  ,Stalon=121.38,Stalat=24.44,Dist=  43.76,BAZ=120.03,PGA(V)=   0.86,PGA(NS)=   2.70,PGA(EW)=   2.00,PGV(V)=   0.02,PGV(NS)=   0.07,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   2.07,PGV(SUM)=   0.07
+Stacode=NDS ,Staname=冬山  ,Stalon=121.72,Stalat=24.63,Dist=  43.85,BAZ=174.98,PGA(V)=   1.84,PGA(NS)=   2.71,PGA(EW)=   3.07,PGV(V)=   0.03,PGV(NS)=   0.07,PGV(EW)=   0.07,Int= 2級,PGA(SUM)=   3.05,PGV(SUM)=   0.08
+Stacode=NDT ,Staname=大同  ,Stalon=121.51,Stalat=24.60,Dist=  47.08,BAZ=148.60,PGA(V)=   0.33,PGA(NS)=   0.62,PGA(EW)=   0.98,PGV(V)=   0.02,PGV(NS)=   0.02,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   0.92,PGV(SUM)=   0.03
+Stacode=ENT ,Staname=牛鬥  ,Stalon=121.57,Stalat=24.64,Dist=  47.76,BAZ=157.41,PGA(V)=   0.82,PGA(NS)=   3.61,PGA(EW)=   3.00,PGV(V)=   0.02,PGV(NS)=   0.08,PGV(EW)=   0.07,Int= 2級,PGA(SUM)=   3.40,PGV(SUM)=   0.09
+Stacode=WHF ,Staname=合歡山,Stalon=121.27,Stalat=24.14,Dist=  50.13,BAZ= 77.72,PGA(V)=   0.39,PGA(NS)=   1.29,PGA(EW)=   0.90,PGV(V)=   0.01,PGV(NS)=   0.03,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   1.07,PGV(SUM)=   0.03
+Stacode=FUSS,Staname=梨山  ,Stalon=121.24,Stalat=24.25,Dist=  51.89,BAZ= 90.97,PGA(V)=   0.26,PGA(NS)=   0.73,PGA(EW)=   0.65,PGV(V)=   0.01,PGV(NS)=   0.02,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   0.85,PGV(SUM)=   0.03

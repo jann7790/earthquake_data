@@ -1,0 +1,23 @@
+Origin Time:2019/10/28 07:28:03
+Lon:121.89°E
+Lat:24.48°N
+Depth:26.7km
+Mag:4.5
+Stacode=EWT ,Staname=武塔  ,Stalon=121.78,Stalat=24.45,Dist=  11.91,AZ= 73.25,PGA(V)=  12.79,PGA(NS)=  61.93,PGA(EW)=  61.05
+Stacode=TWC ,Staname=蘇澳  ,Stalon=121.86,Stalat=24.61,Dist=  14.98,AZ=167.77,PGA(V)=   2.14,PGA(NS)=   7.88,PGA(EW)=   5.01
+Stacode=ENA ,Staname=南澳  ,Stalon=121.75,Stalat=24.43,Dist=  15.40,AZ= 69.05,PGA(V)=  14.37,PGA(NS)=  51.70,PGA(EW)=  58.72
+Stacode=EAH ,Staname=澳花  ,Stalon=121.74,Stalat=24.33,Dist=  22.37,AZ= 43.41,PGA(V)=   4.67,PGA(NS)=   5.27,PGA(EW)=   5.27
+Stacode=EHP ,Staname=和平  ,Stalon=121.75,Stalat=24.31,Dist=  23.56,AZ= 37.63,PGA(V)=   6.12,PGA(NS)=  15.79,PGA(EW)=  14.49
+Stacode=NDS ,Staname=冬山  ,Stalon=121.72,Stalat=24.63,Dist=  24.84,AZ=134.79,PGA(V)=   2.79,PGA(NS)=   4.38,PGA(EW)=   3.74
+Stacode=TWE ,Staname=內城  ,Stalon=121.68,Stalat=24.72,Dist=  34.09,AZ=141.85,PGA(V)=   1.03,PGA(NS)=   1.51,PGA(EW)=   1.14
+Stacode=ILA ,Staname=宜蘭市,Stalon=121.76,Stalat=24.76,Dist=  34.67,AZ=156.86,PGA(V)=   1.02,PGA(NS)=   1.18,PGA(EW)=   1.74
+Stacode=ENT ,Staname=牛鬥  ,Stalon=121.57,Stalat=24.64,Dist=  36.79,AZ=119.15,PGA(V)=   1.65,PGA(NS)=   5.53,PGA(EW)=   8.83
+Stacode=ETL ,Staname=太魯閣,Stalon=121.62,Stalat=24.16,Dist=  44.47,AZ= 37.68,PGA(V)=   1.51,PGA(NS)=   4.71,PGA(EW)=   4.29
+Stacode=ETLH,Staname=西寶  ,Stalon=121.48,Stalat=24.21,Dist=  51.10,AZ= 54.31,PGA(V)=   3.39,PGA(NS)=   3.97,PGA(EW)=   3.76
+Stacode=NNS ,Staname=南山  ,Stalon=121.38,Stalat=24.44,Dist=  51.82,AZ= 85.27,PGA(V)=   0.60,PGA(NS)=   2.23,PGA(EW)=   1.91
+Stacode=NSK ,Staname=三光  ,Stalon=121.37,Stalat=24.67,Dist=  57.45,AZ=112.38,PGA(V)=   0.62,PGA(NS)=   1.46,PGA(EW)=   1.11
+Stacode=NHDH,Staname=新店  ,Stalon=121.53,Stalat=24.96,Dist=  65.42,AZ=145.55,PGA(V)=   0.89,PGA(NS)=   0.63,PGA(EW)=   0.68
+Stacode=EYL ,Staname=鹽寮  ,Stalon=121.60,Stalat=23.90,Dist=  69.85,AZ= 24.84,PGA(V)=   0.37,PGA(NS)=   0.67,PGA(EW)=   1.23
+Stacode=NHY ,Staname=信義區,Stalon=121.57,Stalat=25.04,Dist=  70.36,AZ=152.47,PGA(V)=   1.56,PGA(NS)=   0.91,PGA(EW)=   1.21
+Stacode=WHF ,Staname=合歡山,Stalon=121.27,Stalat=24.14,Dist=  72.78,AZ= 59.59,PGA(V)=   0.50,PGA(NS)=   0.99,PGA(EW)=   1.07
+Stacode=TWT ,Staname=德基  ,Stalon=121.16,Stalat=24.25,Dist=  78.08,AZ= 71.26,PGA(V)=   0.42,PGA(NS)=   0.84,PGA(EW)=   0.42

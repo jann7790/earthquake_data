@@ -1,0 +1,22 @@
+{
+  "epicenter_lat": "25.02",
+  "epicenter_lon": "121.51",
+  "magnitude": "2.2",
+  "max_intensity": "3",
+  "locations": [
+    {
+      "latitude": "25.0376",
+      "longitude": "121.5139",
+      "county": "臺北市",
+      "intensity": "3",
+      "location_name": "臺北市"
+    },
+    {
+      "latitude": "25.0408",
+      "longitude": "121.5692",
+      "county": "臺北市",
+      "intensity": "1",
+      "location_name": "信義區"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "epicenter_lat": "22.98",
+  "epicenter_lon": "120.86",
+  "magnitude": "3.9",
+  "max_intensity": "2",
+  "locations": [
+    {
+      "latitude": "22.9933",
+      "longitude": "120.6463",
+      "county": "高雄市",
+      "intensity": "2",
+      "location_name": "六龜"
+    },
+    {
+      "latitude": "23.1607",
+      "longitude": "120.7656",
+      "county": "高雄市",
+      "intensity": "1",
+      "location_name": "桃源"
+    },
+    {
+      "latitude": "22.8215",
+      "longitude": "120.4306",
+      "county": "高雄市",
+      "intensity": "1",
+      "location_name": "旗山"
+    },
+    {
+      "latitude": "22.5957",
+      "longitude": "120.9617",
+      "county": "臺東縣",
+      "intensity": "2",
+      "location_name": "太麻里"
+    },
+    {
+      "latitude": "22.9063",
+      "longitude": "121.1305",
+      "county": "臺東縣",
+      "intensity": "2",
+      "location_name": "鹿野"
+    },
+    {
+      "latitude": "22.7525",
+      "longitude": "121.1552",
+      "county": "臺東縣",
+      "intensity": "2",
+      "location_name": "臺東市"
+    },
+    {
+      "latitude": "22.8174",
+      "longitude": "121.08",
+      "county": "臺東縣",
+      "intensity": "1",
+      "location_name": "卑南"
+    },
+    {
+      "latitude": "22.9725",
+      "longitude": "121.3039",
+      "county": "臺東縣",
+      "intensity": "1",
+      "location_name": "東河"
+    },
+    {
+      "latitude": "23.1488",
+      "longitude": "121.2061",
+      "county": "臺東縣",
+      "intensity": "1",
+      "location_name": "海端"
+    },
+    {
+      "latitude": "23.1871",
+      "longitude": "121.0251",
+      "county": "臺東縣",
+      "intensity": "1",
+      "location_name": "利稻"
+    },
+    {
+      "latitude": "23.0213",
+      "longitude": "120.3479",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "新化"
+    },
+    {
+      "latitude": "22.7054",
+      "longitude": "120.6447",
+      "county": "屏東縣",
+      "intensity": "1",
+      "location_name": "瑪家"
+    },
+    {
+      "latitude": "22.7443",
+      "longitude": "120.64",
+      "county": "屏東縣",
+      "intensity": "1",
+      "location_name": "三地門"
+    },
+    {
+      "latitude": "22.4835",
+      "longitude": "120.5681",
+      "county": "屏東縣",
+      "intensity": "1",
+      "location_name": "新埤"
+    }
+  ]
+}

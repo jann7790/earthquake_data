@@ -1,0 +1,8 @@
+Origin Time:2014/11/04 18:26:43
+Lon:120.25¢XE
+Lat:23.21¢XN
+Depth:17.1km
+Mag:3.1
+Stacode=SCL ,Staname=¨Î¨½  ,Stalon=120.20,Stalat=23.17,Dist=   6.52,AZ= 52.12,PGA(V)=   2.21,PGA(NS)=   9.39,PGA(EW)=  26.98
+Stacode=SSH ,Staname=µ½¤Æ  ,Stalon=120.29,Stalat=23.14,Dist=   8.94,AZ=335.51,PGA(V)=   0.72,PGA(NS)=   1.14,PGA(EW)=   1.44
+Stacode=SCK ,Staname=¤CªÑ  ,Stalon=120.09,Stalat=23.15,Dist=  18.35,AZ= 67.70,PGA(V)=   5.44,PGA(NS)=   3.89,PGA(EW)=   1.50

@@ -1,0 +1,36 @@
+{
+  "epicenter_lat": "23.3",
+  "epicenter_lon": "120.52",
+  "magnitude": "2.9",
+  "max_intensity": "3",
+  "locations": [
+    {
+      "latitude": "23.2438",
+      "longitude": "120.6223",
+      "county": "嘉義縣",
+      "intensity": "3",
+      "location_name": "大埔"
+    },
+    {
+      "latitude": "23.1849",
+      "longitude": "120.5286",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "楠西"
+    },
+    {
+      "latitude": "23.265",
+      "longitude": "120.4999",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "東山"
+    },
+    {
+      "latitude": "23.6363",
+      "longitude": "120.2298",
+      "county": "雲林縣",
+      "intensity": "1",
+      "location_name": "四湖"
+    }
+  ]
+}

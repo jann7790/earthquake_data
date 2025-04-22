@@ -1,0 +1,14 @@
+Origin Time:2024/04/03 09:11:17
+Lon:121.69¢XE
+Lat:24.08¢XN
+Depth:28.1km
+Mag:4.3
+Stacode=ETL ,Staname=¤Ó¾|»Õ,Stalon=121.62,Stalat=24.16,Dist=  11.04,BAZ=141.97,PGA(V)=   5.25,PGA(NS)=  22.87,PGA(EW)=  13.88,PGV(V)=   0.07,PGV(NS)=   0.34,PGV(EW)=   0.22,Int= 3¯Å,PGA(SUM)=  11.52,PGV(SUM)=   0.36
+Stacode=HWA ,Staname=ªá½¬¥«,Stalon=121.61,Stalat=23.98,Dist=  14.00,BAZ= 33.69,PGA(V)=   2.40,PGA(NS)=   5.17,PGA(EW)=   5.12,PGV(V)=   0.05,PGV(NS)=   0.17,PGV(EW)=   0.15,Int= 2¯Å,PGA(SUM)=   5.03,PGV(SUM)=   0.18
+Stacode=EYL ,Staname=ÆQ¼d  ,Stalon=121.60,Stalat=23.90,Dist=  21.52,BAZ= 24.62,PGA(V)=   4.02,PGA(NS)=  11.96,PGA(EW)=   9.39,PGV(V)=   0.12,PGV(NS)=   0.31,PGV(EW)=   0.31,Int= 3¯Å,PGA(SUM)=  13.17,PGV(SUM)=   0.41
+Stacode=ETM ,Staname=»Éªù  ,Stalon=121.49,Stalat=23.97,Dist=  23.70,BAZ= 57.73,PGA(V)=   3.77,PGA(NS)=   4.87,PGA(EW)=   8.42,PGV(V)=   0.06,PGV(NS)=   0.09,PGV(EW)=   0.11,Int= 2¯Å,PGA(SUM)=   3.67,PGV(SUM)=   0.11
+Stacode=EGC ,Staname=ÁF±T  ,Stalon=121.55,Stalat=23.71,Dist=  43.71,BAZ= 19.35,PGA(V)=   0.25,PGA(NS)=   1.54,PGA(EW)=   1.74,PGV(V)=   0.10,PGV(NS)=   0.04,PGV(EW)=   0.04,Int= 1¯Å,PGA(SUM)=   1.47,PGV(SUM)=   0.10
+Stacode=FUSS,Staname=±ù¤s  ,Stalon=121.24,Stalat=24.25,Dist=  48.97,BAZ=112.25,PGA(V)=   0.81,PGA(NS)=   1.38,PGA(EW)=   1.38,PGV(V)=   0.03,PGV(NS)=   0.06,PGV(EW)=   0.05,Int= 1¯Å,PGA(SUM)=   1.84,PGV(SUM)=   0.08
+Stacode=NNS ,Staname=«n¤s  ,Stalon=121.38,Stalat=24.44,Dist=  50.47,BAZ=141.63,PGA(V)=   0.48,PGA(NS)=   2.37,PGA(EW)=   1.67,PGV(V)=   0.02,PGV(NS)=   0.07,PGV(EW)=   0.05,Int= 1¯Å,PGA(SUM)=   2.17,PGV(SUM)=   0.09
+Stacode=EGFH,Staname=¥ú´_  ,Stalon=121.43,Stalat=23.67,Dist=  52.81,BAZ= 30.39,PGA(V)=   0.87,PGA(NS)=   0.83,PGA(EW)=   0.95,PGV(V)=   0.02,PGV(NS)=   0.02,PGV(EW)=   0.02,Int= 1¯Å,PGA(SUM)=   0.87,PGV(SUM)=   0.02
+Stacode=ENT ,Staname=¤û°«  ,Stalon=121.57,Stalat=24.64,Dist=  62.88,BAZ=169.20,PGA(V)=   0.31,PGA(NS)=   1.13,PGA(EW)=   1.40,PGV(V)=   0.01,PGV(NS)=   0.02,PGV(EW)=   0.02,Int= 1¯Å,PGA(SUM)=   0.93,PGV(SUM)=   0.03

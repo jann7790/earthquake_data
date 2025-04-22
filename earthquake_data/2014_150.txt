@@ -1,0 +1,12 @@
+Origin Time:2014/12/15 10:15:43
+Lon:120.85°E
+Lat:24.28°N
+Depth:25.1km
+Mag:3.3
+Stacode=WDS ,Staname=東勢  ,Stalon=120.83,Stalat=24.26,Dist=   3.22,AZ= 46.51,PGA(V)=   1.08,PGA(NS)=   0.60,PGA(EW)=   0.54
+Stacode=TCU ,Staname=臺中市,Stalon=120.68,Stalat=24.15,Dist=  22.64,AZ= 49.49,PGA(V)=   1.56,PGA(NS)=   0.90,PGA(EW)=   0.54
+Stacode=WCH ,Staname=彰化市,Stalon=120.56,Stalat=24.08,Dist=  37.20,AZ= 54.13,PGA(V)=   0.84,PGA(NS)=   0.48,PGA(EW)=   0.66
+Stacode=WNT1,Staname=南投市,Stalon=120.68,Stalat=23.91,Dist=  44.79,AZ= 23.19,PGA(V)=   1.14,PGA(NS)=   0.42,PGA(EW)=   0.60
+Stacode=NJN ,Staname=竹南  ,Stalon=120.87,Stalat=24.68,Dist=  44.90,AZ=182.17,PGA(V)=   0.72,PGA(NS)=   1.44,PGA(EW)=   1.08
+Stacode=WGK ,Staname=古坑  ,Stalon=120.57,Stalat=23.68,Dist=  71.82,AZ= 23.65,PGA(V)=   0.36,PGA(NS)=   1.20,PGA(EW)=   0.90
+Stacode=WTC ,Staname=大城  ,Stalon=120.29,Stalat=23.86,Dist=  73.67,AZ= 51.18,PGA(V)=   0.48,PGA(NS)=   0.90,PGA(EW)=   0.96

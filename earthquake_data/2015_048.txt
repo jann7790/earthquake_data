@@ -1,0 +1,18 @@
+Origin Time:2015/09/02 11:03:35
+Lon:121.99°E
+Lat:24.86°N
+Depth:10.7km
+Mag:4.5
+Stacode=TWB1,Staname=三貂角,Stalon=122.00,Stalat=25.01,Dist=  16.50,AZ=182.59,PGA(V)=   2.69,PGA(NS)=   5.08,PGA(EW)=   7.36
+Stacode=NGL ,Staname=貢寮  ,Stalon=121.92,Stalat=25.04,Dist=  21.09,AZ=161.28,PGA(V)=   4.55,PGA(NS)=   3.83,PGA(EW)=   2.81
+Stacode=ILA ,Staname=宜蘭市,Stalon=121.76,Stalat=24.76,Dist=  25.83,AZ= 66.10,PGA(V)=   0.78,PGA(NS)=   1.20,PGA(EW)=   1.50
+Stacode=NPL ,Staname=坪林  ,Stalon=121.71,Stalat=24.94,Dist=  29.42,AZ=107.59,PGA(V)=   0.42,PGA(NS)=   1.08,PGA(EW)=   0.78
+Stacode=NLD ,Staname=羅東  ,Stalon=121.77,Stalat=24.67,Dist=  30.01,AZ= 47.01,PGA(V)=   1.91,PGA(NS)=   3.95,PGA(EW)=   4.55
+Stacode=TWC ,Staname=蘇澳  ,Stalon=121.86,Stalat=24.61,Dist=  30.65,AZ= 25.48,PGA(V)=   0.84,PGA(NS)=   2.69,PGA(EW)=   2.39
+Stacode=NWF ,Staname=五分山,Stalon=121.78,Stalat=25.07,Dist=  31.72,AZ=138.27,PGA(V)=   1.14,PGA(NS)=   3.65,PGA(EW)=   2.51
+Stacode=NOU ,Staname=基隆市,Stalon=121.77,Stalat=25.15,Dist=  38.98,AZ=145.88,PGA(V)=   0.84,PGA(NS)=   0.54,PGA(EW)=   0.84
+Stacode=NHY ,Staname=信義區,Stalon=121.57,Stalat=25.04,Dist=  47.06,AZ=115.49,PGA(V)=   1.26,PGA(NS)=   1.14,PGA(EW)=   1.91
+Stacode=NWR ,Staname=萬里  ,Stalon=121.66,Stalat=25.20,Dist=  50.65,AZ=138.95,PGA(V)=   0.78,PGA(NS)=   1.08,PGA(EW)=   1.02
+Stacode=ENA ,Staname=南澳  ,Stalon=121.75,Stalat=24.43,Dist=  53.72,AZ= 26.99,PGA(V)=   1.26,PGA(NS)=   5.14,PGA(EW)=   5.14
+Stacode=BAC ,Staname=新北市,Stalon=121.44,Stalat=25.00,Dist=  57.47,AZ=105.60,PGA(V)=   0.78,PGA(NS)=   1.50,PGA(EW)=   1.08
+Stacode=ETL ,Staname=太魯閣,Stalon=121.62,Stalat=24.16,Dist=  85.96,AZ= 25.62,PGA(V)=   0.30,PGA(NS)=   1.08,PGA(EW)=   0.90

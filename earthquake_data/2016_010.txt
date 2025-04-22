@@ -1,0 +1,11 @@
+Origin Time:2016/02/06 21:41:56
+Lon:120.37°E
+Lat:22.96°N
+Depth:23.4km
+Mag:3.5
+Stacode=CHN3,Staname=新化  ,Stalon=120.36,Stalat=23.08,Dist=  12.73,AZ=177.48,PGA(V)=   1.38,PGA(NS)=   2.15,PGA(EW)=   2.09
+Stacode=TAI1,Staname=永康  ,Stalon=120.24,Stalat=23.04,Dist=  16.14,AZ=122.05,PGA(V)=   0.54,PGA(NS)=   0.96,PGA(EW)=   0.60
+Stacode=TAI ,Staname=臺南市,Stalon=120.21,Stalat=22.99,Dist=  17.31,AZ=102.01,PGA(V)=   2.33,PGA(NS)=   4.25,PGA(EW)=   2.27
+Stacode=SSH ,Staname=善化  ,Stalon=120.29,Stalat=23.14,Dist=  21.18,AZ=156.63,PGA(V)=   1.91,PGA(NS)=   1.56,PGA(EW)=   1.32
+Stacode=SCL ,Staname=佳里  ,Stalon=120.20,Stalat=23.17,Dist=  29.21,AZ=143.78,PGA(V)=   1.02,PGA(NS)=   1.08,PGA(EW)=   0.84
+Stacode=WSF ,Staname=四湖  ,Stalon=120.23,Stalat=23.64,Dist=  76.19,AZ=169.14,PGA(V)=   0.42,PGA(NS)=   0.54,PGA(EW)=   0.96

@@ -1,0 +1,29 @@
+{
+  "epicenter_lat": "21.05",
+  "epicenter_lon": "122.21",
+  "magnitude": "5.3",
+  "max_intensity": "1",
+  "locations": [
+    {
+      "latitude": "21.9009",
+      "longitude": "120.8551",
+      "county": "屏東縣",
+      "intensity": "1",
+      "location_name": "鵝鑾鼻"
+    },
+    {
+      "latitude": "22.0373",
+      "longitude": "121.5581",
+      "county": "臺東縣",
+      "intensity": "1",
+      "location_name": "蘭嶼"
+    },
+    {
+      "latitude": "22.9932",
+      "longitude": "120.2047",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "臺南市"
+    }
+  ]
+}

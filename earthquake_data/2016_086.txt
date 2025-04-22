@@ -1,0 +1,18 @@
+Origin Time:2016/07/16 10:35:25
+Lon:121.75°E
+Lat:24.36°N
+Depth:19.6km
+Mag:4.2
+Stacode=EHP ,Staname=和平  ,Stalon=121.75,Stalat=24.31,Dist=   6.13,AZ=  0.32,PGA(V)=   5.38,PGA(NS)=   7.42,PGA(EW)=   7.30
+Stacode=ENA ,Staname=南澳  ,Stalon=121.75,Stalat=24.43,Dist=   6.97,AZ=179.72,PGA(V)=   7.96,PGA(NS)=  21.00,PGA(EW)=  34.63
+Stacode=ETL ,Staname=太魯閣,Stalon=121.62,Stalat=24.16,Dist=  26.04,AZ= 29.51,PGA(V)=   2.03,PGA(NS)=   6.70,PGA(EW)=   4.85
+Stacode=TWC ,Staname=蘇澳  ,Stalon=121.86,Stalat=24.61,Dist=  29.38,AZ=202.33,PGA(V)=   1.20,PGA(NS)=   2.63,PGA(EW)=   3.17
+Stacode=NLD ,Staname=羅東  ,Stalon=121.77,Stalat=24.67,Dist=  34.47,AZ=183.95,PGA(V)=   1.08,PGA(NS)=   2.99,PGA(EW)=   2.63
+Stacode=TWD ,Staname=秀林  ,Stalon=121.60,Stalat=24.08,Dist=  34.49,AZ= 25.19,PGA(V)=   0.72,PGA(NS)=   0.84,PGA(EW)=   0.60
+Stacode=ENT ,Staname=牛鬥  ,Stalon=121.57,Stalat=24.64,Dist=  35.23,AZ=149.65,PGA(V)=   0.66,PGA(NS)=   2.81,PGA(EW)=   2.69
+Stacode=NNS ,Staname=南山  ,Stalon=121.38,Stalat=24.44,Dist=  38.23,AZ=102.49,PGA(V)=   0.60,PGA(NS)=   4.19,PGA(EW)=   2.39
+Stacode=ETM ,Staname=銅門  ,Stalon=121.49,Stalat=23.97,Dist=  51.15,AZ= 30.64,PGA(V)=   0.60,PGA(NS)=   1.20,PGA(EW)=   0.66
+Stacode=NSK ,Staname=三光  ,Stalon=121.37,Stalat=24.67,Dist=  51.86,AZ=131.62,PGA(V)=   0.36,PGA(NS)=   0.96,PGA(EW)=   0.84
+Stacode=EYL ,Staname=鹽寮  ,Stalon=121.60,Stalat=23.90,Dist=  53.01,AZ= 16.41,PGA(V)=   0.42,PGA(NS)=   0.90,PGA(EW)=   0.72
+Stacode=WHF ,Staname=合歡山,Stalon=121.27,Stalat=24.14,Dist=  54.17,AZ= 63.36,PGA(V)=   0.24,PGA(NS)=   1.08,PGA(EW)=   1.26
+Stacode=ESF ,Staname=壽豐  ,Stalon=121.51,Stalat=23.87,Dist=  59.80,AZ= 24.29,PGA(V)=   0.36,PGA(NS)=   0.72,PGA(EW)=   0.90

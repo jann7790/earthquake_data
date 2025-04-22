@@ -1,0 +1,750 @@
+{
+  "epicenter_lat": "23.9857",
+  "epicenter_lon": "121.5425",
+  "magnitude": "5.4",
+  "max_intensity": "4",
+  "locations": [
+    {
+      "latitude": "23.7078",
+      "longitude": "121.5476",
+      "county": "花蓮縣",
+      "intensity": "4",
+      "location_name": "磯崎"
+    },
+    {
+      "latitude": "23.812",
+      "longitude": "121.4416",
+      "county": "花蓮縣",
+      "intensity": "4",
+      "location_name": "西林"
+    },
+    {
+      "latitude": "24.1587",
+      "longitude": "121.6229",
+      "county": "花蓮縣",
+      "intensity": "4",
+      "location_name": "太魯閣"
+    },
+    {
+      "latitude": "24.2068",
+      "longitude": "121.4818",
+      "county": "花蓮縣",
+      "intensity": "4",
+      "location_name": "西寶"
+    },
+    {
+      "latitude": "23.9659",
+      "longitude": "121.4928",
+      "county": "花蓮縣",
+      "intensity": "4",
+      "location_name": "銅門"
+    },
+    {
+      "latitude": "23.9035",
+      "longitude": "121.6017",
+      "county": "花蓮縣",
+      "intensity": "4",
+      "location_name": "鹽寮"
+    },
+    {
+      "latitude": "23.9751",
+      "longitude": "121.6138",
+      "county": "花蓮縣",
+      "intensity": "4",
+      "location_name": "花蓮市"
+    },
+    {
+      "latitude": "24.0812",
+      "longitude": "121.6045",
+      "county": "花蓮縣",
+      "intensity": "4",
+      "location_name": "秀林"
+    },
+    {
+      "latitude": "23.7875",
+      "longitude": "121.5627",
+      "county": "花蓮縣",
+      "intensity": "3",
+      "location_name": "水璉"
+    },
+    {
+      "latitude": "23.6689",
+      "longitude": "121.4275",
+      "county": "花蓮縣",
+      "intensity": "3",
+      "location_name": "光復"
+    },
+    {
+      "latitude": "24.309",
+      "longitude": "121.7494",
+      "county": "花蓮縣",
+      "intensity": "2",
+      "location_name": "和平"
+    },
+    {
+      "latitude": "23.5038",
+      "longitude": "121.3299",
+      "county": "花蓮縣",
+      "intensity": "2",
+      "location_name": "紅葉"
+    },
+    {
+      "latitude": "23.3472",
+      "longitude": "121.3191",
+      "county": "花蓮縣",
+      "intensity": "2",
+      "location_name": "玉里"
+    },
+    {
+      "latitude": "23.1988",
+      "longitude": "121.2939",
+      "county": "花蓮縣",
+      "intensity": "1",
+      "location_name": "富里"
+    },
+    {
+      "latitude": "24.1434",
+      "longitude": "121.2725",
+      "county": "南投縣",
+      "intensity": "4",
+      "location_name": "合歡山"
+    },
+    {
+      "latitude": "23.9545",
+      "longitude": "121.1759",
+      "county": "南投縣",
+      "intensity": "3",
+      "location_name": "奧萬大"
+    },
+    {
+      "latitude": "23.8813",
+      "longitude": "120.9082",
+      "county": "南投縣",
+      "intensity": "2",
+      "location_name": "日月潭"
+    },
+    {
+      "latitude": "23.8219",
+      "longitude": "120.7279",
+      "county": "南投縣",
+      "intensity": "2",
+      "location_name": "竹山"
+    },
+    {
+      "latitude": "23.8766",
+      "longitude": "120.6925",
+      "county": "南投縣",
+      "intensity": "2",
+      "location_name": "名間"
+    },
+    {
+      "latitude": "23.9071",
+      "longitude": "120.6802",
+      "county": "南投縣",
+      "intensity": "2",
+      "location_name": "南投市"
+    },
+    {
+      "latitude": "24.0124",
+      "longitude": "120.9573",
+      "county": "南投縣",
+      "intensity": "2",
+      "location_name": "埔里"
+    },
+    {
+      "latitude": "23.4873",
+      "longitude": "120.9594",
+      "county": "南投縣",
+      "intensity": "2",
+      "location_name": "玉山"
+    },
+    {
+      "latitude": "23.905",
+      "longitude": "120.8698",
+      "county": "南投縣",
+      "intensity": "1",
+      "location_name": "魚池"
+    },
+    {
+      "latitude": "24.0566",
+      "longitude": "120.9117",
+      "county": "南投縣",
+      "intensity": "1",
+      "location_name": "國姓"
+    },
+    {
+      "latitude": "23.6961",
+      "longitude": "120.8532",
+      "county": "南投縣",
+      "intensity": "1",
+      "location_name": "信義鄉"
+    },
+    {
+      "latitude": "24.0794",
+      "longitude": "120.5583",
+      "county": "彰化縣",
+      "intensity": "3",
+      "location_name": "彰化市"
+    },
+    {
+      "latitude": "23.9026",
+      "longitude": "120.3781",
+      "county": "彰化縣",
+      "intensity": "2",
+      "location_name": "二林"
+    },
+    {
+      "latitude": "24.0552",
+      "longitude": "120.4303",
+      "county": "彰化縣",
+      "intensity": "2",
+      "location_name": "鹿港"
+    },
+    {
+      "latitude": "23.9605",
+      "longitude": "120.5799",
+      "county": "彰化縣",
+      "intensity": "2",
+      "location_name": "員林"
+    },
+    {
+      "latitude": "23.8617",
+      "longitude": "120.2892",
+      "county": "彰化縣",
+      "intensity": "1",
+      "location_name": "大城"
+    },
+    {
+      "latitude": "24.4259",
+      "longitude": "121.749",
+      "county": "宜蘭縣",
+      "intensity": "3",
+      "location_name": "南澳"
+    },
+    {
+      "latitude": "24.4374",
+      "longitude": "121.3813",
+      "county": "宜蘭縣",
+      "intensity": "3",
+      "location_name": "南山"
+    },
+    {
+      "latitude": "24.6378",
+      "longitude": "121.5737",
+      "county": "宜蘭縣",
+      "intensity": "2",
+      "location_name": "牛鬥"
+    },
+    {
+      "latitude": "24.445",
+      "longitude": "121.7783",
+      "county": "宜蘭縣",
+      "intensity": "2",
+      "location_name": "武塔"
+    },
+    {
+      "latitude": "24.634",
+      "longitude": "121.7168",
+      "county": "宜蘭縣",
+      "intensity": "2",
+      "location_name": "冬山"
+    },
+    {
+      "latitude": "24.3293",
+      "longitude": "121.7393",
+      "county": "宜蘭縣",
+      "intensity": "2",
+      "location_name": "澳花"
+    },
+    {
+      "latitude": "24.6025",
+      "longitude": "121.5128",
+      "county": "宜蘭縣",
+      "intensity": "1",
+      "location_name": "大同"
+    },
+    {
+      "latitude": "24.764",
+      "longitude": "121.7572",
+      "county": "宜蘭縣",
+      "intensity": "1",
+      "location_name": "宜蘭市"
+    },
+    {
+      "latitude": "24.8535",
+      "longitude": "121.8302",
+      "county": "宜蘭縣",
+      "intensity": "1",
+      "location_name": "頭城"
+    },
+    {
+      "latitude": "24.6082",
+      "longitude": "121.86",
+      "county": "宜蘭縣",
+      "intensity": "1",
+      "location_name": "蘇澳"
+    },
+    {
+      "latitude": "24.7181",
+      "longitude": "121.6829",
+      "county": "宜蘭縣",
+      "intensity": "1",
+      "location_name": "內城"
+    },
+    {
+      "latitude": "22.9725",
+      "longitude": "121.3039",
+      "county": "臺東縣",
+      "intensity": "2",
+      "location_name": "東河"
+    },
+    {
+      "latitude": "23.3164",
+      "longitude": "121.4512",
+      "county": "臺東縣",
+      "intensity": "2",
+      "location_name": "長濱"
+    },
+    {
+      "latitude": "23.0952",
+      "longitude": "121.2192",
+      "county": "臺東縣",
+      "intensity": "1",
+      "location_name": "池上"
+    },
+    {
+      "latitude": "23.0978",
+      "longitude": "121.3731",
+      "county": "臺東縣",
+      "intensity": "1",
+      "location_name": "成功"
+    },
+    {
+      "latitude": "23.1488",
+      "longitude": "121.2061",
+      "county": "臺東縣",
+      "intensity": "1",
+      "location_name": "海端"
+    },
+    {
+      "latitude": "23.1871",
+      "longitude": "121.0251",
+      "county": "臺東縣",
+      "intensity": "1",
+      "location_name": "利稻"
+    },
+    {
+      "latitude": "22.6733",
+      "longitude": "121.4693",
+      "county": "臺東縣",
+      "intensity": "1",
+      "location_name": "綠島"
+    },
+    {
+      "latitude": "22.9063",
+      "longitude": "121.1305",
+      "county": "臺東縣",
+      "intensity": "1",
+      "location_name": "鹿野"
+    },
+    {
+      "latitude": "24.2495",
+      "longitude": "121.1618",
+      "county": "臺中市",
+      "intensity": "2",
+      "location_name": "德基"
+    },
+    {
+      "latitude": "24.042",
+      "longitude": "120.699",
+      "county": "臺中市",
+      "intensity": "2",
+      "location_name": "霧峰"
+    },
+    {
+      "latitude": "24.2475",
+      "longitude": "121.2437",
+      "county": "臺中市",
+      "intensity": "2",
+      "location_name": "梨山"
+    },
+    {
+      "latitude": "24.1456",
+      "longitude": "120.6841",
+      "county": "臺中市",
+      "intensity": "1",
+      "location_name": "臺中市"
+    },
+    {
+      "latitude": "24.3477",
+      "longitude": "120.6404",
+      "county": "臺中市",
+      "intensity": "1",
+      "location_name": "大甲"
+    },
+    {
+      "latitude": "24.2777",
+      "longitude": "120.9458",
+      "county": "臺中市",
+      "intensity": "1",
+      "location_name": "烏石坑"
+    },
+    {
+      "latitude": "24.2566",
+      "longitude": "120.5234",
+      "county": "臺中市",
+      "intensity": "1",
+      "location_name": "梧棲"
+    },
+    {
+      "latitude": "24.7771",
+      "longitude": "121.1753",
+      "county": "新竹縣",
+      "intensity": "2",
+      "location_name": "關西"
+    },
+    {
+      "latitude": "24.7357",
+      "longitude": "121.0881",
+      "county": "新竹縣",
+      "intensity": "2",
+      "location_name": "竹東"
+    },
+    {
+      "latitude": "24.8281",
+      "longitude": "121.0143",
+      "county": "新竹縣",
+      "intensity": "1",
+      "location_name": "竹北市"
+    },
+    {
+      "latitude": "24.6468",
+      "longitude": "121.0163",
+      "county": "新竹縣",
+      "intensity": "1",
+      "location_name": "峨眉"
+    },
+    {
+      "latitude": "24.6319",
+      "longitude": "121.1178",
+      "county": "新竹縣",
+      "intensity": "1",
+      "location_name": "五峰"
+    },
+    {
+      "latitude": "23.4963",
+      "longitude": "120.4327",
+      "county": "嘉義市",
+      "intensity": "2",
+      "location_name": "嘉義市"
+    },
+    {
+      "latitude": "23.5319",
+      "longitude": "120.4744",
+      "county": "嘉義縣",
+      "intensity": "2",
+      "location_name": "民雄"
+    },
+    {
+      "latitude": "23.457",
+      "longitude": "120.2939",
+      "county": "嘉義縣",
+      "intensity": "2",
+      "location_name": "太保市"
+    },
+    {
+      "latitude": "23.4385",
+      "longitude": "120.6047",
+      "county": "嘉義縣",
+      "intensity": "2",
+      "location_name": "番路"
+    },
+    {
+      "latitude": "23.2438",
+      "longitude": "120.6223",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "大埔"
+    },
+    {
+      "latitude": "23.3473",
+      "longitude": "120.2227",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "義竹"
+    },
+    {
+      "latitude": "23.5084",
+      "longitude": "120.8134",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "阿里山"
+    },
+    {
+      "latitude": "25.0067",
+      "longitude": "121.0476",
+      "county": "桃園市",
+      "intensity": "2",
+      "location_name": "新屋"
+    },
+    {
+      "latitude": "24.6737",
+      "longitude": "121.3666",
+      "county": "桃園市",
+      "intensity": "2",
+      "location_name": "三光"
+    },
+    {
+      "latitude": "24.9997",
+      "longitude": "121.2976",
+      "county": "桃園市",
+      "intensity": "1",
+      "location_name": "桃園市"
+    },
+    {
+      "latitude": "24.8842",
+      "longitude": "121.2864",
+      "county": "桃園市",
+      "intensity": "1",
+      "location_name": "大溪"
+    },
+    {
+      "latitude": "24.9671",
+      "longitude": "121.1869",
+      "county": "桃園市",
+      "intensity": "1",
+      "location_name": "中壢"
+    },
+    {
+      "latitude": "23.5972",
+      "longitude": "120.6769",
+      "county": "雲林縣",
+      "intensity": "2",
+      "location_name": "草嶺"
+    },
+    {
+      "latitude": "23.7149",
+      "longitude": "120.5385",
+      "county": "雲林縣",
+      "intensity": "2",
+      "location_name": "斗六市"
+    },
+    {
+      "latitude": "23.6844",
+      "longitude": "120.5703",
+      "county": "雲林縣",
+      "intensity": "2",
+      "location_name": "古坑"
+    },
+    {
+      "latitude": "23.8044",
+      "longitude": "120.2232",
+      "county": "雲林縣",
+      "intensity": "2",
+      "location_name": "麥寮"
+    },
+    {
+      "latitude": "23.6363",
+      "longitude": "120.2298",
+      "county": "雲林縣",
+      "intensity": "2",
+      "location_name": "四湖"
+    },
+    {
+      "latitude": "23.6876",
+      "longitude": "120.3886",
+      "county": "雲林縣",
+      "intensity": "2",
+      "location_name": "土庫"
+    },
+    {
+      "latitude": "23.7889",
+      "longitude": "120.4862",
+      "county": "雲林縣",
+      "intensity": "1",
+      "location_name": "西螺"
+    },
+    {
+      "latitude": "23.5226",
+      "longitude": "120.2278",
+      "county": "雲林縣",
+      "intensity": "1",
+      "location_name": "水林"
+    },
+    {
+      "latitude": "25.0192",
+      "longitude": "121.4747",
+      "county": "新北市",
+      "intensity": "2",
+      "location_name": "新北市"
+    },
+    {
+      "latitude": "24.8637",
+      "longitude": "121.5534",
+      "county": "新北市",
+      "intensity": "1",
+      "location_name": "烏來"
+    },
+    {
+      "latitude": "24.9596",
+      "longitude": "121.5251",
+      "county": "新北市",
+      "intensity": "1",
+      "location_name": "新店"
+    },
+    {
+      "latitude": "24.9391",
+      "longitude": "121.3743",
+      "county": "新北市",
+      "intensity": "1",
+      "location_name": "三峽"
+    },
+    {
+      "latitude": "25.1644",
+      "longitude": "121.4492",
+      "county": "新北市",
+      "intensity": "1",
+      "location_name": "淡水"
+    },
+    {
+      "latitude": "25.0716",
+      "longitude": "121.7818",
+      "county": "新北市",
+      "intensity": "1",
+      "location_name": "五分山"
+    },
+    {
+      "latitude": "25.0765",
+      "longitude": "121.6403",
+      "county": "新北市",
+      "intensity": "1",
+      "location_name": "汐止"
+    },
+    {
+      "latitude": "25.1014",
+      "longitude": "121.4234",
+      "county": "新北市",
+      "intensity": "1",
+      "location_name": "五股"
+    },
+    {
+      "latitude": "24.7786",
+      "longitude": "121.0182",
+      "county": "新竹市",
+      "intensity": "1",
+      "location_name": "新竹市"
+    },
+    {
+      "latitude": "22.8675",
+      "longitude": "120.2643",
+      "county": "高雄市",
+      "intensity": "1",
+      "location_name": "路竹"
+    },
+    {
+      "latitude": "22.8855",
+      "longitude": "120.4938",
+      "county": "高雄市",
+      "intensity": "1",
+      "location_name": "旗山"
+    },
+    {
+      "latitude": "22.7234",
+      "longitude": "120.4987",
+      "county": "屏東縣",
+      "intensity": "1",
+      "location_name": "九如"
+    },
+    {
+      "latitude": "24.6836",
+      "longitude": "120.8703",
+      "county": "苗栗縣",
+      "intensity": "1",
+      "location_name": "竹南"
+    },
+    {
+      "latitude": "24.5649",
+      "longitude": "120.8258",
+      "county": "苗栗縣",
+      "intensity": "1",
+      "location_name": "苗栗市"
+    },
+    {
+      "latitude": "24.6296",
+      "longitude": "121.0088",
+      "county": "苗栗縣",
+      "intensity": "1",
+      "location_name": "南庄"
+    },
+    {
+      "latitude": "24.4144",
+      "longitude": "120.7697",
+      "county": "苗栗縣",
+      "intensity": "1",
+      "location_name": "三義"
+    },
+    {
+      "latitude": "24.3465",
+      "longitude": "120.7809",
+      "county": "苗栗縣",
+      "intensity": "1",
+      "location_name": "鯉魚潭"
+    },
+    {
+      "latitude": "25.0376",
+      "longitude": "121.5139",
+      "county": "臺北市",
+      "intensity": "1",
+      "location_name": "臺北市"
+    },
+    {
+      "latitude": "23.3526",
+      "longitude": "120.4144",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "白河"
+    },
+    {
+      "latitude": "23.1849",
+      "longitude": "120.5286",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "楠西"
+    },
+    {
+      "latitude": "23.1743",
+      "longitude": "120.2018",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "佳里"
+    },
+    {
+      "latitude": "23.0213",
+      "longitude": "120.3479",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "新化"
+    },
+    {
+      "latitude": "23.1361",
+      "longitude": "120.2882",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "善化"
+    },
+    {
+      "latitude": "22.9932",
+      "longitude": "120.2047",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "臺南市"
+    },
+    {
+      "latitude": "23.0385",
+      "longitude": "120.2364",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "永康"
+    }
+  ]
+}

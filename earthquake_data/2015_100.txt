@@ -1,0 +1,13 @@
+Origin Time:2015/12/31 08:53:14
+Lon:121.80°E
+Lat:21.41°N
+Depth:147.4km
+Mag:5.0
+Stacode=LAY ,Staname=蘭嶼  ,Stalon=121.56,Stalat=22.04,Dist=  74.20,AZ=160.57,PGA(V)=   1.26,PGA(NS)=   2.45,PGA(EW)=   2.63
+Stacode=SEB ,Staname=鵝鑾鼻,Stalon=120.86,Stalat=21.90,Dist= 111.83,AZ=119.38,PGA(V)=   0.42,PGA(NS)=   1.62,PGA(EW)=   0.78
+Stacode=SNW ,Staname=南灣  ,Stalon=120.75,Stalat=21.96,Dist= 124.52,AZ=119.79,PGA(V)=   0.66,PGA(NS)=   1.44,PGA(EW)=   1.08
+Stacode=EAS ,Staname=安朔  ,Stalon=120.86,Stalat=22.38,Dist= 145.29,AZ=138.05,PGA(V)=   0.84,PGA(NS)=   0.78,PGA(EW)=   0.60
+Stacode=SSD ,Staname=三地門,Stalon=120.64,Stalat=22.74,Dist= 190.33,AZ=141.17,PGA(V)=   1.14,PGA(NS)=   1.50,PGA(EW)=   1.14
+Stacode=KAU ,Staname=高雄市,Stalon=120.32,Stalat=22.57,Dist= 199.76,AZ=130.05,PGA(V)=   3.83,PGA(NS)=   1.62,PGA(EW)=   1.02
+Stacode=TAI ,Staname=臺南市,Stalon=120.21,Stalat=22.99,Dist= 240.51,AZ=136.97,PGA(V)=   3.95,PGA(NS)=   1.62,PGA(EW)=   0.54
+Stacode=CHN7,Staname=六腳  ,Stalon=120.24,Stalat=23.48,Dist= 280.42,AZ=145.14,PGA(V)=   1.26,PGA(NS)=   0.78,PGA(EW)=   0.78

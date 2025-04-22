@@ -1,0 +1,7 @@
+Origin Time:2014/08/02 23:01:21
+Lon:120.77°E
+Lat:24.21°N
+Depth:9.9km
+Mag:2.1
+Stacode=WDS ,Staname=東勢  ,Stalon=120.83,Stalat=24.26,Dist=   8.21,AZ=224.00,PGA(V)=   0.36,PGA(NS)=   2.81,PGA(EW)=   0.96
+Stacode=TCU ,Staname=臺中市,Stalon=120.68,Stalat=24.15,Dist=  11.30,AZ= 54.34,PGA(V)=   0.18,PGA(NS)=   0.42,PGA(EW)=   0.90

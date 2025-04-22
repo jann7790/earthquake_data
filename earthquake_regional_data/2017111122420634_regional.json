@@ -1,0 +1,64 @@
+{
+  "epicenter_lat": "23.64",
+  "epicenter_lon": "120.7",
+  "magnitude": "3.4",
+  "max_intensity": "3",
+  "locations": [
+    {
+      "latitude": "23.5972",
+      "longitude": "120.6769",
+      "county": "雲林縣",
+      "intensity": "3",
+      "location_name": "草嶺"
+    },
+    {
+      "latitude": "23.6844",
+      "longitude": "120.5703",
+      "county": "雲林縣",
+      "intensity": "3",
+      "location_name": "古坑"
+    },
+    {
+      "latitude": "23.7149",
+      "longitude": "120.5385",
+      "county": "雲林縣",
+      "intensity": "2",
+      "location_name": "斗六市"
+    },
+    {
+      "latitude": "23.6363",
+      "longitude": "120.2298",
+      "county": "雲林縣",
+      "intensity": "1",
+      "location_name": "四湖"
+    },
+    {
+      "latitude": "23.4963",
+      "longitude": "120.4327",
+      "county": "嘉義市",
+      "intensity": "1",
+      "location_name": "嘉義市"
+    },
+    {
+      "latitude": "23.5084",
+      "longitude": "120.8134",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "阿里山"
+    },
+    {
+      "latitude": "23.1743",
+      "longitude": "120.2018",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "佳里"
+    },
+    {
+      "latitude": "23.8766",
+      "longitude": "120.6925",
+      "county": "南投縣",
+      "intensity": "1",
+      "location_name": "名間"
+    }
+  ]
+}

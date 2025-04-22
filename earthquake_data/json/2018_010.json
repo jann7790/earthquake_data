@@ -1,0 +1,87 @@
+{
+  "earthquake_id": "010",
+  "timestamp": "2018-02-04T22:12:02",
+  "latitude": 24.23,
+  "longitude": 121.73,
+  "depth_km": 4.0,
+  "magnitude": 4.7,
+  "stations": [
+    {
+      "Stacode": "EHP",
+      "Staname": "和平",
+      "Stalon": 121.75,
+      "Stalat": 24.31,
+      "Dist": 8.93,
+      "AZ": 194.6,
+      "PGA(V)": 57.84,
+      "PGA(NS)": 45.28,
+      "PGA(EW)": 48.45
+    },
+    {
+      "Stacode": "ENA",
+      "Staname": "南澳",
+      "Stalon": 121.75,
+      "Stalat": 24.43,
+      "Dist": 21.86,
+      "AZ": 185.91,
+      "PGA(V)": 15.43,
+      "PGA(NS)": 52.76,
+      "PGA(EW)": 55.21
+    },
+    {
+      "Stacode": "TWC",
+      "Staname": "蘇澳",
+      "Stalon": 121.86,
+      "Stalat": 24.61,
+      "Dist": 44.05,
+      "AZ": 197.78,
+      "PGA(V)": 1.32,
+      "PGA(NS)": 3.65,
+      "PGA(EW)": 2.63
+    },
+    {
+      "Stacode": "ENT",
+      "Staname": "牛鬥",
+      "Stalon": 121.57,
+      "Stalat": 24.64,
+      "Dist": 47.76,
+      "AZ": 161.03,
+      "PGA(V)": 4.01,
+      "PGA(NS)": 13.82,
+      "PGA(EW)": 9.27
+    },
+    {
+      "Stacode": "NLD",
+      "Staname": "羅東",
+      "Stalon": 121.77,
+      "Stalat": 24.67,
+      "Dist": 49.38,
+      "AZ": 185.42,
+      "PGA(V)": 4.07,
+      "PGA(NS)": 8.79,
+      "PGA(EW)": 8.2
+    },
+    {
+      "Stacode": "TWE",
+      "Staname": "內城",
+      "Stalon": 121.68,
+      "Stalat": 24.72,
+      "Dist": 54.31,
+      "AZ": 175.29,
+      "PGA(V)": 2.45,
+      "PGA(NS)": 0.0,
+      "PGA(EW)": 4.01
+    },
+    {
+      "Stacode": "TAP",
+      "Staname": "臺北市",
+      "Stalon": 121.51,
+      "Stalat": 25.04,
+      "Dist": 92.03,
+      "AZ": 166.46,
+      "PGA(V)": 1.02,
+      "PGA(NS)": 2.39,
+      "PGA(EW)": 2.09
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+Origin Time:2014/02/12 00:31:02
+Lon:121.57°E
+Lat:25.13°N
+Depth:6.4km
+Mag:4.2
+Stacode=ANP ,Staname=陽明山,Stalon=121.53,Stalat=25.18,Dist=   7.01,AZ=142.71,PGA(V)=  29.13,PGA(NS)=  18.60,PGA(EW)=  66.34
+Stacode=NHY ,Staname=信義區,Stalon=121.57,Stalat=25.04,Dist=  10.14,AZ=  1.22,PGA(V)=  17.35,PGA(NS)=   9.87,PGA(EW)=   7.66
+Stacode=TAP ,Staname=臺北市,Stalon=121.51,Stalat=25.04,Dist=  12.01,AZ= 28.78,PGA(V)=   3.71,PGA(NS)=   3.71,PGA(EW)=   4.49
+Stacode=TWS1,Staname=五股  ,Stalon=121.42,Stalat=25.10,Dist=  15.31,AZ= 77.11,PGA(V)=  11.01,PGA(NS)=  17.23,PGA(EW)=  12.26
+Stacode=TWA ,Staname=指南宮,Stalon=121.59,Stalat=24.98,Dist=  17.25,AZ=352.99,PGA(V)=   1.68,PGA(NS)=   1.38,PGA(EW)=   1.74
+Stacode=NOU ,Staname=基隆市,Stalon=121.77,Stalat=25.15,Dist=  20.44,AZ=264.72,PGA(V)=   3.11,PGA(NS)=   1.68,PGA(EW)=   1.26
+Stacode=NWF ,Staname=五分山,Stalon=121.78,Stalat=25.07,Dist=  22.16,AZ=287.64,PGA(V)=   1.74,PGA(NS)=   6.64,PGA(EW)=   3.47
+Stacode=NHD ,Staname=新店  ,Stalon=121.55,Stalat=24.90,Dist=  25.55,AZ=  4.09,PGA(V)=   0.84,PGA(NS)=   3.11,PGA(EW)=   3.11
+Stacode=NPL ,Staname=坪林  ,Stalon=121.71,Stalat=24.94,Dist=  25.77,AZ=326.52,PGA(V)=   0.96,PGA(NS)=   2.99,PGA(EW)=   1.44
+Stacode=NTY ,Staname=桃園市,Stalon=121.31,Stalat=25.00,Dist=  30.57,AZ= 60.87,PGA(V)=   1.56,PGA(NS)=   8.20,PGA(EW)=   4.97
+Stacode=NCU ,Staname=中壢  ,Stalon=121.19,Stalat=24.97,Dist=  42.19,AZ= 64.32,PGA(V)=   1.02,PGA(NS)=   1.20,PGA(EW)=   1.20
+Stacode=NJD ,Staname=竹東  ,Stalon=121.09,Stalat=24.74,Dist=  65.66,AZ= 48.01,PGA(V)=   0.30,PGA(NS)=   1.14,PGA(EW)=   0.66
+Stacode=NJN ,Staname=竹南  ,Stalon=120.87,Stalat=24.68,Dist=  86.52,AZ= 54.94,PGA(V)=   0.12,PGA(NS)=   1.26,PGA(EW)=   0.66

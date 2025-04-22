@@ -1,0 +1,106 @@
+{
+  "epicenter_lat": "24.34",
+  "epicenter_lon": "120.93",
+  "magnitude": "4.1",
+  "max_intensity": "2",
+  "locations": [
+    {
+      "latitude": "24.6836",
+      "longitude": "120.8703",
+      "county": "苗栗縣",
+      "intensity": "2",
+      "location_name": "竹南"
+    },
+    {
+      "latitude": "24.5374",
+      "longitude": "120.7909",
+      "county": "苗栗縣",
+      "intensity": "2",
+      "location_name": "苗栗市"
+    },
+    {
+      "latitude": "24.3465",
+      "longitude": "120.7809",
+      "county": "苗栗縣",
+      "intensity": "2",
+      "location_name": "鯉魚潭"
+    },
+    {
+      "latitude": "24.4144",
+      "longitude": "120.7697",
+      "county": "苗栗縣",
+      "intensity": "1",
+      "location_name": "三義"
+    },
+    {
+      "latitude": "24.4374",
+      "longitude": "121.3813",
+      "county": "宜蘭縣",
+      "intensity": "2",
+      "location_name": "南山"
+    },
+    {
+      "latitude": "24.4259",
+      "longitude": "121.749",
+      "county": "宜蘭縣",
+      "intensity": "1",
+      "location_name": "南澳"
+    },
+    {
+      "latitude": "24.6378",
+      "longitude": "121.5737",
+      "county": "宜蘭縣",
+      "intensity": "1",
+      "location_name": "牛鬥"
+    },
+    {
+      "latitude": "24.2495",
+      "longitude": "121.1618",
+      "county": "臺中市",
+      "intensity": "2",
+      "location_name": "德基"
+    },
+    {
+      "latitude": "25.0408",
+      "longitude": "121.5692",
+      "county": "臺北市",
+      "intensity": "1",
+      "location_name": "信義區"
+    },
+    {
+      "latitude": "24.1434",
+      "longitude": "121.2725",
+      "county": "南投縣",
+      "intensity": "1",
+      "location_name": "合歡山"
+    },
+    {
+      "latitude": "24.9997",
+      "longitude": "121.2976",
+      "county": "桃園市",
+      "intensity": "1",
+      "location_name": "桃園市"
+    },
+    {
+      "latitude": "23.6363",
+      "longitude": "120.2298",
+      "county": "雲林縣",
+      "intensity": "1",
+      "location_name": "四湖"
+    },
+    {
+      "latitude": "24.7357",
+      "longitude": "121.0881",
+      "county": "新竹縣",
+      "intensity": "1",
+      "location_name": "竹東"
+    },
+    {
+      "latitude": "24.0794",
+      "longitude": "120.5583",
+      "county": "彰化縣",
+      "intensity": "1",
+      "location_name": "彰化市"
+    }
+  ]
+}

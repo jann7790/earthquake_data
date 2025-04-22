@@ -1,0 +1,22 @@
+Origin Time:2016/02/06 04:03:09
+Lon:120.31°E
+Lat:22.97°N
+Depth:26.8km
+Mag:4.5
+Stacode=TAI1,Staname=永康  ,Stalon=120.24,Stalat=23.04,Dist=  11.12,AZ=135.42,PGA(V)=   1.79,PGA(NS)=   4.49,PGA(EW)=   5.98
+Stacode=TAI ,Staname=臺南市,Stalon=120.21,Stalat=22.99,Dist=  11.44,AZ=104.97,PGA(V)=   7.78,PGA(NS)=  17.17,PGA(EW)=  10.59
+Stacode=CHN3,Staname=新化  ,Stalon=120.36,Stalat=23.08,Dist=  13.19,AZ=203.77,PGA(V)=   3.05,PGA(NS)=  13.34,PGA(EW)=  11.66
+Stacode=SSH ,Staname=善化  ,Stalon=120.29,Stalat=23.14,Dist=  18.96,AZ=172.35,PGA(V)=   7.30,PGA(NS)=  17.35,PGA(EW)=  13.82
+Stacode=TWM1,Staname=旗山  ,Stalon=120.43,Stalat=22.82,Dist=  20.10,AZ=323.02,PGA(V)=   0.78,PGA(NS)=   1.79,PGA(EW)=   1.14
+Stacode=SCL ,Staname=佳里  ,Stalon=120.20,Stalat=23.17,Dist=  25.60,AZ=153.59,PGA(V)=   1.85,PGA(NS)=   9.51,PGA(EW)=  10.35
+Stacode=SCK ,Staname=七股  ,Stalon=120.09,Stalat=23.15,Dist=  30.63,AZ=130.69,PGA(V)=   1.50,PGA(NS)=   3.11,PGA(EW)=   3.65
+Stacode=SGS ,Staname=甲仙  ,Stalon=120.59,Stalat=23.08,Dist=  31.14,AZ=246.13,PGA(V)=   0.36,PGA(NS)=   1.26,PGA(EW)=   0.72
+Stacode=WTP ,Staname=大埔  ,Stalon=120.62,Stalat=23.24,Dist=  44.13,AZ=225.92,PGA(V)=   0.30,PGA(NS)=   1.26,PGA(EW)=   2.63
+Stacode=CHN4,Staname=草山  ,Stalon=120.59,Stalat=23.35,Dist=  51.43,AZ=214.04,PGA(V)=   0.36,PGA(NS)=   0.54,PGA(EW)=   0.84
+Stacode=CHN7,Staname=六腳  ,Stalon=120.24,Stalat=23.48,Dist=  57.72,AZ=172.53,PGA(V)=   0.90,PGA(NS)=   1.79,PGA(EW)=   1.68
+Stacode=CHY ,Staname=嘉義市,Stalon=120.43,Stalat=23.50,Dist=  59.91,AZ=191.81,PGA(V)=   0.60,PGA(NS)=   0.90,PGA(EW)=   1.32
+Stacode=WSF ,Staname=四湖  ,Stalon=120.23,Stalat=23.64,Dist=  74.66,AZ=173.47,PGA(V)=   1.14,PGA(NS)=   3.41,PGA(EW)=   3.29
+Stacode=WGK ,Staname=古坑  ,Stalon=120.57,Stalat=23.68,Dist=  83.76,AZ=198.32,PGA(V)=   0.48,PGA(NS)=   1.20,PGA(EW)=   1.62
+Stacode=WDL ,Staname=斗六市,Stalon=120.54,Stalat=23.72,Dist=  86.04,AZ=195.55,PGA(V)=   0.54,PGA(NS)=   0.90,PGA(EW)=   0.66
+Stacode=WTC ,Staname=大城  ,Stalon=120.29,Stalat=23.86,Dist=  99.15,AZ=178.59,PGA(V)=   0.54,PGA(NS)=   1.08,PGA(EW)=   1.32
+Stacode=WCH ,Staname=彰化市,Stalon=120.56,Stalat=24.08,Dist= 125.99,AZ=191.40,PGA(V)=   0.54,PGA(NS)=   0.90,PGA(EW)=   0.84

@@ -1,0 +1,120 @@
+{
+  "earthquake_id": "047",
+  "timestamp": "2016-05-01T13:25:47",
+  "latitude": 24.23,
+  "longitude": 121.83,
+  "depth_km": 12.6,
+  "magnitude": 4.5,
+  "stations": [
+    {
+      "Stacode": "EHP",
+      "Staname": "和平",
+      "Stalon": 121.75,
+      "Stalat": 24.31,
+      "Dist": 11.71,
+      "AZ": 134.19,
+      "PGA(V)": 10.95,
+      "PGA(NS)": 21.0,
+      "PGA(EW)": 18.78
+    },
+    {
+      "Stacode": "ETL",
+      "Staname": "太魯閣",
+      "Stalon": 121.62,
+      "Stalat": 24.16,
+      "Dist": 22.79,
+      "AZ": 68.44,
+      "PGA(V)": 1.02,
+      "PGA(NS)": 4.85,
+      "PGA(EW)": 4.19
+    },
+    {
+      "Stacode": "ENA",
+      "Staname": "南澳",
+      "Stalon": 121.75,
+      "Stalat": 24.43,
+      "Dist": 22.86,
+      "AZ": 158.47,
+      "PGA(V)": 10.47,
+      "PGA(NS)": 29.43,
+      "PGA(EW)": 21.41
+    },
+    {
+      "Stacode": "TWC",
+      "Staname": "蘇澳",
+      "Stalon": 121.86,
+      "Stalat": 24.61,
+      "Dist": 41.56,
+      "AZ": 183.89,
+      "PGA(V)": 1.02,
+      "PGA(NS)": 3.35,
+      "PGA(EW)": 2.21
+    },
+    {
+      "Stacode": "NLD",
+      "Staname": "羅東",
+      "Stalon": 121.77,
+      "Stalat": 24.67,
+      "Dist": 49.04,
+      "AZ": 173.01,
+      "PGA(V)": 2.33,
+      "PGA(NS)": 3.65,
+      "PGA(EW)": 4.31
+    },
+    {
+      "Stacode": "NNS",
+      "Staname": "南山",
+      "Stalon": 121.38,
+      "Stalat": 24.44,
+      "Dist": 50.97,
+      "AZ": 116.27,
+      "PGA(V)": 0.54,
+      "PGA(NS)": 2.81,
+      "PGA(EW)": 1.74
+    },
+    {
+      "Stacode": "ENT",
+      "Staname": "牛鬥",
+      "Stalon": 121.57,
+      "Stalat": 24.64,
+      "Dist": 51.78,
+      "AZ": 149.66,
+      "PGA(V)": 1.62,
+      "PGA(NS)": 4.97,
+      "PGA(EW)": 3.53
+    },
+    {
+      "Stacode": "WHF",
+      "Staname": "合歡山",
+      "Stalon": 121.27,
+      "Stalat": 24.14,
+      "Dist": 57.68,
+      "AZ": 80.01,
+      "PGA(V)": 0.42,
+      "PGA(NS)": 0.78,
+      "PGA(EW)": 1.02
+    },
+    {
+      "Stacode": "ILA",
+      "Staname": "宜蘭市",
+      "Stalon": 121.76,
+      "Stalat": 24.76,
+      "Dist": 59.16,
+      "AZ": 172.57,
+      "PGA(V)": 1.02,
+      "PGA(NS)": 1.68,
+      "PGA(EW)": 1.62
+    },
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 93.25,
+      "AZ": 163.44,
+      "PGA(V)": 1.2,
+      "PGA(NS)": 0.6,
+      "PGA(EW)": 0.54
+    }
+  ]
+}

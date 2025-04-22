@@ -1,0 +1,22 @@
+{
+  "epicenter_lat": "23.22",
+  "epicenter_lon": "120.4",
+  "magnitude": "2.8",
+  "max_intensity": "1",
+  "locations": [
+    {
+      "latitude": "23.0753",
+      "longitude": "120.3641",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "新化"
+    },
+    {
+      "latitude": "23.1361",
+      "longitude": "120.2882",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "善化"
+    }
+  ]
+}

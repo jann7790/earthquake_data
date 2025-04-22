@@ -1,0 +1,57 @@
+{
+  "epicenter_lat": "23.2558",
+  "epicenter_lon": "120.4833",
+  "magnitude": "3.4",
+  "max_intensity": "2",
+  "locations": [
+    {
+      "latitude": "23.1849",
+      "longitude": "120.5286",
+      "county": "臺南市",
+      "intensity": "2",
+      "location_name": "楠西"
+    },
+    {
+      "latitude": "23.2198",
+      "longitude": "120.4973",
+      "county": "臺南市",
+      "intensity": "2",
+      "location_name": "曾文"
+    },
+    {
+      "latitude": "23.1361",
+      "longitude": "120.2882",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "善化"
+    },
+    {
+      "latitude": "23.3526",
+      "longitude": "120.4144",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "白河"
+    },
+    {
+      "latitude": "23.3473",
+      "longitude": "120.2227",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "義竹"
+    },
+    {
+      "latitude": "23.4385",
+      "longitude": "120.6047",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "番路"
+    },
+    {
+      "latitude": "23.2438",
+      "longitude": "120.6223",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "大埔"
+    }
+  ]
+}

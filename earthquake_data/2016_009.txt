@@ -1,0 +1,18 @@
+Origin Time:2016/02/06 05:07:18
+Lon:120.36°E
+Lat:23.01°N
+Depth:21.1km
+Mag:4.3
+Stacode=CHN3,Staname=新化  ,Stalon=120.36,Stalat=23.08,Dist=   7.73,AZ=180.28,PGA(V)=   2.87,PGA(NS)=  10.77,PGA(EW)=   8.61
+Stacode=TAI1,Staname=永康  ,Stalon=120.24,Stalat=23.04,Dist=  13.56,AZ=105.31,PGA(V)=   1.62,PGA(NS)=   2.63,PGA(EW)=   2.09
+Stacode=TAI ,Staname=臺南市,Stalon=120.21,Stalat=22.99,Dist=  16.39,AZ= 85.17,PGA(V)=   6.10,PGA(NS)=  21.00,PGA(EW)=   9.33
+Stacode=SSH ,Staname=善化  ,Stalon=120.29,Stalat=23.14,Dist=  16.43,AZ=151.65,PGA(V)=   2.51,PGA(NS)=   5.20,PGA(EW)=   7.78
+Stacode=TWM1,Staname=旗山  ,Stalon=120.43,Stalat=22.82,Dist=  21.50,AZ=341.54,PGA(V)=   0.60,PGA(NS)=   1.14,PGA(EW)=   0.90
+Stacode=SCL ,Staname=佳里  ,Stalon=120.20,Stalat=23.17,Dist=  24.96,AZ=138.13,PGA(V)=   2.75,PGA(NS)=   3.65,PGA(EW)=   3.83
+Stacode=CHN1,Staname=楠西  ,Stalon=120.53,Stalat=23.19,Dist=  26.02,AZ=220.26,PGA(V)=   0.42,PGA(NS)=   0.78,PGA(EW)=   0.90
+Stacode=SCK ,Staname=七股  ,Stalon=120.09,Stalat=23.15,Dist=  32.50,AZ=118.74,PGA(V)=   1.74,PGA(NS)=   2.33,PGA(EW)=   5.92
+Stacode=SGL ,Staname=九如  ,Stalon=120.50,Stalat=22.72,Dist=  34.12,AZ=336.21,PGA(V)=   0.48,PGA(NS)=   0.96,PGA(EW)=   0.84
+Stacode=SPT ,Staname=屏東市,Stalon=120.50,Stalat=22.68,Dist=  38.85,AZ=339.68,PGA(V)=   0.72,PGA(NS)=   1.02,PGA(EW)=   1.14
+Stacode=SSD ,Staname=三地門,Stalon=120.64,Stalat=22.74,Dist=  40.48,AZ=315.64,PGA(V)=   0.66,PGA(NS)=   0.78,PGA(EW)=   0.84
+Stacode=KAU ,Staname=高雄市,Stalon=120.32,Stalat=22.57,Dist=  48.92,AZ=  5.85,PGA(V)=   1.02,PGA(NS)=   1.50,PGA(EW)=   1.02
+Stacode=WSF ,Staname=四湖  ,Stalon=120.23,Stalat=23.64,Dist=  71.18,AZ=168.86,PGA(V)=   0.36,PGA(NS)=   0.66,PGA(EW)=   1.08

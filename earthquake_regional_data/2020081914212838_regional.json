@@ -1,0 +1,106 @@
+{
+  "epicenter_lat": "23.22",
+  "epicenter_lon": "120.39",
+  "magnitude": "3.8",
+  "max_intensity": "2",
+  "locations": [
+    {
+      "latitude": "23.4385",
+      "longitude": "120.6047",
+      "county": "嘉義縣",
+      "intensity": "2",
+      "location_name": "番路"
+    },
+    {
+      "latitude": "23.2438",
+      "longitude": "120.6223",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "大埔"
+    },
+    {
+      "latitude": "23.3606",
+      "longitude": "120.2794",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "義竹"
+    },
+    {
+      "latitude": "23.1361",
+      "longitude": "120.2882",
+      "county": "臺南市",
+      "intensity": "2",
+      "location_name": "善化"
+    },
+    {
+      "latitude": "23.1466",
+      "longitude": "120.0865",
+      "county": "臺南市",
+      "intensity": "2",
+      "location_name": "七股"
+    },
+    {
+      "latitude": "23.1743",
+      "longitude": "120.2018",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "佳里"
+    },
+    {
+      "latitude": "23.0213",
+      "longitude": "120.3479",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "新化"
+    },
+    {
+      "latitude": "23.1849",
+      "longitude": "120.5286",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "楠西"
+    },
+    {
+      "latitude": "22.9932",
+      "longitude": "120.2047",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "臺南市"
+    },
+    {
+      "latitude": "23.0385",
+      "longitude": "120.2364",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "永康"
+    },
+    {
+      "latitude": "23.265",
+      "longitude": "120.4999",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "東山"
+    },
+    {
+      "latitude": "23.6363",
+      "longitude": "120.2298",
+      "county": "雲林縣",
+      "intensity": "1",
+      "location_name": "四湖"
+    },
+    {
+      "latitude": "23.5226",
+      "longitude": "120.2278",
+      "county": "雲林縣",
+      "intensity": "1",
+      "location_name": "水林"
+    },
+    {
+      "latitude": "23.9026",
+      "longitude": "120.3781",
+      "county": "彰化縣",
+      "intensity": "1",
+      "location_name": "二林"
+    }
+  ]
+}

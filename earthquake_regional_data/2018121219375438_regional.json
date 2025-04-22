@@ -1,0 +1,71 @@
+{
+  "epicenter_lat": "23.09",
+  "epicenter_lon": "120.68",
+  "magnitude": "3.8",
+  "max_intensity": "3",
+  "locations": [
+    {
+      "latitude": "23.0804",
+      "longitude": "120.5908",
+      "county": "高雄市",
+      "intensity": "3",
+      "location_name": "甲仙"
+    },
+    {
+      "latitude": "22.9933",
+      "longitude": "120.6463",
+      "county": "高雄市",
+      "intensity": "3",
+      "location_name": "六龜"
+    },
+    {
+      "latitude": "23.1607",
+      "longitude": "120.7656",
+      "county": "高雄市",
+      "intensity": "2",
+      "location_name": "桃源"
+    },
+    {
+      "latitude": "22.8215",
+      "longitude": "120.4306",
+      "county": "高雄市",
+      "intensity": "1",
+      "location_name": "旗山"
+    },
+    {
+      "latitude": "23.2438",
+      "longitude": "120.6223",
+      "county": "嘉義縣",
+      "intensity": "2",
+      "location_name": "大埔"
+    },
+    {
+      "latitude": "23.5084",
+      "longitude": "120.8134",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "阿里山"
+    },
+    {
+      "latitude": "23.4385",
+      "longitude": "120.6047",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "番路"
+    },
+    {
+      "latitude": "23.1849",
+      "longitude": "120.5286",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "楠西"
+    },
+    {
+      "latitude": "23.265",
+      "longitude": "120.4999",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "東山"
+    }
+  ]
+}

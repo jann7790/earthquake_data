@@ -1,0 +1,9 @@
+Origin Time:2014/01/11 01:13:43
+Lon:121.30°E
+Lat:24.82°N
+Depth:8.4km
+Mag:3.0
+Stacode=NTY ,Staname=桃園市,Stalon=121.31,Stalat=25.00,Dist=  19.62,AZ=183.45,PGA(V)=   0.84,PGA(NS)=   4.55,PGA(EW)=   2.51
+Stacode=NJD ,Staname=竹東  ,Stalon=121.09,Stalat=24.74,Dist=  22.96,AZ= 65.68,PGA(V)=   0.36,PGA(NS)=   1.08,PGA(EW)=   0.78
+Stacode=BAC ,Staname=新北市,Stalon=121.44,Stalat=25.00,Dist=  24.52,AZ=217.21,PGA(V)=   0.72,PGA(NS)=   0.90,PGA(EW)=   0.90
+Stacode=NHY ,Staname=信義區,Stalon=121.57,Stalat=25.04,Dist=  36.86,AZ=228.70,PGA(V)=   0.84,PGA(NS)=   0.24,PGA(EW)=   0.48

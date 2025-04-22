@@ -1,0 +1,19 @@
+Origin Time:2018/04/26 13:44:20
+Lon:121.05°E
+Lat:22.36°N
+Depth:3.7km
+Mag:4.6
+Stacode=TAW ,Staname=大武  ,Stalon=120.90,Stalat=22.36,Dist=  14.76,AZ= 87.55,PGA(V)=   6.58,PGA(NS)=  25.00,PGA(EW)=  12.38
+Stacode=EAS ,Staname=安朔  ,Stalon=120.86,Stalat=22.38,Dist=  19.67,AZ= 96.40,PGA(V)=   6.94,PGA(NS)=  11.19,PGA(EW)=   8.43
+Stacode=ECL ,Staname=太麻里,Stalon=120.96,Stalat=22.60,Dist=  27.40,AZ=161.41,PGA(V)=   4.25,PGA(NS)=   8.97,PGA(EW)=   4.97
+Stacode=SCZ ,Staname=枋寮  ,Stalon=120.63,Stalat=22.37,Dist=  43.10,AZ= 91.30,PGA(V)=   1.02,PGA(NS)=   0.90,PGA(EW)=   0.72
+Stacode=TTN ,Staname=臺東市,Stalon=121.15,Stalat=22.75,Dist=  44.67,AZ=194.40,PGA(V)=   0.54,PGA(NS)=   0.90,PGA(EW)=   1.32
+Stacode=HEN ,Staname=恆春  ,Stalon=120.75,Stalat=22.00,Dist=  50.31,AZ= 38.04,PGA(V)=   0.42,PGA(NS)=   1.08,PGA(EW)=   0.84
+Stacode=TWG ,Staname=卑南  ,Stalon=121.08,Stalat=22.82,Dist=  50.63,AZ=183.88,PGA(V)=   0.60,PGA(NS)=   0.78,PGA(EW)=   0.90
+Stacode=SSD ,Staname=三地門,Stalon=120.64,Stalat=22.74,Dist=  59.53,AZ=135.40,PGA(V)=   1.85,PGA(NS)=   2.87,PGA(EW)=   2.39
+Stacode=LAY ,Staname=蘭嶼  ,Stalon=121.56,Stalat=22.04,Dist=  63.79,AZ=304.24,PGA(V)=   0.36,PGA(NS)=   0.90,PGA(EW)=   0.90
+Stacode=SPT ,Staname=屏東市,Stalon=120.50,Stalat=22.68,Dist=  66.55,AZ=121.63,PGA(V)=   0.36,PGA(NS)=   1.02,PGA(EW)=   0.96
+Stacode=SGL ,Staname=九如  ,Stalon=120.50,Stalat=22.72,Dist=  69.19,AZ=125.43,PGA(V)=   0.30,PGA(NS)=   1.38,PGA(EW)=   1.02
+Stacode=KAU ,Staname=高雄市,Stalon=120.32,Stalat=22.57,Dist=  78.55,AZ=106.77,PGA(V)=   0.78,PGA(NS)=   0.78,PGA(EW)=   1.38
+Stacode=TWM1,Staname=旗山  ,Stalon=120.43,Stalat=22.82,Dist=  81.27,AZ=128.81,PGA(V)=   0.36,PGA(NS)=   0.90,PGA(EW)=   0.66
+Stacode=CHN3,Staname=新化  ,Stalon=120.36,Stalat=23.08,Dist= 105.63,AZ=138.46,PGA(V)=   0.48,PGA(NS)=   1.44,PGA(EW)=   0.96

@@ -1,0 +1,71 @@
+{
+  "epicenter_lat": "24.67",
+  "epicenter_lon": "122.02",
+  "magnitude": "4.1",
+  "max_intensity": "1",
+  "locations": [
+    {
+      "latitude": "24.4259",
+      "longitude": "121.749",
+      "county": "宜蘭縣",
+      "intensity": "1",
+      "location_name": "南澳"
+    },
+    {
+      "latitude": "24.6378",
+      "longitude": "121.5737",
+      "county": "宜蘭縣",
+      "intensity": "1",
+      "location_name": "牛鬥"
+    },
+    {
+      "latitude": "24.445",
+      "longitude": "121.7783",
+      "county": "宜蘭縣",
+      "intensity": "1",
+      "location_name": "武塔"
+    },
+    {
+      "latitude": "24.634",
+      "longitude": "121.7168",
+      "county": "宜蘭縣",
+      "intensity": "1",
+      "location_name": "冬山"
+    },
+    {
+      "latitude": "24.9997",
+      "longitude": "121.2976",
+      "county": "桃園市",
+      "intensity": "1",
+      "location_name": "桃園市"
+    },
+    {
+      "latitude": "25.1644",
+      "longitude": "121.4492",
+      "county": "新北市",
+      "intensity": "1",
+      "location_name": "淡水"
+    },
+    {
+      "latitude": "25.0716",
+      "longitude": "121.7818",
+      "county": "新北市",
+      "intensity": "1",
+      "location_name": "五分山"
+    },
+    {
+      "latitude": "24.6319",
+      "longitude": "121.1178",
+      "county": "新竹縣",
+      "intensity": "1",
+      "location_name": "五峰"
+    },
+    {
+      "latitude": "24.9779",
+      "longitude": "121.5922",
+      "county": "臺北市",
+      "intensity": "1",
+      "location_name": "木柵"
+    }
+  ]
+}

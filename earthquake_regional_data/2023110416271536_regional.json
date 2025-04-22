@@ -1,0 +1,64 @@
+{
+  "epicenter_lat": "24.1928",
+  "epicenter_lon": "120.9657",
+  "magnitude": "3.6",
+  "max_intensity": "1",
+  "locations": [
+    {
+      "latitude": "24.0566",
+      "longitude": "120.9117",
+      "county": "南投縣",
+      "intensity": "1",
+      "location_name": "國姓"
+    },
+    {
+      "latitude": "23.6961",
+      "longitude": "120.8532",
+      "county": "南投縣",
+      "intensity": "1",
+      "location_name": "信義鄉"
+    },
+    {
+      "latitude": "24.3465",
+      "longitude": "120.7809",
+      "county": "苗栗縣",
+      "intensity": "1",
+      "location_name": "鯉魚潭"
+    },
+    {
+      "latitude": "24.0794",
+      "longitude": "120.5583",
+      "county": "彰化縣",
+      "intensity": "1",
+      "location_name": "彰化市"
+    },
+    {
+      "latitude": "23.9026",
+      "longitude": "120.3781",
+      "county": "彰化縣",
+      "intensity": "1",
+      "location_name": "二林"
+    },
+    {
+      "latitude": "23.9605",
+      "longitude": "120.5799",
+      "county": "彰化縣",
+      "intensity": "1",
+      "location_name": "員林"
+    },
+    {
+      "latitude": "24.042",
+      "longitude": "120.699",
+      "county": "臺中市",
+      "intensity": "1",
+      "location_name": "霧峰"
+    },
+    {
+      "latitude": "24.2777",
+      "longitude": "120.9458",
+      "county": "臺中市",
+      "intensity": "1",
+      "location_name": "烏石坑"
+    }
+  ]
+}

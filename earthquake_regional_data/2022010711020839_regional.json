@@ -1,0 +1,50 @@
+{
+  "epicenter_lat": "24.5635",
+  "epicenter_lon": "121.7825",
+  "magnitude": "3.9",
+  "max_intensity": "1",
+  "locations": [
+    {
+      "latitude": "24.4259",
+      "longitude": "121.749",
+      "county": "宜蘭縣",
+      "intensity": "1",
+      "location_name": "南澳"
+    },
+    {
+      "latitude": "24.6378",
+      "longitude": "121.5737",
+      "county": "宜蘭縣",
+      "intensity": "1",
+      "location_name": "牛鬥"
+    },
+    {
+      "latitude": "24.445",
+      "longitude": "121.7783",
+      "county": "宜蘭縣",
+      "intensity": "1",
+      "location_name": "武塔"
+    },
+    {
+      "latitude": "24.6737",
+      "longitude": "121.3666",
+      "county": "桃園市",
+      "intensity": "1",
+      "location_name": "三光"
+    },
+    {
+      "latitude": "24.9997",
+      "longitude": "121.2976",
+      "county": "桃園市",
+      "intensity": "1",
+      "location_name": "桃園市"
+    },
+    {
+      "latitude": "25.0408",
+      "longitude": "121.5692",
+      "county": "臺北市",
+      "intensity": "1",
+      "location_name": "信義區"
+    }
+  ]
+}

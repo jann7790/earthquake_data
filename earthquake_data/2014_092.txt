@@ -1,0 +1,15 @@
+Origin Time:2014/07/02 10:52:10
+Lon:121.93°E
+Lat:24.50°N
+Depth:16.1km
+Mag:4.0
+Stacode=TWC ,Staname=蘇澳  ,Stalon=121.86,Stalat=24.61,Dist=  14.23,AZ=151.75,PGA(V)=   3.29,PGA(NS)=  18.07,PGA(EW)=  17.95
+Stacode=ENA ,Staname=南澳  ,Stalon=121.75,Stalat=24.43,Dist=  19.51,AZ= 66.87,PGA(V)=  14.18,PGA(NS)=  31.52,PGA(EW)=  45.88
+Stacode=NLD ,Staname=羅東  ,Stalon=121.77,Stalat=24.67,Dist=  25.12,AZ=141.84,PGA(V)=   1.68,PGA(NS)=   2.69,PGA(EW)=   3.77
+Stacode=EHP ,Staname=和平  ,Stalon=121.75,Stalat=24.31,Dist=  27.45,AZ= 40.84,PGA(V)=   7.90,PGA(NS)=  14.54,PGA(EW)=   9.81
+Stacode=ILA ,Staname=宜蘭市,Stalon=121.76,Stalat=24.76,Dist=  34.35,AZ=149.97,PGA(V)=   1.56,PGA(NS)=   1.68,PGA(EW)=   1.79
+Stacode=ENT ,Staname=牛鬥  ,Stalon=121.57,Stalat=24.64,Dist=  39.01,AZ=113.83,PGA(V)=   1.02,PGA(NS)=   3.89,PGA(EW)=   2.99
+Stacode=ETL ,Staname=太魯閣,Stalon=121.62,Stalat=24.16,Dist=  48.34,AZ= 39.50,PGA(V)=   4.01,PGA(NS)=   4.79,PGA(EW)=   4.31
+Stacode=NNS ,Staname=南山  ,Stalon=121.38,Stalat=24.44,Dist=  55.58,AZ= 83.42,PGA(V)=   0.72,PGA(NS)=   2.57,PGA(EW)=   2.99
+Stacode=WHF ,Staname=合歡山,Stalon=121.27,Stalat=24.14,Dist=  76.91,AZ= 59.59,PGA(V)=   0.36,PGA(NS)=   1.20,PGA(EW)=   1.50
+Stacode=TWT ,Staname=德基  ,Stalon=121.16,Stalat=24.25,Dist=  82.20,AZ= 70.64,PGA(V)=   0.24,PGA(NS)=   0.90,PGA(EW)=   0.48

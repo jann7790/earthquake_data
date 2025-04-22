@@ -1,0 +1,36 @@
+{
+  "epicenter_lat": "22.92",
+  "epicenter_lon": "120.53",
+  "magnitude": "3.8",
+  "max_intensity": "1",
+  "locations": [
+    {
+      "latitude": "22.7234",
+      "longitude": "120.4987",
+      "county": "屏東縣",
+      "intensity": "1",
+      "location_name": "九如"
+    },
+    {
+      "latitude": "22.7443",
+      "longitude": "120.64",
+      "county": "屏東縣",
+      "intensity": "1",
+      "location_name": "三地門"
+    },
+    {
+      "latitude": "22.8215",
+      "longitude": "120.4306",
+      "county": "高雄市",
+      "intensity": "1",
+      "location_name": "旗山"
+    },
+    {
+      "latitude": "23.0753",
+      "longitude": "120.3641",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "新化"
+    }
+  ]
+}

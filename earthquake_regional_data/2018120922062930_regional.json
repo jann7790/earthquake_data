@@ -1,0 +1,36 @@
+{
+  "epicenter_lat": "22.94",
+  "epicenter_lon": "120.15",
+  "magnitude": "3",
+  "max_intensity": "3",
+  "locations": [
+    {
+      "latitude": "22.9932",
+      "longitude": "120.2047",
+      "county": "臺南市",
+      "intensity": "3",
+      "location_name": "臺南市"
+    },
+    {
+      "latitude": "23.0385",
+      "longitude": "120.2364",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "永康"
+    },
+    {
+      "latitude": "23.1466",
+      "longitude": "120.0865",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "七股"
+    },
+    {
+      "latitude": "22.7533",
+      "longitude": "120.3352",
+      "county": "高雄市",
+      "intensity": "1",
+      "location_name": "楠梓"
+    }
+  ]
+}

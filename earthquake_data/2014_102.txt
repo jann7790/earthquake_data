@@ -1,0 +1,19 @@
+Origin Time:2014/08/01 12:38:07
+Lon:121.60°E
+Lat:24.56°N
+Depth:6.1km
+Mag:4.0
+Stacode=ENT ,Staname=牛鬥  ,Stalon=121.57,Stalat=24.64,Dist=   8.74,AZ=164.79,PGA(V)=  33.08,PGA(NS)=  88.89,PGA(EW)=  47.20
+Stacode=TWE ,Staname=內城  ,Stalon=121.68,Stalat=24.72,Dist=  19.47,AZ=206.71,PGA(V)=   1.74,PGA(NS)=   3.95,PGA(EW)=   3.77
+Stacode=ENA ,Staname=南澳  ,Stalon=121.75,Stalat=24.43,Dist=  21.55,AZ=314.10,PGA(V)=   2.51,PGA(NS)=   6.10,PGA(EW)=   9.09
+Stacode=NLD ,Staname=羅東  ,Stalon=121.77,Stalat=24.67,Dist=  21.76,AZ=235.19,PGA(V)=   3.41,PGA(NS)=   5.03,PGA(EW)=   5.03
+Stacode=NNS ,Staname=南山  ,Stalon=121.38,Stalat=24.44,Dist=  25.74,AZ= 57.85,PGA(V)=   1.02,PGA(NS)=   4.49,PGA(EW)=   2.51
+Stacode=NSK ,Staname=三光  ,Stalon=121.37,Stalat=24.67,Dist=  26.39,AZ=118.22,PGA(V)=   0.84,PGA(NS)=   3.89,PGA(EW)=   5.62
+Stacode=TWC ,Staname=蘇澳  ,Stalon=121.86,Stalat=24.61,Dist=  27.16,AZ=258.94,PGA(V)=   1.08,PGA(NS)=   2.93,PGA(EW)=   1.85
+Stacode=ILA ,Staname=宜蘭市,Stalon=121.76,Stalat=24.76,Dist=  27.64,AZ=215.83,PGA(V)=   1.08,PGA(NS)=   1.38,PGA(EW)=   2.09
+Stacode=EHP ,Staname=和平  ,Stalon=121.75,Stalat=24.31,Dist=  32.08,AZ=331.15,PGA(V)=   1.14,PGA(NS)=   1.14,PGA(EW)=   1.32
+Stacode=NHD ,Staname=新店  ,Stalon=121.55,Stalat=24.90,Dist=  38.04,AZ=173.43,PGA(V)=   0.48,PGA(NS)=   1.14,PGA(EW)=   0.60
+Stacode=ETL ,Staname=太魯閣,Stalon=121.62,Stalat=24.16,Dist=  44.71,AZ=356.53,PGA(V)=   1.08,PGA(NS)=   1.74,PGA(EW)=   1.32
+Stacode=BAC ,Staname=新北市,Stalon=121.44,Stalat=25.00,Dist=  50.79,AZ=162.08,PGA(V)=   0.66,PGA(NS)=   1.08,PGA(EW)=   1.02
+Stacode=NJD ,Staname=竹東  ,Stalon=121.09,Stalat=24.74,Dist=  54.96,AZ=110.61,PGA(V)=   0.84,PGA(NS)=   2.51,PGA(EW)=   0.96
+Stacode=NTY ,Staname=桃園市,Stalon=121.31,Stalat=25.00,Dist=  56.56,AZ=148.81,PGA(V)=   0.30,PGA(NS)=   0.90,PGA(EW)=   1.02

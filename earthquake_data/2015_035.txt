@@ -1,0 +1,21 @@
+Origin Time:2015/07/04 11:10:20
+Lon:121.48°E
+Lat:23.95°N
+Depth:19.2km
+Mag:3.9
+Stacode=ETM ,Staname=銅門  ,Stalon=121.49,Stalat=23.97,Dist=   2.20,AZ=217.31,PGA(V)=  30.99,PGA(NS)=  35.89,PGA(EW)=  22.07
+Stacode=EGA ,Staname=吉安  ,Stalon=121.56,Stalat=23.97,Dist=   8.84,AZ=253.00,PGA(V)=  17.05,PGA(NS)=  11.96,PGA(EW)=  15.01
+Stacode=ESF ,Staname=壽豐  ,Stalon=121.51,Stalat=23.87,Dist=   9.19,AZ=342.17,PGA(V)=  30.69,PGA(NS)=  42.29,PGA(EW)=  39.42
+Stacode=EYL ,Staname=鹽寮  ,Stalon=121.60,Stalat=23.90,Dist=  13.45,AZ=292.24,PGA(V)=   5.80,PGA(NS)=  10.35,PGA(EW)=   7.96
+Stacode=HWA ,Staname=花蓮市,Stalon=121.61,Stalat=23.98,Dist=  13.91,AZ=258.27,PGA(V)=   5.03,PGA(NS)=  21.65,PGA(EW)=  18.12
+Stacode=ESL ,Staname=西林  ,Stalon=121.44,Stalat=23.81,Dist=  15.76,AZ= 14.28,PGA(V)=  17.89,PGA(NS)=  48.51,PGA(EW)=  47.20
+Stacode=TWD ,Staname=秀林  ,Stalon=121.60,Stalat=24.08,Dist=  19.33,AZ=221.19,PGA(V)=   3.23,PGA(NS)=   6.64,PGA(EW)=   2.63
+Stacode=ETL ,Staname=太魯閣,Stalon=121.62,Stalat=24.16,Dist=  27.31,AZ=212.26,PGA(V)=   8.85,PGA(NS)=  21.41,PGA(EW)=  16.75
+Stacode=EGC ,Staname=磯崎  ,Stalon=121.55,Stalat=23.71,Dist=  27.66,AZ=345.53,PGA(V)=   1.91,PGA(NS)=   1.56,PGA(EW)=   1.56
+Stacode=EGF ,Staname=光復  ,Stalon=121.48,Stalat=23.68,Dist=  29.37,AZ=359.44,PGA(V)=   2.99,PGA(NS)=   5.32,PGA(EW)=   3.77
+Stacode=WHF ,Staname=合歡山,Stalon=121.27,Stalat=24.14,Dist=  30.08,AZ=135.54,PGA(V)=   4.07,PGA(NS)=   6.64,PGA(EW)=   8.55
+Stacode=TWT ,Staname=德基  ,Stalon=121.16,Stalat=24.25,Dist=  46.32,AZ=135.71,PGA(V)=   0.36,PGA(NS)=   1.44,PGA(EW)=   0.66
+Stacode=EHP ,Staname=和平  ,Stalon=121.75,Stalat=24.31,Dist=  48.17,AZ=214.63,PGA(V)=   1.62,PGA(NS)=   1.79,PGA(EW)=   1.08
+Stacode=EHY ,Staname=紅葉  ,Stalon=121.33,Stalat=23.50,Dist=  51.74,AZ= 17.39,PGA(V)=   1.74,PGA(NS)=   4.07,PGA(EW)=   4.85
+Stacode=NNS ,Staname=南山  ,Stalon=121.38,Stalat=24.44,Dist=  54.95,AZ=169.52,PGA(V)=   0.72,PGA(NS)=   1.97,PGA(EW)=   1.20
+Stacode=ENA ,Staname=南澳  ,Stalon=121.75,Stalat=24.43,Dist=  59.41,AZ=207.42,PGA(V)=   0.60,PGA(NS)=   1.50,PGA(EW)=   1.38

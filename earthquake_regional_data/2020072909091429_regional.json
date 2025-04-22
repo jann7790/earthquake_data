@@ -1,0 +1,22 @@
+{
+  "epicenter_lat": "23.22",
+  "epicenter_lon": "120.06",
+  "magnitude": "2.9",
+  "max_intensity": "2",
+  "locations": [
+    {
+      "latitude": "23.1466",
+      "longitude": "120.0865",
+      "county": "臺南市",
+      "intensity": "2",
+      "location_name": "七股"
+    },
+    {
+      "latitude": "23.1743",
+      "longitude": "120.2018",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "佳里"
+    }
+  ]
+}

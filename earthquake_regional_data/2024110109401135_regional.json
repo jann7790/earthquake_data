@@ -1,0 +1,64 @@
+{
+  "epicenter_lat": "23.4117",
+  "epicenter_lon": "120.4838",
+  "magnitude": "3.5",
+  "max_intensity": "3",
+  "locations": [
+    {
+      "latitude": "23.3526",
+      "longitude": "120.4144",
+      "county": "臺南市",
+      "intensity": "3",
+      "location_name": "白河"
+    },
+    {
+      "latitude": "23.265",
+      "longitude": "120.4999",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "東山"
+    },
+    {
+      "latitude": "23.4963",
+      "longitude": "120.4327",
+      "county": "嘉義市",
+      "intensity": "2",
+      "location_name": "嘉義市"
+    },
+    {
+      "latitude": "23.457",
+      "longitude": "120.2939",
+      "county": "嘉義縣",
+      "intensity": "2",
+      "location_name": "太保市"
+    },
+    {
+      "latitude": "23.4385",
+      "longitude": "120.6047",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "番路"
+    },
+    {
+      "latitude": "23.2438",
+      "longitude": "120.6223",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "大埔"
+    },
+    {
+      "latitude": "23.5319",
+      "longitude": "120.4744",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "民雄"
+    },
+    {
+      "latitude": "23.3473",
+      "longitude": "120.2227",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "義竹"
+    }
+  ]
+}

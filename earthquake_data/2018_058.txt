@@ -1,0 +1,23 @@
+Origin Time:2018/02/10 02:43:09
+Lon:121.81°E
+Lat:24.03°N
+Depth:5.8km
+Mag:4.7
+Stacode=HWA ,Staname=花蓮市,Stalon=121.61,Stalat=23.98,Dist=  21.19,AZ= 73.66,PGA(V)=   3.47,PGA(NS)=   9.45,PGA(EW)=   8.43
+Stacode=TWD ,Staname=秀林  ,Stalon=121.60,Stalat=24.08,Dist=  21.98,AZ=105.19,PGA(V)=   1.74,PGA(NS)=   1.44,PGA(EW)=   1.74
+Stacode=ETL ,Staname=太魯閣,Stalon=121.62,Stalat=24.16,Dist=  24.07,AZ=126.48,PGA(V)=   1.44,PGA(NS)=   4.67,PGA(EW)=   2.63
+Stacode=EYL ,Staname=鹽寮  ,Stalon=121.60,Stalat=23.90,Dist=  25.60,AZ= 57.17,PGA(V)=   4.49,PGA(NS)=   7.00,PGA(EW)=   7.66
+Stacode=EGA ,Staname=吉安  ,Stalon=121.56,Stalat=23.97,Dist=  26.24,AZ= 76.33,PGA(V)=   1.85,PGA(NS)=   2.57,PGA(EW)=   3.65
+Stacode=EHP ,Staname=和平  ,Stalon=121.75,Stalat=24.31,Dist=  31.53,AZ=168.04,PGA(V)=   1.02,PGA(NS)=   1.50,PGA(EW)=   1.38
+Stacode=ETM ,Staname=銅門  ,Stalon=121.49,Stalat=23.97,Dist=  33.36,AZ= 77.83,PGA(V)=   3.23,PGA(NS)=   2.57,PGA(EW)=   4.67
+Stacode=ENA ,Staname=南澳  ,Stalon=121.75,Stalat=24.43,Dist=  44.43,AZ=171.54,PGA(V)=   0.42,PGA(NS)=   0.96,PGA(EW)=   0.96
+Stacode=EGC ,Staname=磯崎  ,Stalon=121.55,Stalat=23.71,Dist=  44.70,AZ= 37.27,PGA(V)=   1.85,PGA(NS)=   3.89,PGA(EW)=   3.59
+Stacode=ESL ,Staname=西林  ,Stalon=121.44,Stalat=23.81,Dist=  44.85,AZ= 57.56,PGA(V)=   0.84,PGA(NS)=   1.62,PGA(EW)=   1.26
+Stacode=EGF ,Staname=光復  ,Stalon=121.48,Stalat=23.68,Dist=  50.90,AZ= 41.45,PGA(V)=   0.84,PGA(NS)=   1.74,PGA(EW)=   2.21
+Stacode=WHF ,Staname=合歡山,Stalon=121.27,Stalat=24.14,Dist=  56.43,AZ=102.99,PGA(V)=   1.02,PGA(NS)=   1.56,PGA(EW)=   2.81
+Stacode=NNS ,Staname=南山  ,Stalon=121.38,Stalat=24.44,Dist=  63.02,AZ=135.88,PGA(V)=   0.54,PGA(NS)=   1.38,PGA(EW)=   1.26
+Stacode=TWT ,Staname=德基  ,Stalon=121.16,Stalat=24.25,Dist=  70.59,AZ=110.19,PGA(V)=   0.42,PGA(NS)=   1.26,PGA(EW)=   0.60
+Stacode=NLD ,Staname=羅東  ,Stalon=121.77,Stalat=24.67,Dist=  71.48,AZ=176.70,PGA(V)=   0.96,PGA(NS)=   0.96,PGA(EW)=   0.96
+Stacode=ENT ,Staname=牛鬥  ,Stalon=121.57,Stalat=24.64,Dist=  71.63,AZ=160.15,PGA(V)=   0.30,PGA(NS)=   1.02,PGA(EW)=   0.84
+Stacode=SML ,Staname=日月潭,Stalon=120.91,Stalat=23.88,Dist=  93.56,AZ= 79.94,PGA(V)=   0.30,PGA(NS)=   0.78,PGA(EW)=   1.26
+Stacode=CHN5,Staname=草嶺  ,Stalon=120.68,Stalat=23.60,Dist= 125.23,AZ= 67.56,PGA(V)=   0.30,PGA(NS)=   0.60,PGA(EW)=   0.96

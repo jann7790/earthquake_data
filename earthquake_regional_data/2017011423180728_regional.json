@@ -1,0 +1,29 @@
+{
+  "epicenter_lat": "23.29",
+  "epicenter_lon": "120.41",
+  "magnitude": "2.8",
+  "max_intensity": "1",
+  "locations": [
+    {
+      "latitude": "23.2438",
+      "longitude": "120.6223",
+      "county": "嘉義縣",
+      "intensity": "1",
+      "location_name": "大埔"
+    },
+    {
+      "latitude": "23.1743",
+      "longitude": "120.2018",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "佳里"
+    },
+    {
+      "latitude": "23.1361",
+      "longitude": "120.2882",
+      "county": "臺南市",
+      "intensity": "1",
+      "location_name": "善化"
+    }
+  ]
+}
