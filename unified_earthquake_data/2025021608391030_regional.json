@@ -1,0 +1,27 @@
+{
+    "event_id": "2025021608391030_regional",
+    "timestamp": "2025-02-16 08:39:10",
+    "epicenter_latitude": "23.8993",
+    "epicenter_longitude": "120.6423",
+    "depth_km": null,
+    "magnitude": "3",
+    "max_intensity_observed": "1",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "梧棲",
+            "latitude": "24.2566",
+            "longitude": "120.5234",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

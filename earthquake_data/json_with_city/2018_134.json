@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "134",
+  "timestamp": "2018-12-10T18:58:07",
+  "latitude": 23.06,
+  "longitude": 121.34,
+  "depth_km": 18.8,
+  "magnitude": 4.6,
+  "stations": [
+    {
+      "Stacode": "SCL",
+      "Staname": "佳里",
+      "Stalon": 120.2,
+      "Stalat": 23.17,
+      "Dist": 117.04,
+      "AZ": 96.04,
+      "PGA(V)": 0.13,
+      "PGA(NS)": 0.59,
+      "PGA(EW)": 0.89,
+      "City": "臺南市"
+    }
+  ]
+}

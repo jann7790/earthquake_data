@@ -1,0 +1,42 @@
+{
+    "event_id": "2020_038",
+    "timestamp": "2020-07-09T00:54:32",
+    "epicenter_latitude": 23.25,
+    "epicenter_longitude": 121.27,
+    "depth_km": 23.2,
+    "magnitude": 4.6,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "善化",
+            "latitude": 23.14,
+            "longitude": 120.29,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SSH",
+            "distance_km": 101.76,
+            "pga_v": 0.2,
+            "pga_ns": 0.76,
+            "pga_ew": 0.53,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.04,
+            "pgv_ew": 0.05
+        },
+        {
+            "location_name": "七股",
+            "latitude": 23.15,
+            "longitude": 120.09,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SCK",
+            "distance_km": 122.14,
+            "pga_v": 0.66,
+            "pga_ns": 0.75,
+            "pga_ew": 0.36,
+            "pgv_v": 0.12,
+            "pgv_ns": 0.08,
+            "pgv_ew": 0.04
+        }
+    ]
+}

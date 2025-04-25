@@ -5,20 +5,6 @@
   "max_intensity": "1",
   "locations": [
     {
-      "latitude": "23.6363",
-      "longitude": "120.2298",
-      "county": "雲林縣",
-      "intensity": "1",
-      "location_name": "四湖"
-    },
-    {
-      "latitude": "23.4963",
-      "longitude": "120.4327",
-      "county": "嘉義市",
-      "intensity": "1",
-      "location_name": "嘉義市"
-    },
-    {
       "latitude": "23.1743",
       "longitude": "120.2018",
       "county": "臺南市",

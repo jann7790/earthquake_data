@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "066",
+  "timestamp": "2014-05-11T21:16:21",
+  "latitude": 23.31,
+  "longitude": 120.61,
+  "depth_km": 8.1,
+  "magnitude": 3.3,
+  "stations": [
+    {
+      "Stacode": "TWL",
+      "Staname": "東山",
+      "Stalon": 120.5,
+      "Stalat": 23.26,
+      "Dist": 11.84,
+      "AZ": 67.15,
+      "PGA(V)": 0.6,
+      "PGA(NS)": 0.54,
+      "PGA(EW)": 0.84,
+      "City": "臺南市"
+    }
+  ]
+}

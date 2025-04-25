@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "080",
+  "timestamp": "2018-04-19T10:46:52",
+  "latitude": 24.24,
+  "longitude": 121.79,
+  "depth_km": 16.8,
+  "magnitude": 4.2,
+  "stations": [
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 63.55,
+      "AZ": 91.26,
+      "PGA(V)": 0.48,
+      "PGA(NS)": 1.38,
+      "PGA(EW)": 0.96,
+      "City": "臺中市"
+    }
+  ]
+}

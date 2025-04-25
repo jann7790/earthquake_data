@@ -1,0 +1,27 @@
+{
+    "event_id": "2022042919173425_regional",
+    "timestamp": "2022-04-29 19:17:34",
+    "epicenter_latitude": "23.137",
+    "epicenter_longitude": "120.2188",
+    "depth_km": null,
+    "magnitude": "2.5",
+    "max_intensity_observed": "1",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "佳里",
+            "latitude": "23.1743",
+            "longitude": "120.2018",
+            "county": "臺南市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

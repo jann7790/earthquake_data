@@ -1,0 +1,106 @@
+{
+  "earthquake_id": "132",
+  "timestamp": "2018-12-09T00:07:07",
+  "latitude": 23.62,
+  "longitude": 120.71,
+  "depth_km": 15.8,
+  "magnitude": 4.2,
+  "stations": [
+    {
+      "Stacode": "WWF",
+      "Staname": "霧峰",
+      "Stalon": 120.7,
+      "Stalat": 24.04,
+      "Dist": 46.96,
+      "AZ": 177.97,
+      "PGA(V)": 2.2,
+      "PGA(NS)": 2.09,
+      "PGA(EW)": 3.95,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "TCU",
+      "Staname": "臺中市",
+      "Stalon": 120.68,
+      "Stalat": 24.15,
+      "Dist": 58.42,
+      "AZ": 176.95,
+      "PGA(V)": 0.43,
+      "PGA(NS)": 0.94,
+      "PGA(EW)": 0.85,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "SSH",
+      "Staname": "善化",
+      "Stalon": 120.29,
+      "Stalat": 23.14,
+      "Dist": 69.02,
+      "AZ": 39.19,
+      "PGA(V)": 0.8,
+      "PGA(NS)": 1.21,
+      "PGA(EW)": 1.46,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SCL",
+      "Staname": "佳里",
+      "Stalon": 120.2,
+      "Stalat": 23.17,
+      "Dist": 71.99,
+      "AZ": 46.74,
+      "PGA(V)": 0.95,
+      "PGA(NS)": 1.97,
+      "PGA(EW)": 2.23,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "WHP",
+      "Staname": "烏石坑",
+      "Stalon": 120.95,
+      "Stalat": 24.28,
+      "Dist": 76.65,
+      "AZ": 197.87,
+      "PGA(V)": 0.67,
+      "PGA(NS)": 1.04,
+      "PGA(EW)": 1.17,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "TAI1",
+      "Staname": "永康",
+      "Stalon": 120.24,
+      "Stalat": 23.04,
+      "Dist": 80.83,
+      "AZ": 37.23,
+      "PGA(V)": 0.47,
+      "PGA(NS)": 1.14,
+      "PGA(EW)": 0.78,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "WDJ",
+      "Staname": "大甲",
+      "Stalon": 120.64,
+      "Stalat": 24.35,
+      "Dist": 81.07,
+      "AZ": 174.64,
+      "PGA(V)": 0.33,
+      "PGA(NS)": 0.63,
+      "PGA(EW)": 0.84,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 82.82,
+      "AZ": 50.83,
+      "PGA(V)": 0.76,
+      "PGA(NS)": 2.9,
+      "PGA(EW)": 2.42,
+      "City": "臺南市"
+    }
+  ]
+}

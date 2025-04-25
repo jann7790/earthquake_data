@@ -1,0 +1,72 @@
+{
+    "event_id": "2018_138",
+    "timestamp": "2018-12-25T11:56:44",
+    "epicenter_latitude": 22.59,
+    "epicenter_longitude": 120.8,
+    "depth_km": 5.8,
+    "magnitude": 4.5,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "臺南市",
+            "latitude": 23.0,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "TAI",
+            "distance_km": 76.5,
+            "pga_v": 0.98,
+            "pga_ns": 1.46,
+            "pga_ew": 1.17,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "善化",
+            "latitude": 23.14,
+            "longitude": 120.29,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "SSH",
+            "distance_km": 80.18,
+            "pga_v": 0.54,
+            "pga_ns": 0.74,
+            "pga_ew": 1.07,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "佳里",
+            "latitude": 23.17,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "SCL",
+            "distance_km": 89.2,
+            "pga_v": 0.28,
+            "pga_ns": 1.91,
+            "pga_ew": 1.22,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "七股",
+            "latitude": 23.15,
+            "longitude": 120.09,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "SCK",
+            "distance_km": 95.76,
+            "pga_v": 0.5,
+            "pga_ns": 1.56,
+            "pga_ew": 2.12,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

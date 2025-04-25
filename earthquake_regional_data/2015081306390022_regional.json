@@ -5,69 +5,6 @@
   "max_intensity": "3",
   "locations": [
     {
-      "latitude": "24.4374",
-      "longitude": "121.3813",
-      "county": "宜蘭縣",
-      "intensity": "3",
-      "location_name": "南山"
-    },
-    {
-      "latitude": "24.4259",
-      "longitude": "121.749",
-      "county": "宜蘭縣",
-      "intensity": "2",
-      "location_name": "南澳"
-    },
-    {
-      "latitude": "24.6378",
-      "longitude": "121.5737",
-      "county": "宜蘭縣",
-      "intensity": "2",
-      "location_name": "牛鬥"
-    },
-    {
-      "latitude": "24.7181",
-      "longitude": "121.6829",
-      "county": "宜蘭縣",
-      "intensity": "1",
-      "location_name": "內城"
-    },
-    {
-      "latitude": "24.309",
-      "longitude": "121.7494",
-      "county": "花蓮縣",
-      "intensity": "2",
-      "location_name": "和平"
-    },
-    {
-      "latitude": "24.1587",
-      "longitude": "121.6229",
-      "county": "花蓮縣",
-      "intensity": "2",
-      "location_name": "太魯閣"
-    },
-    {
-      "latitude": "24.1434",
-      "longitude": "121.2725",
-      "county": "南投縣",
-      "intensity": "1",
-      "location_name": "合歡山"
-    },
-    {
-      "latitude": "24.6737",
-      "longitude": "121.3666",
-      "county": "桃園市",
-      "intensity": "1",
-      "location_name": "三光"
-    },
-    {
-      "latitude": "24.7357",
-      "longitude": "121.0881",
-      "county": "新竹縣",
-      "intensity": "1",
-      "location_name": "竹東"
-    },
-    {
       "latitude": "24.2495",
       "longitude": "121.1618",
       "county": "臺中市",

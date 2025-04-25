@@ -1,0 +1,57 @@
+{
+    "event_id": "2015_049",
+    "timestamp": "2015-09-10T23:23:27",
+    "epicenter_latitude": 24.24,
+    "epicenter_longitude": 121.82,
+    "depth_km": 18.6,
+    "magnitude": 4.9,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 67.3,
+            "pga_v": 1.14,
+            "pga_ns": 4.37,
+            "pga_ew": 1.97,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "信義區",
+            "latitude": 25.04,
+            "longitude": 121.57,
+            "county": "臺北市",
+            "intensity": null,
+            "station_code": "NHY",
+            "distance_km": 92.33,
+            "pga_v": 1.02,
+            "pga_ns": 0.9,
+            "pga_ew": 1.14,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "霧峰",
+            "latitude": 24.04,
+            "longitude": 120.7,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WWF",
+            "distance_km": 116.5,
+            "pga_v": 0.48,
+            "pga_ns": 0.66,
+            "pga_ew": 1.2,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "044",
+  "timestamp": "2025-01-27T09:25:53",
+  "latitude": 22.76,
+  "longitude": 121.03,
+  "depth_km": 5.7,
+  "magnitude": 4.7,
+  "stations": [
+    {
+      "Stacode": "C015",
+      "Staname": "白河",
+      "Stalon": 120.41,
+      "Stalat": 23.35,
+      "Dist": 91.0,
+      "BAZ": 135.9,
+      "PGA(V)": 0.5,
+      "PGA(NS)": 1.08,
+      "PGA(EW)": 1.35,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.1,
+      "PGV(EW)": 0.12,
+      "Int": 1,
+      "PGA(SUM)": 1.55,
+      "PGV(SUM)": 0.12,
+      "City": "臺南市"
+    }
+  ]
+}

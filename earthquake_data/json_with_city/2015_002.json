@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "002",
+  "timestamp": "2015-01-05T13:53:46",
+  "latitude": 24.69,
+  "longitude": 122.02,
+  "depth_km": 73.8,
+  "magnitude": 5.1,
+  "stations": [
+    {
+      "Stacode": "TAP",
+      "Staname": "臺北市",
+      "Stalon": 121.51,
+      "Stalat": 25.04,
+      "Dist": 63.81,
+      "AZ": 126.95,
+      "PGA(V)": 1.2,
+      "PGA(NS)": 1.02,
+      "PGA(EW)": 0.78,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 99.73,
+      "AZ": 60.6,
+      "PGA(V)": 2.27,
+      "PGA(NS)": 2.63,
+      "PGA(EW)": 2.33,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "HSN1",
+      "Staname": "新竹市",
+      "Stalon": 121.02,
+      "Stalat": 24.78,
+      "Dist": 101.66,
+      "AZ": 95.47,
+      "PGA(V)": 0.42,
+      "PGA(NS)": 1.85,
+      "PGA(EW)": 0.9,
+      "City": "新竹市"
+    }
+  ]
+}

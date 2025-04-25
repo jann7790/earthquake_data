@@ -1,0 +1,27 @@
+{
+    "event_id": "2023_041",
+    "timestamp": "2023-06-17T09:47:29",
+    "epicenter_latitude": 23.26,
+    "epicenter_longitude": 121.24,
+    "depth_km": 17.0,
+    "magnitude": 4.4,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "新化",
+            "latitude": 23.02,
+            "longitude": 120.35,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SHH",
+            "distance_km": 95.29,
+            "pga_v": 0.22,
+            "pga_ns": 0.52,
+            "pga_ew": 0.69,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.03,
+            "pgv_ew": 0.03
+        }
+    ]
+}

@@ -5,60 +5,11 @@
   "max_intensity": "2",
   "locations": [
     {
-      "latitude": "22.9933",
-      "longitude": "120.6463",
-      "county": "高雄市",
-      "intensity": "2",
-      "location_name": "六龜"
-    },
-    {
-      "latitude": "23.1607",
-      "longitude": "120.7656",
-      "county": "高雄市",
-      "intensity": "1",
-      "location_name": "桃源"
-    },
-    {
-      "latitude": "22.8215",
-      "longitude": "120.4306",
-      "county": "高雄市",
-      "intensity": "1",
-      "location_name": "旗山"
-    },
-    {
-      "latitude": "23.0804",
-      "longitude": "120.5908",
-      "county": "高雄市",
-      "intensity": "1",
-      "location_name": "甲仙"
-    },
-    {
-      "latitude": "23.1488",
-      "longitude": "121.2061",
-      "county": "臺東縣",
-      "intensity": "1",
-      "location_name": "海端"
-    },
-    {
       "latitude": "23.1849",
       "longitude": "120.5286",
       "county": "臺南市",
       "intensity": "1",
       "location_name": "楠西"
-    },
-    {
-      "latitude": "22.7054",
-      "longitude": "120.6447",
-      "county": "屏東縣",
-      "intensity": "1",
-      "location_name": "瑪家"
-    },
-    {
-      "latitude": "22.7443",
-      "longitude": "120.64",
-      "county": "屏東縣",
-      "intensity": "1",
-      "location_name": "三地門"
     }
   ]
 }

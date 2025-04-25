@@ -5,46 +5,11 @@
   "max_intensity": "2",
   "locations": [
     {
-      "latitude": "24.6378",
-      "longitude": "121.5737",
-      "county": "宜蘭縣",
-      "intensity": "2",
-      "location_name": "牛鬥"
-    },
-    {
-      "latitude": "24.4259",
-      "longitude": "121.749",
-      "county": "宜蘭縣",
-      "intensity": "1",
-      "location_name": "南澳"
-    },
-    {
-      "latitude": "24.9671",
-      "longitude": "121.1869",
-      "county": "桃園市",
-      "intensity": "1",
-      "location_name": "中壢"
-    },
-    {
-      "latitude": "24.9997",
-      "longitude": "121.2976",
-      "county": "桃園市",
-      "intensity": "1",
-      "location_name": "桃園市"
-    },
-    {
       "latitude": "24.7786",
       "longitude": "121.0182",
       "county": "新竹市",
       "intensity": "1",
       "location_name": "新竹市"
-    },
-    {
-      "latitude": "24.7357",
-      "longitude": "121.0881",
-      "county": "新竹縣",
-      "intensity": "1",
-      "location_name": "竹東"
     },
     {
       "latitude": "25.0408",

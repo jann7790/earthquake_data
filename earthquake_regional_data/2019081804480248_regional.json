@@ -5,74 +5,11 @@
   "max_intensity": "2",
   "locations": [
     {
-      "latitude": "23.6363",
-      "longitude": "120.2298",
-      "county": "雲林縣",
-      "intensity": "2",
-      "location_name": "四湖"
-    },
-    {
-      "latitude": "23.5226",
-      "longitude": "120.2278",
-      "county": "雲林縣",
-      "intensity": "1",
-      "location_name": "水林"
-    },
-    {
-      "latitude": "23.6888",
-      "longitude": "120.5381",
-      "county": "雲林縣",
-      "intensity": "1",
-      "location_name": "斗六市"
-    },
-    {
-      "latitude": "23.4963",
-      "longitude": "120.4327",
-      "county": "嘉義市",
-      "intensity": "1",
-      "location_name": "嘉義市"
-    },
-    {
-      "latitude": "23.3606",
-      "longitude": "120.2794",
-      "county": "嘉義縣",
-      "intensity": "1",
-      "location_name": "義竹"
-    },
-    {
-      "latitude": "23.9026",
-      "longitude": "120.3781",
-      "county": "彰化縣",
-      "intensity": "1",
-      "location_name": "二林"
-    },
-    {
-      "latitude": "23.8617",
-      "longitude": "120.2892",
-      "county": "彰化縣",
-      "intensity": "1",
-      "location_name": "大城"
-    },
-    {
       "latitude": "23.1466",
       "longitude": "120.0865",
       "county": "臺南市",
       "intensity": "1",
       "location_name": "七股"
-    },
-    {
-      "latitude": "23.5653",
-      "longitude": "119.5633",
-      "county": "澎湖縣",
-      "intensity": "1",
-      "location_name": "馬公市"
-    },
-    {
-      "latitude": "24.4075",
-      "longitude": "118.2887",
-      "county": "金門縣",
-      "intensity": "1",
-      "location_name": "金門"
     }
   ]
 }

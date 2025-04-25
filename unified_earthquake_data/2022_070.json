@@ -1,0 +1,27 @@
+{
+    "event_id": "2022_070",
+    "timestamp": "2022-06-25T10:32:24",
+    "epicenter_latitude": 23.62,
+    "epicenter_longitude": 121.39,
+    "depth_km": 9.6,
+    "magnitude": 4.3,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "梨山",
+            "latitude": 24.25,
+            "longitude": 121.24,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "FUSS",
+            "distance_km": 70.91,
+            "pga_v": 0.28,
+            "pga_ns": 0.73,
+            "pga_ew": 1.36,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.03,
+            "pgv_ew": 0.05
+        }
+    ]
+}

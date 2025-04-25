@@ -1,0 +1,27 @@
+{
+    "event_id": "2020_048",
+    "timestamp": "2020-09-02T16:44:39",
+    "epicenter_latitude": 22.76,
+    "epicenter_longitude": 121.21,
+    "depth_km": 32.2,
+    "magnitude": 4.7,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "新化",
+            "latitude": 23.02,
+            "longitude": 120.35,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SHH",
+            "distance_km": 92.63,
+            "pga_v": 0.35,
+            "pga_ns": 0.69,
+            "pga_ew": 0.82,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.04,
+            "pgv_ew": 0.04
+        }
+    ]
+}

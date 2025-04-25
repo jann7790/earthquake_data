@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "182",
+  "timestamp": "2022-12-15T12:05:59",
+  "latitude": 23.79,
+  "longitude": 121.71,
+  "depth_km": 17.8,
+  "magnitude": 4.7,
+  "stations": [
+    {
+      "Stacode": "FUSS",
+      "Staname": "梨山",
+      "Stalon": 121.24,
+      "Stalat": 24.25,
+      "Dist": 68.91,
+      "BAZ": 136.96,
+      "PGA(V)": 0.32,
+      "PGA(NS)": 0.71,
+      "PGA(EW)": 0.75,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.04,
+      "PGV(EW)": 0.04,
+      "Int": 1,
+      "PGA(SUM)": 0.91,
+      "PGV(SUM)": 0.05,
+      "City": "臺中市"
+    }
+  ]
+}

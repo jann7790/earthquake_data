@@ -1,0 +1,57 @@
+{
+    "event_id": "2024_390",
+    "timestamp": "2024-05-13T15:57:27",
+    "epicenter_latitude": 23.82,
+    "epicenter_longitude": 120.96,
+    "depth_km": 21.1,
+    "magnitude": 4.1,
+    "max_intensity_observed": 2,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "霧峰",
+            "latitude": 24.04,
+            "longitude": 120.7,
+            "county": "臺中市",
+            "intensity": 2,
+            "station_code": "B219",
+            "distance_km": 36.4,
+            "pga_v": 2.14,
+            "pga_ns": 3.25,
+            "pga_ew": 2.2,
+            "pgv_v": 0.03,
+            "pgv_ns": 0.09,
+            "pgv_ew": 0.08
+        },
+        {
+            "location_name": "臺中市",
+            "latitude": 24.15,
+            "longitude": 120.68,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "TCU",
+            "distance_km": 45.88,
+            "pga_v": 0.5,
+            "pga_ns": 0.81,
+            "pga_ew": 0.94,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.02,
+            "pgv_ew": 0.02
+        },
+        {
+            "location_name": "白河",
+            "latitude": 23.35,
+            "longitude": 120.41,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "C015",
+            "distance_km": 76.37,
+            "pga_v": 0.83,
+            "pga_ns": 0.79,
+            "pga_ew": 0.98,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.02,
+            "pgv_ew": 0.03
+        }
+    ]
+}

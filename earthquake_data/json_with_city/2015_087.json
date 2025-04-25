@@ -1,0 +1,34 @@
+{
+  "earthquake_id": "087",
+  "timestamp": "2015-12-02T13:21:57",
+  "latitude": 24.19,
+  "longitude": 121.91,
+  "depth_km": 23.9,
+  "magnitude": 4.9,
+  "stations": [
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 76.38,
+      "AZ": 94.84,
+      "PGA(V)": 0.6,
+      "PGA(NS)": 1.26,
+      "PGA(EW)": 1.08,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "WDD",
+      "Staname": "大肚",
+      "Stalon": 120.56,
+      "Stalat": 24.13,
+      "Dist": 137.73,
+      "AZ": 87.41,
+      "PGA(V)": 0.36,
+      "PGA(NS)": 0.9,
+      "PGA(EW)": 0.66,
+      "City": "臺中市"
+    }
+  ]
+}

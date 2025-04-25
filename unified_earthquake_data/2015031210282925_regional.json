@@ -1,0 +1,42 @@
+{
+    "event_id": "2015031210282925_regional",
+    "timestamp": "2015-03-12 10:28:29",
+    "epicenter_latitude": "23.02",
+    "epicenter_longitude": "120.22",
+    "depth_km": null,
+    "magnitude": "2.5",
+    "max_intensity_observed": "1",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "臺南市",
+            "latitude": "22.9932",
+            "longitude": "120.2047",
+            "county": "臺南市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "永康",
+            "latitude": "23.0385",
+            "longitude": "120.2364",
+            "county": "臺南市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

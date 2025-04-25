@@ -1,0 +1,42 @@
+{
+    "event_id": "2015_099",
+    "timestamp": "2015-12-26T12:05:24",
+    "epicenter_latitude": 24.21,
+    "epicenter_longitude": 121.68,
+    "depth_km": 15.7,
+    "magnitude": 4.4,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 53.24,
+            "pga_v": 0.54,
+            "pga_ns": 2.09,
+            "pga_ew": 1.02,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "大肚",
+            "latitude": 24.13,
+            "longitude": 120.56,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WDD",
+            "distance_km": 114.89,
+            "pga_v": 0.36,
+            "pga_ns": 0.54,
+            "pga_ew": 0.84,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

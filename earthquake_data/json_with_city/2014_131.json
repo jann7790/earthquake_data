@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "131",
+  "timestamp": "2014-11-12T20:46:19",
+  "latitude": 23.55,
+  "longitude": 120.74,
+  "depth_km": 6.4,
+  "magnitude": 3.5,
+  "stations": [
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 80.62,
+      "AZ": 56.51,
+      "PGA(V)": 0.3,
+      "PGA(NS)": 0.54,
+      "PGA(EW)": 1.14,
+      "City": "臺南市"
+    }
+  ]
+}

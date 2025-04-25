@@ -1,0 +1,94 @@
+{
+  "earthquake_id": "007",
+  "timestamp": "2014-01-15T00:44:27",
+  "latitude": 23.86,
+  "longitude": 120.98,
+  "depth_km": 15.0,
+  "magnitude": 5.0,
+  "stations": [
+    {
+      "Stacode": "WWF",
+      "Staname": "霧峰",
+      "Stalon": 120.7,
+      "Stalat": 24.04,
+      "Dist": 35.4,
+      "AZ": 124.68,
+      "PGA(V)": 1.26,
+      "PGA(NS)": 0.96,
+      "PGA(EW)": 1.26,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "TCU",
+      "Staname": "臺中市",
+      "Stalon": 120.68,
+      "Stalat": 24.15,
+      "Dist": 43.92,
+      "AZ": 135.92,
+      "PGA(V)": 0.48,
+      "PGA(NS)": 1.14,
+      "PGA(EW)": 1.02,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 46.61,
+      "AZ": 202.74,
+      "PGA(V)": 2.15,
+      "PGA(NS)": 5.68,
+      "PGA(EW)": 3.29,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "WDS",
+      "Staname": "東勢",
+      "Stalon": 120.83,
+      "Stalat": 24.26,
+      "Dist": 46.74,
+      "AZ": 160.44,
+      "PGA(V)": 1.74,
+      "PGA(NS)": 1.97,
+      "PGA(EW)": 2.63,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "WDD",
+      "Staname": "大肚",
+      "Stalon": 120.56,
+      "Stalat": 24.13,
+      "Dist": 53.03,
+      "AZ": 124.89,
+      "PGA(V)": 2.87,
+      "PGA(NS)": 1.08,
+      "PGA(EW)": 1.26,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "WYP",
+      "Staname": "外埔",
+      "Stalon": 120.65,
+      "Stalat": 24.33,
+      "Dist": 62.21,
+      "AZ": 147.25,
+      "PGA(V)": 0.48,
+      "PGA(NS)": 0.9,
+      "PGA(EW)": 0.72,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "SCL",
+      "Staname": "佳里",
+      "Stalon": 120.2,
+      "Stalat": 23.17,
+      "Dist": 110.37,
+      "AZ": 46.39,
+      "PGA(V)": 0.42,
+      "PGA(NS)": 1.62,
+      "PGA(EW)": 1.68,
+      "City": "臺南市"
+    }
+  ]
+}

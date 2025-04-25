@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "433",
+  "timestamp": "2024-07-26T02:52:42",
+  "latitude": 24.04,
+  "longitude": 121.71,
+  "depth_km": 20.0,
+  "magnitude": 4.4,
+  "stations": [
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 60.25,
+      "BAZ": 112.96,
+      "PGA(V)": 0.61,
+      "PGA(NS)": 1.67,
+      "PGA(EW)": 0.97,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.1,
+      "PGV(EW)": 0.05,
+      "Int": 1,
+      "PGA(SUM)": 1.81,
+      "PGV(SUM)": 0.1,
+      "City": "臺中市"
+    }
+  ]
+}

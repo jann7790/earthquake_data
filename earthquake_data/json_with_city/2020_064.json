@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "064",
+  "timestamp": "2020-10-26T09:08:03",
+  "latitude": 24.58,
+  "longitude": 121.84,
+  "depth_km": 63.7,
+  "magnitude": 4.7,
+  "stations": [
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 58.21,
+      "AZ": 151.41,
+      "PGA(V)": 3.7,
+      "PGA(NS)": 2.35,
+      "PGA(EW)": 2.92,
+      "PGV(V)": 0.08,
+      "PGV(NS)": 0.07,
+      "PGV(EW)": 0.08,
+      "Int": 2,
+      "PGA(SUM)": 2.92,
+      "PGV(SUM)": 0.11,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 78.22,
+      "AZ": 62.29,
+      "PGA(V)": 0.74,
+      "PGA(NS)": 2.11,
+      "PGA(EW)": 0.95,
+      "PGV(V)": 0.03,
+      "PGV(NS)": 0.07,
+      "PGV(EW)": 0.02,
+      "Int": 1,
+      "PGA(SUM)": 2.02,
+      "PGV(SUM)": 0.07,
+      "City": "臺中市"
+    }
+  ]
+}

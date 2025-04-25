@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "216",
+  "timestamp": "2024-04-22T08:01:34",
+  "latitude": 24.29,
+  "longitude": 121.83,
+  "depth_km": 8.1,
+  "magnitude": 4.1,
+  "stations": [
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 67.78,
+      "BAZ": 86.11,
+      "PGA(V)": 0.46,
+      "PGA(NS)": 0.89,
+      "PGA(EW)": 0.56,
+      "PGV(V)": 0.01,
+      "PGV(NS)": 0.04,
+      "PGV(EW)": 0.02,
+      "Int": 1,
+      "PGA(SUM)": 0.96,
+      "PGV(SUM)": 0.04,
+      "City": "臺中市"
+    }
+  ]
+}

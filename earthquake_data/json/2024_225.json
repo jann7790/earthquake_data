@@ -1,0 +1,61 @@
+{
+  "earthquake_id": "225",
+  "timestamp": "2024-04-22T18:46:11",
+  "latitude": 23.74,
+  "longitude": 121.53,
+  "depth_km": 9.6,
+  "magnitude": 4.8,
+  "stations": [
+    {
+      "Stacode": "EGC",
+      "Staname": "磯崎",
+      "Stalon": 121.55,
+      "Stalat": 23.71,
+      "Dist": 4.36,
+      "BAZ": 335.18,
+      "PGA(V)": 35.79,
+      "PGA(NS)": 331.34,
+      "PGA(EW)": 55.31,
+      "PGV(V)": 6.49,
+      "PGV(NS)": 9.67,
+      "PGV(EW)": 2.8,
+      "Int": 4,
+      "PGA(SUM)": 227.99,
+      "PGV(SUM)": 10.57
+    },
+    {
+      "Stacode": "SHUL",
+      "Staname": "水璉",
+      "Stalon": 121.56,
+      "Stalat": 23.79,
+      "Dist": 5.92,
+      "BAZ": 214.64,
+      "PGA(V)": 45.8,
+      "PGA(NS)": 106.06,
+      "PGA(EW)": 78.68,
+      "PGV(V)": 0.99,
+      "PGV(NS)": 3.63,
+      "PGV(EW)": 4.55,
+      "Int": 4,
+      "PGA(SUM)": 108.28,
+      "PGV(SUM)": 5.27
+    },
+    {
+      "Stacode": "EYL",
+      "Staname": "鹽寮",
+      "Stalon": 121.6,
+      "Stalat": 23.9,
+      "Dist": 19.18,
+      "BAZ": 202.5,
+      "PGA(V)": 33.65,
+      "PGA(NS)": 62.87,
+      "PGA(EW)": 84.05,
+      "PGV(V)": 1.17,
+      "PGV(NS)": 3.04,
+      "PGV(EW)": 3.78,
+      "Int": 4,
+      "PGA(SUM)": 88.55,
+      "PGV(SUM)": 3.98
+    }
+  ]
+}

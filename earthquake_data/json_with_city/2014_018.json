@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "018",
+  "timestamp": "2014-01-29T10:14:52",
+  "latitude": 23.24,
+  "longitude": 121.37,
+  "depth_km": 17.3,
+  "magnitude": 4.4,
+  "stations": [
+    {
+      "Stacode": "CHN3",
+      "Staname": "新化",
+      "Stalon": 120.36,
+      "Stalat": 23.08,
+      "Dist": 104.27,
+      "AZ": 79.74,
+      "PGA(V)": 0.36,
+      "PGA(NS)": 0.78,
+      "PGA(EW)": 0.9,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SSH",
+      "Staname": "善化",
+      "Stalon": 120.29,
+      "Stalat": 23.14,
+      "Dist": 111.05,
+      "AZ": 83.88,
+      "PGA(V)": 0.18,
+      "PGA(NS)": 0.9,
+      "PGA(EW)": 0.54,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 131.52,
+      "AZ": 85.35,
+      "PGA(V)": 0.12,
+      "PGA(NS)": 0.84,
+      "PGA(EW)": 0.9,
+      "City": "臺南市"
+    }
+  ]
+}

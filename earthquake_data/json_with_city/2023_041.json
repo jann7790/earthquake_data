@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "041",
+  "timestamp": "2023-06-17T09:47:29",
+  "latitude": 23.26,
+  "longitude": 121.24,
+  "depth_km": 17.0,
+  "magnitude": 4.4,
+  "stations": [
+    {
+      "Stacode": "SHH",
+      "Staname": "新化",
+      "Stalon": 120.35,
+      "Stalat": 23.02,
+      "Dist": 95.29,
+      "BAZ": 73.57,
+      "PGA(V)": 0.22,
+      "PGA(NS)": 0.52,
+      "PGA(EW)": 0.69,
+      "PGV(V)": 0.01,
+      "PGV(NS)": 0.03,
+      "PGV(EW)": 0.03,
+      "Int": 1,
+      "PGA(SUM)": 0.87,
+      "PGV(SUM)": 0.04,
+      "City": "臺南市"
+    }
+  ]
+}

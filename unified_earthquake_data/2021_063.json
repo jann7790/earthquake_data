@@ -1,0 +1,72 @@
+{
+    "event_id": "2021_063",
+    "timestamp": "2021-07-14T07:45:27",
+    "epicenter_latitude": 23.93,
+    "epicenter_longitude": 121.63,
+    "depth_km": 5.4,
+    "magnitude": 5.1,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "TWT",
+            "distance_km": 59.19,
+            "pga_v": 0.76,
+            "pga_ns": 2.47,
+            "pga_ew": 1.42,
+            "pgv_v": 0.05,
+            "pgv_ns": 0.11,
+            "pgv_ew": 0.07
+        },
+        {
+            "location_name": "烏石坑",
+            "latitude": 24.28,
+            "longitude": 120.95,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "WHP",
+            "distance_km": 79.46,
+            "pga_v": 0.58,
+            "pga_ns": 1.24,
+            "pga_ew": 0.81,
+            "pgv_v": 0.04,
+            "pgv_ns": 0.1,
+            "pgv_ew": 0.08
+        },
+        {
+            "location_name": "霧峰",
+            "latitude": 24.04,
+            "longitude": 120.7,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "WWF",
+            "distance_km": 95.76,
+            "pga_v": 0.43,
+            "pga_ns": 1.04,
+            "pga_ew": 0.84,
+            "pgv_v": 0.03,
+            "pgv_ns": 0.11,
+            "pgv_ew": 0.08
+        },
+        {
+            "location_name": "臺中市",
+            "latitude": 24.15,
+            "longitude": 120.68,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "TCU",
+            "distance_km": 99.22,
+            "pga_v": 0.34,
+            "pga_ns": 0.82,
+            "pga_ew": 1.14,
+            "pgv_v": 0.03,
+            "pgv_ns": 0.08,
+            "pgv_ew": 0.12
+        }
+    ]
+}

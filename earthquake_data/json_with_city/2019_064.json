@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "064",
+  "timestamp": "2019-12-11T22:02:05",
+  "latitude": 24.79,
+  "longitude": 121.89,
+  "depth_km": 10.5,
+  "magnitude": 4.1,
+  "stations": [
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 42.02,
+      "AZ": 130.56,
+      "PGA(V)": 2.0,
+      "PGA(NS)": 1.55,
+      "PGA(EW)": 2.37,
+      "City": "臺北市"
+    }
+  ]
+}

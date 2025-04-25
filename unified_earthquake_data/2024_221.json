@@ -1,0 +1,57 @@
+{
+    "event_id": "2024_221",
+    "timestamp": "2024-04-22T17:15:59",
+    "epicenter_latitude": 23.77,
+    "epicenter_longitude": 121.52,
+    "depth_km": 4.9,
+    "magnitude": 5.1,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "梨山",
+            "latitude": 24.25,
+            "longitude": 121.24,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "FUSS",
+            "distance_km": 59.65,
+            "pga_v": 1.06,
+            "pga_ns": 2.38,
+            "pga_ew": 2.42,
+            "pgv_v": 0.1,
+            "pgv_ns": 0.15,
+            "pgv_ew": 0.15
+        },
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "TWT",
+            "distance_km": 64.12,
+            "pga_v": 0.73,
+            "pga_ns": 2.25,
+            "pga_ew": 1.28,
+            "pgv_v": 0.05,
+            "pgv_ns": 0.13,
+            "pgv_ew": 0.1
+        },
+        {
+            "location_name": "臺北市",
+            "latitude": 25.04,
+            "longitude": 121.51,
+            "county": "臺北市",
+            "intensity": 1,
+            "station_code": "TAP",
+            "distance_km": 140.34,
+            "pga_v": 0.39,
+            "pga_ns": 0.7,
+            "pga_ew": 0.73,
+            "pgv_v": 0.03,
+            "pgv_ns": 0.12,
+            "pgv_ew": 0.09
+        }
+    ]
+}

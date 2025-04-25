@@ -1,0 +1,27 @@
+{
+    "event_id": "2016_093",
+    "timestamp": "2016-09-24T17:36:49",
+    "epicenter_latitude": 24.11,
+    "epicenter_longitude": 121.51,
+    "depth_km": 19.2,
+    "magnitude": 4.2,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 39.24,
+            "pga_v": 0.78,
+            "pga_ns": 2.45,
+            "pga_ew": 1.26,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

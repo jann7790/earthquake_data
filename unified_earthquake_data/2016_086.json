@@ -1,0 +1,11 @@
+{
+    "event_id": "2016_086",
+    "timestamp": "2016-07-16T10:35:25",
+    "epicenter_latitude": 24.36,
+    "epicenter_longitude": 121.75,
+    "depth_km": 19.6,
+    "magnitude": 4.2,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": []
+}

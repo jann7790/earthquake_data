@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "069",
+  "timestamp": "2024-04-03T14:28:46",
+  "latitude": 23.46,
+  "longitude": 120.28,
+  "depth_km": 16.4,
+  "magnitude": 4.2,
+  "stations": [
+    {
+      "Stacode": "C015",
+      "Staname": "白河",
+      "Stalon": 120.41,
+      "Stalat": 23.35,
+      "Dist": 18.02,
+      "BAZ": 312.4,
+      "PGA(V)": 2.37,
+      "PGA(NS)": 1.95,
+      "PGA(EW)": 3.27,
+      "PGV(V)": 0.04,
+      "PGV(NS)": 0.08,
+      "PGV(EW)": 0.1,
+      "Int": 2,
+      "PGA(SUM)": 3.23,
+      "PGV(SUM)": 0.11,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "B219",
+      "Staname": "霧峰",
+      "Stalon": 120.7,
+      "Stalat": 24.04,
+      "Dist": 76.9,
+      "BAZ": 213.4,
+      "PGA(V)": 1.08,
+      "PGA(NS)": 2.02,
+      "PGA(EW)": 1.52,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.03,
+      "PGV(EW)": 0.03,
+      "Int": 1,
+      "PGA(SUM)": 1.35,
+      "PGV(SUM)": 0.03,
+      "City": "臺中市"
+    }
+  ]
+}

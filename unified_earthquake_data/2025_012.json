@@ -1,0 +1,72 @@
+{
+    "event_id": "2025_012",
+    "timestamp": "2025-01-21T00:32:16",
+    "epicenter_latitude": 23.21,
+    "epicenter_longitude": 120.57,
+    "depth_km": 13.7,
+    "magnitude": 4.3,
+    "max_intensity_observed": 2,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "白河",
+            "latitude": 23.35,
+            "longitude": 120.41,
+            "county": "臺南市",
+            "intensity": 2,
+            "station_code": "C015",
+            "distance_km": 22.3,
+            "pga_v": 5.31,
+            "pga_ns": 9.27,
+            "pga_ew": 10.93,
+            "pgv_v": 0.1,
+            "pgv_ns": 0.17,
+            "pgv_ew": 0.25
+        },
+        {
+            "location_name": "佳里",
+            "latitude": 23.17,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SCL",
+            "distance_km": 37.67,
+            "pga_v": 1.15,
+            "pga_ns": 1.07,
+            "pga_ew": 1.44,
+            "pgv_v": 0.03,
+            "pgv_ns": 0.09,
+            "pgv_ew": 0.11
+        },
+        {
+            "location_name": "永康",
+            "latitude": 23.04,
+            "longitude": 120.24,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "TAI1",
+            "distance_km": 38.88,
+            "pga_v": 0.79,
+            "pga_ns": 1.68,
+            "pga_ew": 1.09,
+            "pgv_v": 0.04,
+            "pgv_ns": 0.11,
+            "pgv_ew": 0.07
+        },
+        {
+            "location_name": "臺南市",
+            "latitude": 22.99,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "TAI",
+            "distance_km": 44.24,
+            "pga_v": 0.96,
+            "pga_ns": 0.98,
+            "pga_ew": 0.89,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.05,
+            "pgv_ew": 0.05
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "event_id": "2014_103",
+    "timestamp": "2014-08-02T23:01:21",
+    "epicenter_latitude": 24.21,
+    "epicenter_longitude": 120.77,
+    "depth_km": 9.9,
+    "magnitude": 2.1,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "東勢",
+            "latitude": 24.26,
+            "longitude": 120.83,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WDS",
+            "distance_km": 8.21,
+            "pga_v": 0.36,
+            "pga_ns": 2.81,
+            "pga_ew": 0.96,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "臺中市",
+            "latitude": 24.15,
+            "longitude": 120.68,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TCU",
+            "distance_km": 11.3,
+            "pga_v": 0.18,
+            "pga_ns": 0.42,
+            "pga_ew": 0.9,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

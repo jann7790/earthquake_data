@@ -1,0 +1,57 @@
+{
+    "event_id": "2014_118",
+    "timestamp": "2014-09-26T19:44:34",
+    "epicenter_latitude": 23.9,
+    "epicenter_longitude": 121.5,
+    "depth_km": 30.7,
+    "magnitude": 4.4,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 51.22,
+            "pga_v": 1.02,
+            "pga_ns": 2.93,
+            "pga_ew": 1.68,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "臺中市",
+            "latitude": 24.15,
+            "longitude": 120.68,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TCU",
+            "distance_km": 86.89,
+            "pga_v": 0.3,
+            "pga_ns": 1.14,
+            "pga_ew": 0.78,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "大肚",
+            "latitude": 24.13,
+            "longitude": 120.56,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WDD",
+            "distance_km": 98.96,
+            "pga_v": 0.78,
+            "pga_ns": 1.14,
+            "pga_ew": 0.96,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

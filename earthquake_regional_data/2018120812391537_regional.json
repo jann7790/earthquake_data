@@ -31,41 +31,6 @@
       "county": "臺南市",
       "intensity": "1",
       "location_name": "永康"
-    },
-    {
-      "latitude": "23.8044",
-      "longitude": "120.2232",
-      "county": "雲林縣",
-      "intensity": "1",
-      "location_name": "麥寮"
-    },
-    {
-      "latitude": "23.6363",
-      "longitude": "120.2298",
-      "county": "雲林縣",
-      "intensity": "1",
-      "location_name": "四湖"
-    },
-    {
-      "latitude": "23.5226",
-      "longitude": "120.2278",
-      "county": "雲林縣",
-      "intensity": "1",
-      "location_name": "水林"
-    },
-    {
-      "latitude": "23.9026",
-      "longitude": "120.3781",
-      "county": "彰化縣",
-      "intensity": "1",
-      "location_name": "二林"
-    },
-    {
-      "latitude": "23.8617",
-      "longitude": "120.2892",
-      "county": "彰化縣",
-      "intensity": "1",
-      "location_name": "大城"
     }
   ]
 }

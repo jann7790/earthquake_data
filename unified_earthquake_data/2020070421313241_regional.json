@@ -1,0 +1,42 @@
+{
+    "event_id": "2020070421313241_regional",
+    "timestamp": "2020-07-04 21:31:32",
+    "epicenter_latitude": "23.87",
+    "epicenter_longitude": "121.11",
+    "depth_km": null,
+    "magnitude": "4.1",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "梧棲",
+            "latitude": "24.2566",
+            "longitude": "120.5234",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "七股",
+            "latitude": "23.1466",
+            "longitude": "120.0865",
+            "county": "臺南市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

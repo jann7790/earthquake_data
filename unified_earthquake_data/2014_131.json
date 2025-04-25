@@ -1,0 +1,27 @@
+{
+    "event_id": "2014_131",
+    "timestamp": "2014-11-12T20:46:19",
+    "epicenter_latitude": 23.55,
+    "epicenter_longitude": 120.74,
+    "depth_km": 6.4,
+    "magnitude": 3.5,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "七股",
+            "latitude": 23.15,
+            "longitude": 120.09,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "SCK",
+            "distance_km": 80.62,
+            "pga_v": 0.3,
+            "pga_ns": 0.54,
+            "pga_ew": 1.14,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

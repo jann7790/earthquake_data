@@ -1,0 +1,27 @@
+{
+    "event_id": "2018112621240246_regional",
+    "timestamp": "2018-11-26 21:24:02",
+    "epicenter_latitude": "23.38",
+    "epicenter_longitude": "118.61",
+    "depth_km": null,
+    "magnitude": "4.6",
+    "max_intensity_observed": "1",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "佳里",
+            "latitude": "23.1743",
+            "longitude": "120.2018",
+            "county": "臺南市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "event_id": "2016081915385738_regional",
+    "timestamp": "2016-08-19 15:38:57",
+    "epicenter_latitude": "23.34",
+    "epicenter_longitude": "120.8",
+    "depth_km": null,
+    "magnitude": "3.8",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "東山",
+            "latitude": "23.265",
+            "longitude": "120.4999",
+            "county": "臺南市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

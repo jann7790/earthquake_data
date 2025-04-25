@@ -1,0 +1,42 @@
+{
+    "event_id": "2021012515253858_regional",
+    "timestamp": "2021-01-25 15:25:38",
+    "epicenter_latitude": "23.42",
+    "epicenter_longitude": "123.63",
+    "depth_km": null,
+    "magnitude": "5.8",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": "24.2495",
+            "longitude": "121.1618",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "梧棲",
+            "latitude": "24.2566",
+            "longitude": "120.5234",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "event_id": "2015090201340750_regional",
+    "timestamp": "2015-09-02 01:34:07",
+    "epicenter_latitude": "24.01",
+    "epicenter_longitude": "122.37",
+    "depth_km": null,
+    "magnitude": "5",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": "24.2495",
+            "longitude": "121.1618",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "信義區",
+            "latitude": "25.0408",
+            "longitude": "121.5692",
+            "county": "臺北市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

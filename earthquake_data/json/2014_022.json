@@ -1,0 +1,76 @@
+{
+  "earthquake_id": "022",
+  "timestamp": "2014-02-08T01:39:31",
+  "latitude": 24.7,
+  "longitude": 121.11,
+  "depth_km": 8.4,
+  "magnitude": 3.4,
+  "stations": [
+    {
+      "Stacode": "NJD",
+      "Staname": "竹東",
+      "Stalon": 121.09,
+      "Stalat": 24.74,
+      "Dist": 4.42,
+      "AZ": 142.5,
+      "PGA(V)": 14.6,
+      "PGA(NS)": 59.94,
+      "PGA(EW)": 24.64
+    },
+    {
+      "Stacode": "HSN1",
+      "Staname": "新竹市",
+      "Stalon": 121.02,
+      "Stalat": 24.78,
+      "Dist": 12.76,
+      "AZ": 130.19,
+      "PGA(V)": 1.02,
+      "PGA(NS)": 1.62,
+      "PGA(EW)": 2.63
+    },
+    {
+      "Stacode": "NST",
+      "Staname": "獅頭山",
+      "Stalon": 121.01,
+      "Stalat": 24.63,
+      "Dist": 13.54,
+      "AZ": 52.36,
+      "PGA(V)": 0.48,
+      "PGA(NS)": 1.32,
+      "PGA(EW)": 1.44
+    },
+    {
+      "Stacode": "HSN",
+      "Staname": "竹北市",
+      "Stalon": 121.01,
+      "Stalat": 24.83,
+      "Dist": 17.09,
+      "AZ": 143.51,
+      "PGA(V)": 0.72,
+      "PGA(NS)": 1.74,
+      "PGA(EW)": 1.91
+    },
+    {
+      "Stacode": "NJN",
+      "Staname": "竹南",
+      "Stalon": 120.87,
+      "Stalat": 24.68,
+      "Dist": 24.83,
+      "AZ": 84.74,
+      "PGA(V)": 0.18,
+      "PGA(NS)": 0.66,
+      "PGA(EW)": 1.08
+    },
+    {
+      "Stacode": "NSD",
+      "Staname": "獅潭",
+      "Stalon": 120.92,
+      "Stalat": 24.54,
+      "Dist": 26.76,
+      "AZ": 47.2,
+      "PGA(V)": 0.3,
+      "PGA(NS)": 1.08,
+      "PGA(EW)": 0.84
+    }
+  ]
+}

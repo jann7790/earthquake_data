@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "079",
+  "timestamp": "2022-07-19T10:39:59",
+  "latitude": 23.23,
+  "longitude": 121.3,
+  "depth_km": 7.4,
+  "magnitude": 4.6,
+  "stations": [
+    {
+      "Stacode": "SSH",
+      "Staname": "善化",
+      "Stalon": 120.29,
+      "Stalat": 23.14,
+      "Dist": 103.77,
+      "AZ": 264.08,
+      "PGA(V)": 0.43,
+      "PGA(NS)": 0.69,
+      "PGA(EW)": 0.74,
+      "PGV(V)": 0.01,
+      "PGV(NS)": 0.06,
+      "PGV(EW)": 0.06,
+      "Int": 1,
+      "PGA(SUM)": 0.94,
+      "PGV(SUM)": 0.07,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "TAI",
+      "Staname": "臺南市",
+      "Stalon": 120.2,
+      "Stalat": 23.0,
+      "Dist": 115.62,
+      "AZ": 256.85,
+      "PGA(V)": 0.57,
+      "PGA(NS)": 0.71,
+      "PGA(EW)": 0.86,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.05,
+      "PGV(EW)": 0.08,
+      "Int": 1,
+      "PGA(SUM)": 0.83,
+      "PGV(SUM)": 0.08,
+      "City": "臺南市"
+    }
+  ]
+}

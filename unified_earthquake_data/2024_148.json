@@ -1,0 +1,42 @@
+{
+    "event_id": "2024_148",
+    "timestamp": "2024-04-06T00:14:51",
+    "epicenter_latitude": 24.06,
+    "epicenter_longitude": 121.81,
+    "depth_km": 24.2,
+    "magnitude": 4.2,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "梨山",
+            "latitude": 24.25,
+            "longitude": 121.24,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "FUSS",
+            "distance_km": 61.18,
+            "pga_v": 0.47,
+            "pga_ns": 1.06,
+            "pga_ew": 0.83,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.04,
+            "pgv_ew": 0.03
+        },
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "TWT",
+            "distance_km": 69.13,
+            "pga_v": 0.18,
+            "pga_ns": 0.85,
+            "pga_ew": 0.38,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.03,
+            "pgv_ew": 0.01
+        }
+    ]
+}

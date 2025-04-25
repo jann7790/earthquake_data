@@ -1,0 +1,57 @@
+{
+    "event_id": "2024102109175845_regional",
+    "timestamp": "2024-10-21 09:17:58",
+    "epicenter_latitude": "24.7468",
+    "epicenter_longitude": "120.0508",
+    "depth_km": null,
+    "magnitude": "4.5",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "霧峰",
+            "latitude": "24.042",
+            "longitude": "120.699",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "大甲",
+            "latitude": "24.3477",
+            "longitude": "120.6404",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "梧棲",
+            "latitude": "24.2566",
+            "longitude": "120.5234",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

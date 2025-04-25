@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "079",
+  "timestamp": "2015-10-21T09:14:32",
+  "latitude": 22.55,
+  "longitude": 121.01,
+  "depth_km": 9.4,
+  "magnitude": 4.5,
+  "stations": [
+    {
+      "Stacode": "TAI",
+      "Staname": "臺南市",
+      "Stalon": 120.21,
+      "Stalat": 22.99,
+      "Dist": 95.89,
+      "AZ": 121.06,
+      "PGA(V)": 0.72,
+      "PGA(NS)": 0.96,
+      "PGA(EW)": 1.08,
+      "City": "臺南市"
+    }
+  ]
+}

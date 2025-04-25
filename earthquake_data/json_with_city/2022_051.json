@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "051",
+  "timestamp": "2022-04-26T05:30:35",
+  "latitude": 23.29,
+  "longitude": 121.52,
+  "depth_km": 34.6,
+  "magnitude": 4.7,
+  "stations": [
+    {
+      "Stacode": "SSH",
+      "Staname": "善化",
+      "Stalon": 120.29,
+      "Stalat": 23.14,
+      "Dist": 126.81,
+      "AZ": 262.24,
+      "PGA(V)": 0.31,
+      "PGA(NS)": 0.95,
+      "PGA(EW)": 0.65,
+      "PGV(V)": 0.01,
+      "PGV(NS)": 0.07,
+      "PGV(EW)": 0.04,
+      "Int": 1,
+      "PGA(SUM)": 0.95,
+      "PGV(SUM)": 0.07,
+      "City": "臺南市"
+    }
+  ]
+}

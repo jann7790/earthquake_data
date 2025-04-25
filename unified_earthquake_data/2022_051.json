@@ -1,0 +1,27 @@
+{
+    "event_id": "2022_051",
+    "timestamp": "2022-04-26T05:30:35",
+    "epicenter_latitude": 23.29,
+    "epicenter_longitude": 121.52,
+    "depth_km": 34.6,
+    "magnitude": 4.7,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "善化",
+            "latitude": 23.14,
+            "longitude": 120.29,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SSH",
+            "distance_km": 126.81,
+            "pga_v": 0.31,
+            "pga_ns": 0.95,
+            "pga_ew": 0.65,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.07,
+            "pgv_ew": 0.04
+        }
+    ]
+}

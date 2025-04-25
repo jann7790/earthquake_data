@@ -1,0 +1,42 @@
+{
+    "event_id": "2016062500445738_regional",
+    "timestamp": "2016-06-25 00:44:57",
+    "epicenter_latitude": "22.86",
+    "epicenter_longitude": "120.65",
+    "depth_km": null,
+    "magnitude": "3.8",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "新化",
+            "latitude": "23.0753",
+            "longitude": "120.3641",
+            "county": "臺南市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "佳里",
+            "latitude": "23.1743",
+            "longitude": "120.2018",
+            "county": "臺南市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

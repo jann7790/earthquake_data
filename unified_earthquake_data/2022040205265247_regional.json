@@ -1,0 +1,57 @@
+{
+    "event_id": "2022040205265247_regional",
+    "timestamp": "2022-04-02 05:26:52",
+    "epicenter_latitude": "23.4288",
+    "epicenter_longitude": "121.4673",
+    "depth_km": null,
+    "magnitude": "4.7",
+    "max_intensity_observed": "3",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "梧棲",
+            "latitude": "24.2566",
+            "longitude": "120.5234",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "楠西",
+            "latitude": "23.1849",
+            "longitude": "120.5286",
+            "county": "臺南市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "善化",
+            "latitude": "23.1361",
+            "longitude": "120.2882",
+            "county": "臺南市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

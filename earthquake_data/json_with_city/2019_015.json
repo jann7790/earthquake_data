@@ -1,0 +1,58 @@
+{
+  "earthquake_id": "015",
+  "timestamp": "2019-03-12T11:53:39",
+  "latitude": 22.91,
+  "longitude": 120.62,
+  "depth_km": 12.0,
+  "magnitude": 4.1,
+  "stations": [
+    {
+      "Stacode": "SSH",
+      "Staname": "善化",
+      "Stalon": 120.29,
+      "Stalat": 23.14,
+      "Dist": 41.63,
+      "AZ": 126.23,
+      "PGA(V)": 1.28,
+      "PGA(NS)": 0.87,
+      "PGA(EW)": 0.88,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "TAI",
+      "Staname": "臺南市",
+      "Stalon": 120.2,
+      "Stalat": 23.0,
+      "Dist": 43.87,
+      "AZ": 101.85,
+      "PGA(V)": 0.97,
+      "PGA(NS)": 0.87,
+      "PGA(EW)": 0.64,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SCL",
+      "Staname": "佳里",
+      "Stalon": 120.2,
+      "Stalat": 23.17,
+      "Dist": 51.25,
+      "AZ": 124.13,
+      "PGA(V)": 1.51,
+      "PGA(NS)": 2.35,
+      "PGA(EW)": 2.19,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 60.05,
+      "AZ": 115.43,
+      "PGA(V)": 1.67,
+      "PGA(NS)": 3.68,
+      "PGA(EW)": 4.18,
+      "City": "臺南市"
+    }
+  ]
+}

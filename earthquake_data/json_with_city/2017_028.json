@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "028",
+  "timestamp": "2017-06-16T05:29:18",
+  "latitude": 22.64,
+  "longitude": 120.41,
+  "depth_km": 33.2,
+  "magnitude": 4.2,
+  "stations": [
+    {
+      "Stacode": "TAI",
+      "Staname": "臺南市",
+      "Stalon": 120.21,
+      "Stalat": 22.99,
+      "Dist": 44.43,
+      "AZ": 152.43,
+      "PGA(V)": 1.32,
+      "PGA(NS)": 1.44,
+      "PGA(EW)": 1.2,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SSH",
+      "Staname": "善化",
+      "Stalon": 120.29,
+      "Stalat": 23.14,
+      "Dist": 56.52,
+      "AZ": 167.72,
+      "PGA(V)": 0.54,
+      "PGA(NS)": 0.78,
+      "PGA(EW)": 1.02,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 65.21,
+      "AZ": 149.87,
+      "PGA(V)": 0.66,
+      "PGA(NS)": 0.72,
+      "PGA(EW)": 0.96,
+      "City": "臺南市"
+    }
+  ]
+}

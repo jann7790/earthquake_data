@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "061",
+  "timestamp": "2023-08-16T22:58:53",
+  "latitude": 23.53,
+  "longitude": 120.39,
+  "depth_km": 9.5,
+  "magnitude": 4.0,
+  "stations": [
+    {
+      "Stacode": "SCL",
+      "Staname": "佳里",
+      "Stalon": 120.2,
+      "Stalat": 23.17,
+      "Dist": 43.77,
+      "BAZ": 26.13,
+      "PGA(V)": 0.64,
+      "PGA(NS)": 0.67,
+      "PGA(EW)": 0.75,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.03,
+      "PGV(EW)": 0.04,
+      "Int": 1,
+      "PGA(SUM)": 0.89,
+      "PGV(SUM)": 0.04,
+      "City": "臺南市"
+    }
+  ]
+}

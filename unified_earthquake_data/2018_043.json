@@ -1,0 +1,42 @@
+{
+    "event_id": "2018_043",
+    "timestamp": "2018-02-07T19:13:05",
+    "epicenter_latitude": 24.0,
+    "epicenter_longitude": 121.73,
+    "depth_km": 8.2,
+    "magnitude": 5.0,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 63.98,
+            "pga_v": 0.6,
+            "pga_ns": 2.09,
+            "pga_ew": 1.5,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "霧峰",
+            "latitude": 24.04,
+            "longitude": 120.7,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WWF",
+            "distance_km": 105.0,
+            "pga_v": 0.42,
+            "pga_ns": 0.9,
+            "pga_ew": 0.84,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "111",
+  "timestamp": "2018-07-25T16:55:49",
+  "latitude": 24.23,
+  "longitude": 121.8,
+  "depth_km": 18.1,
+  "magnitude": 3.9,
+  "stations": [
+    {
+      "Stacode": "FUSS",
+      "Staname": "梨山",
+      "Stalon": 121.24,
+      "Stalat": 24.25,
+      "Dist": 56.81,
+      "AZ": 91.72,
+      "PGA(V)": 0.19,
+      "PGA(NS)": 2.01,
+      "PGA(EW)": 1.01,
+      "City": "臺中市"
+    }
+  ]
+}

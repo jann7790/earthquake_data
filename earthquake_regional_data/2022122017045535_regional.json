@@ -5,27 +5,6 @@
   "max_intensity": "2",
   "locations": [
     {
-      "latitude": "23.4385",
-      "longitude": "120.6047",
-      "county": "嘉義縣",
-      "intensity": "2",
-      "location_name": "番路"
-    },
-    {
-      "latitude": "23.2438",
-      "longitude": "120.6223",
-      "county": "嘉義縣",
-      "intensity": "2",
-      "location_name": "大埔"
-    },
-    {
-      "latitude": "23.5319",
-      "longitude": "120.4744",
-      "county": "嘉義縣",
-      "intensity": "1",
-      "location_name": "民雄"
-    },
-    {
       "latitude": "23.265",
       "longitude": "120.4999",
       "county": "臺南市",
@@ -38,20 +17,6 @@
       "county": "臺南市",
       "intensity": "1",
       "location_name": "楠西"
-    },
-    {
-      "latitude": "23.5972",
-      "longitude": "120.6769",
-      "county": "雲林縣",
-      "intensity": "1",
-      "location_name": "草嶺"
-    },
-    {
-      "latitude": "23.4963",
-      "longitude": "120.4327",
-      "county": "嘉義市",
-      "intensity": "1",
-      "location_name": "嘉義市"
     }
   ]
 }

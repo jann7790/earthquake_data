@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "049",
+  "timestamp": "2015-09-10T23:23:27",
+  "latitude": 24.24,
+  "longitude": 121.82,
+  "depth_km": 18.6,
+  "magnitude": 4.9,
+  "stations": [
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 67.3,
+      "AZ": 90.8,
+      "PGA(V)": 1.14,
+      "PGA(NS)": 4.37,
+      "PGA(EW)": 1.97,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 92.33,
+      "AZ": 163.77,
+      "PGA(V)": 1.02,
+      "PGA(NS)": 0.9,
+      "PGA(EW)": 1.14,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "WWF",
+      "Staname": "霧峰",
+      "Stalon": 120.7,
+      "Stalat": 24.04,
+      "Dist": 116.5,
+      "AZ": 79.16,
+      "PGA(V)": 0.48,
+      "PGA(NS)": 0.66,
+      "PGA(EW)": 1.2,
+      "City": "臺中市"
+    }
+  ]
+}

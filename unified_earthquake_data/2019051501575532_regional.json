@@ -1,0 +1,27 @@
+{
+    "event_id": "2019051501575532_regional",
+    "timestamp": "2019-05-15 01:57:55",
+    "epicenter_latitude": "22.85",
+    "epicenter_longitude": "120.1",
+    "depth_km": null,
+    "magnitude": "3.2",
+    "max_intensity_observed": "1",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "臺南市",
+            "latitude": "22.9932",
+            "longitude": "120.2047",
+            "county": "臺南市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

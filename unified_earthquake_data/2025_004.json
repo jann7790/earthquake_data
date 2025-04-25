@@ -1,0 +1,57 @@
+{
+    "event_id": "2025_004",
+    "timestamp": "2025-01-12T20:12:28",
+    "epicenter_latitude": 23.64,
+    "epicenter_longitude": 121.54,
+    "depth_km": 27.9,
+    "magnitude": 4.6,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "梨山",
+            "latitude": 24.25,
+            "longitude": 121.24,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "FUSS",
+            "distance_km": 73.71,
+            "pga_v": 0.37,
+            "pga_ns": 0.69,
+            "pga_ew": 0.79,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.04,
+            "pgv_ew": 0.03
+        },
+        {
+            "location_name": "霧峰",
+            "latitude": 24.04,
+            "longitude": 120.7,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "B219",
+            "distance_km": 96.23,
+            "pga_v": 0.3,
+            "pga_ns": 0.67,
+            "pga_ew": 0.9,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.03,
+            "pgv_ew": 0.03
+        },
+        {
+            "location_name": "白河",
+            "latitude": 23.35,
+            "longitude": 120.41,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "C015",
+            "distance_km": 118.89,
+            "pga_v": 0.4,
+            "pga_ns": 0.7,
+            "pga_ew": 0.7,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.03,
+            "pgv_ew": 0.03
+        }
+    ]
+}

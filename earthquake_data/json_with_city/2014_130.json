@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "130",
+  "timestamp": "2014-11-04T18:26:43",
+  "latitude": 23.21,
+  "longitude": 120.25,
+  "depth_km": 17.1,
+  "magnitude": 3.1,
+  "stations": [
+    {
+      "Stacode": "SCL",
+      "Staname": "佳里",
+      "Stalon": 120.2,
+      "Stalat": 23.17,
+      "Dist": 6.52,
+      "AZ": 52.12,
+      "PGA(V)": 2.21,
+      "PGA(NS)": 9.39,
+      "PGA(EW)": 26.98,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SSH",
+      "Staname": "善化",
+      "Stalon": 120.29,
+      "Stalat": 23.14,
+      "Dist": 8.94,
+      "AZ": 335.51,
+      "PGA(V)": 0.72,
+      "PGA(NS)": 1.14,
+      "PGA(EW)": 1.44,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 18.35,
+      "AZ": 67.7,
+      "PGA(V)": 5.44,
+      "PGA(NS)": 3.89,
+      "PGA(EW)": 1.5,
+      "City": "臺南市"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+    "event_id": "2021_064",
+    "timestamp": "2021-07-14T08:11:57",
+    "epicenter_latitude": 23.95,
+    "epicenter_longitude": 121.61,
+    "depth_km": 5.8,
+    "magnitude": 4.2,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "TWT",
+            "distance_km": 56.2,
+            "pga_v": 0.24,
+            "pga_ns": 0.83,
+            "pga_ew": 0.44,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.04,
+            "pgv_ew": 0.02
+        }
+    ]
+}

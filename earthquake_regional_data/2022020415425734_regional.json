@@ -5,55 +5,6 @@
   "max_intensity": "3",
   "locations": [
     {
-      "latitude": "24.7357",
-      "longitude": "121.0881",
-      "county": "新竹縣",
-      "intensity": "3",
-      "location_name": "竹東"
-    },
-    {
-      "latitude": "24.7771",
-      "longitude": "121.1753",
-      "county": "新竹縣",
-      "intensity": "2",
-      "location_name": "關西"
-    },
-    {
-      "latitude": "24.6468",
-      "longitude": "121.0163",
-      "county": "新竹縣",
-      "intensity": "2",
-      "location_name": "峨眉"
-    },
-    {
-      "latitude": "24.6319",
-      "longitude": "121.1178",
-      "county": "新竹縣",
-      "intensity": "1",
-      "location_name": "五峰"
-    },
-    {
-      "latitude": "24.8281",
-      "longitude": "121.0143",
-      "county": "新竹縣",
-      "intensity": "1",
-      "location_name": "竹北市"
-    },
-    {
-      "latitude": "24.6836",
-      "longitude": "120.8703",
-      "county": "苗栗縣",
-      "intensity": "2",
-      "location_name": "竹南"
-    },
-    {
-      "latitude": "24.6296",
-      "longitude": "121.0088",
-      "county": "苗栗縣",
-      "intensity": "1",
-      "location_name": "南庄"
-    },
-    {
       "latitude": "24.7786",
       "longitude": "121.0182",
       "county": "新竹市",

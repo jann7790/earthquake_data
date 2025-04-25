@@ -1,0 +1,42 @@
+{
+    "event_id": "2014_003",
+    "timestamp": "2014-01-03T00:34:39",
+    "epicenter_latitude": 25.06,
+    "epicenter_longitude": 121.57,
+    "depth_km": 9.8,
+    "magnitude": 2.6,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "信義區",
+            "latitude": 25.04,
+            "longitude": 121.57,
+            "county": "臺北市",
+            "intensity": null,
+            "station_code": "NHY",
+            "distance_km": 2.14,
+            "pga_v": 1.56,
+            "pga_ns": 1.32,
+            "pga_ew": 0.6,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "臺北市",
+            "latitude": 25.04,
+            "longitude": 121.51,
+            "county": "臺北市",
+            "intensity": null,
+            "station_code": "TAP",
+            "distance_km": 6.57,
+            "pga_v": 1.02,
+            "pga_ns": 0.9,
+            "pga_ew": 0.36,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

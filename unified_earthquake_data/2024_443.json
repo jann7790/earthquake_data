@@ -1,0 +1,11 @@
+{
+    "event_id": "2024_443",
+    "timestamp": "2024-08-15T17:07:15",
+    "epicenter_latitude": 24.4,
+    "epicenter_longitude": 121.88,
+    "depth_km": 12.4,
+    "magnitude": 4.6,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": []
+}

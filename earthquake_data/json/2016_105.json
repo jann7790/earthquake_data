@@ -1,0 +1,76 @@
+{
+  "earthquake_id": "105",
+  "timestamp": "2016-11-28T08:17:16",
+  "latitude": 23.09,
+  "longitude": 120.35,
+  "depth_km": 17.6,
+  "magnitude": 3.7,
+  "stations": [
+    {
+      "Stacode": "CHN3",
+      "Staname": "新化",
+      "Stalon": 120.36,
+      "Stalat": 23.08,
+      "Dist": 2.08,
+      "AZ": 320.61,
+      "PGA(V)": 1.97,
+      "PGA(NS)": 4.43,
+      "PGA(EW)": 8.37
+    },
+    {
+      "Stacode": "SSH",
+      "Staname": "善化",
+      "Stalon": 120.29,
+      "Stalat": 23.14,
+      "Dist": 8.29,
+      "AZ": 128.13,
+      "PGA(V)": 19.5,
+      "PGA(NS)": 11.96,
+      "PGA(EW)": 7.6
+    },
+    {
+      "Stacode": "TAI1",
+      "Staname": "永康",
+      "Stalon": 120.24,
+      "Stalat": 23.04,
+      "Dist": 13.13,
+      "AZ": 63.98,
+      "PGA(V)": 2.27,
+      "PGA(NS)": 1.02,
+      "PGA(EW)": 1.38
+    },
+    {
+      "Stacode": "TAI",
+      "Staname": "臺南市",
+      "Stalon": 120.21,
+      "Stalat": 22.99,
+      "Dist": 18.47,
+      "AZ": 54.53,
+      "PGA(V)": 2.57,
+      "PGA(NS)": 1.68,
+      "PGA(EW)": 0.78
+    },
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 27.92,
+      "AZ": 103.02,
+      "PGA(V)": 1.74,
+      "PGA(NS)": 3.17,
+      "PGA(EW)": 3.17
+    },
+    {
+      "Stacode": "CHN7",
+      "Staname": "六腳",
+      "Stalon": 120.24,
+      "Stalat": 23.48,
+      "Dist": 45.05,
+      "AZ": 165.22,
+      "PGA(V)": 1.2,
+      "PGA(NS)": 1.08,
+      "PGA(EW)": 1.44
+    }
+  ]
+}

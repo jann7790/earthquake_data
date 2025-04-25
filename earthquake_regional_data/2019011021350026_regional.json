@@ -5,20 +5,6 @@
   "max_intensity": "2",
   "locations": [
     {
-      "latitude": "24.4144",
-      "longitude": "120.7697",
-      "county": "苗栗縣",
-      "intensity": "2",
-      "location_name": "三義"
-    },
-    {
-      "latitude": "24.5374",
-      "longitude": "120.7909",
-      "county": "苗栗縣",
-      "intensity": "1",
-      "location_name": "苗栗市"
-    },
-    {
       "latitude": "24.2777",
       "longitude": "120.9458",
       "county": "臺中市",

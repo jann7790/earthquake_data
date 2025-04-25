@@ -1,0 +1,27 @@
+{
+    "event_id": "2025_084",
+    "timestamp": "2025-04-10T08:31:03",
+    "epicenter_latitude": 23.43,
+    "epicenter_longitude": 121.29,
+    "depth_km": 23.2,
+    "magnitude": 4.3,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "白河",
+            "latitude": 23.35,
+            "longitude": 120.41,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "C015",
+            "distance_km": 90.14,
+            "pga_v": 0.53,
+            "pga_ns": 0.82,
+            "pga_ew": 0.78,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.04,
+            "pgv_ew": 0.03
+        }
+    ]
+}

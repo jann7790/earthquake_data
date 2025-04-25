@@ -1,0 +1,27 @@
+{
+    "event_id": "2015110908155144_regional",
+    "timestamp": "2015-11-09 08:15:51",
+    "epicenter_latitude": "24.68",
+    "epicenter_longitude": "122.37",
+    "depth_km": null,
+    "magnitude": "4.4",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": "24.2495",
+            "longitude": "121.1618",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

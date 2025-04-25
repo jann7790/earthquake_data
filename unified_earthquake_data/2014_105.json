@@ -1,0 +1,27 @@
+{
+    "event_id": "2014_105",
+    "timestamp": "2014-08-09T12:54:29",
+    "epicenter_latitude": 24.02,
+    "epicenter_longitude": 121.51,
+    "depth_km": 17.5,
+    "magnitude": 3.9,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 43.71,
+            "pga_v": 0.72,
+            "pga_ns": 1.56,
+            "pga_ew": 1.02,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

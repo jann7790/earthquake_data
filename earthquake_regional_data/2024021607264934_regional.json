@@ -5,20 +5,6 @@
   "max_intensity": "3",
   "locations": [
     {
-      "latitude": "23.3473",
-      "longitude": "120.2227",
-      "county": "嘉義縣",
-      "intensity": "3",
-      "location_name": "義竹"
-    },
-    {
-      "latitude": "23.457",
-      "longitude": "120.2939",
-      "county": "嘉義縣",
-      "intensity": "1",
-      "location_name": "太保市"
-    },
-    {
       "latitude": "23.3526",
       "longitude": "120.4144",
       "county": "臺南市",
@@ -38,20 +24,6 @@
       "county": "臺南市",
       "intensity": "1",
       "location_name": "善化"
-    },
-    {
-      "latitude": "23.6363",
-      "longitude": "120.2298",
-      "county": "雲林縣",
-      "intensity": "1",
-      "location_name": "四湖"
-    },
-    {
-      "latitude": "23.5226",
-      "longitude": "120.2278",
-      "county": "雲林縣",
-      "intensity": "1",
-      "location_name": "水林"
     }
   ]
 }

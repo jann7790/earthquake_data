@@ -1,0 +1,118 @@
+{
+  "earthquake_id": "007",
+  "timestamp": "2015-01-24T15:15:26",
+  "latitude": 23.21,
+  "longitude": 120.4,
+  "depth_km": 11.1,
+  "magnitude": 4.6,
+  "stations": [
+    {
+      "Stacode": "TWL",
+      "Staname": "東山",
+      "Stalon": 120.5,
+      "Stalat": 23.26,
+      "Dist": 12.5,
+      "AZ": 241.44,
+      "PGA(V)": 7.18,
+      "PGA(NS)": 11.43,
+      "PGA(EW)": 10.53,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SSH",
+      "Staname": "善化",
+      "Stalon": 120.29,
+      "Stalat": 23.14,
+      "Dist": 13.64,
+      "AZ": 53.28,
+      "PGA(V)": 11.96,
+      "PGA(NS)": 14.12,
+      "PGA(EW)": 23.09,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "CHN3",
+      "Staname": "新化",
+      "Stalon": 120.36,
+      "Stalat": 23.08,
+      "Dist": 15.2,
+      "AZ": 11.78,
+      "PGA(V)": 4.01,
+      "PGA(NS)": 9.57,
+      "PGA(EW)": 9.69,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SCL",
+      "Staname": "佳里",
+      "Stalon": 120.2,
+      "Stalat": 23.17,
+      "Dist": 20.19,
+      "AZ": 78.51,
+      "PGA(V)": 5.32,
+      "PGA(NS)": 9.99,
+      "PGA(EW)": 12.02,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "TAI1",
+      "Staname": "永康",
+      "Stalon": 120.24,
+      "Stalat": 23.04,
+      "Dist": 25.0,
+      "AZ": 40.43,
+      "PGA(V)": 3.11,
+      "PGA(NS)": 4.07,
+      "PGA(EW)": 4.91,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "TAI",
+      "Staname": "臺南市",
+      "Stalon": 120.21,
+      "Stalat": 22.99,
+      "Dist": 30.89,
+      "AZ": 39.05,
+      "PGA(V)": 1.44,
+      "PGA(NS)": 3.89,
+      "PGA(EW)": 2.15,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 32.37,
+      "AZ": 77.55,
+      "PGA(V)": 2.39,
+      "PGA(NS)": 5.14,
+      "PGA(EW)": 10.59,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "WDD",
+      "Staname": "大肚",
+      "Stalon": 120.56,
+      "Stalat": 24.13,
+      "Dist": 103.75,
+      "AZ": 189.15,
+      "PGA(V)": 0.54,
+      "PGA(NS)": 0.96,
+      "PGA(EW)": 0.84,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 139.11,
+      "AZ": 214.18,
+      "PGA(V)": 0.18,
+      "PGA(NS)": 0.9,
+      "PGA(EW)": 0.42,
+      "City": "臺中市"
+    }
+  ]
+}

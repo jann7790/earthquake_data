@@ -3,6 +3,7 @@ import json
 import re
 import glob
 from datetime import datetime
+station_count = {}
 
 def parse_earthquake_file(filepath):
     """
@@ -74,8 +75,17 @@ def parse_earthquake_file(filepath):
                     elif value.isdigit():
                         value = int(value)
                         
+                    if key == 'Int' and isinstance(value, str) and '級' in value:
+                        value = int(value.replace('級', '').strip())
                     station[key] = value
-            
+            # Add station to result
+
+            station_count[station.get("Stacode")] = station_count.get(station.get("Stacode"), 0) + 1
+            # Add station to the result
+            # Filter stations based on Staname
+            # if station.get("Staname") in ["新竹市", "臺南市", "臺北市", "臺中市"]:
+            #     result["stations"].append(station)
+
             result["stations"].append(station)
             
         return result
@@ -89,6 +99,8 @@ def process_earthquake_files(input_dir, output_dir=None):
     Process all earthquake data files in the input directory and 
     save JSON results to the output directory
     """
+    # Initialize a dictionary to count station occurrences
+
     if output_dir is None:
         output_dir = os.path.join(input_dir, 'json')
     
@@ -111,9 +123,21 @@ def process_earthquake_files(input_dir, output_dir=None):
             with open(output_path, 'w', encoding='utf-8') as json_file:
                 json.dump(data, json_file, indent=2, ensure_ascii=False)
             
+            # Count occurrences of each Staname
+
             print(f"Created {output_path}")
-        else:
-            print(f"Skipped {file_path} due to parsing errors")
+
+    # Print station occurrence counts
+    print("Station Name Occurrences:")
+    # sort and print the station counts
+    # print station_count's key
+
+    print(station_count.keys())
+
+    # for staname, count in sorted(station_count.items(), key=lambda item: item[1], reverse=True):
+    #     print(f"{staname}: {count}")
+    # else:
+    #     print(f"Skipped {file_path} due to parsing errors")
 
 if __name__ == "__main__":
     # Directory containing earthquake data files

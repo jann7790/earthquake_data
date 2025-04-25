@@ -1,0 +1,42 @@
+{
+    "event_id": "2022041915060659_regional",
+    "timestamp": "2022-04-19 15:06:06",
+    "epicenter_latitude": "25.3243",
+    "epicenter_longitude": "123.5117",
+    "depth_km": null,
+    "magnitude": "5.9",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": "24.2495",
+            "longitude": "121.1618",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "信義區",
+            "latitude": "25.0408",
+            "longitude": "121.5692",
+            "county": "臺北市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

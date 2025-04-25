@@ -1,0 +1,34 @@
+{
+  "earthquake_id": "036",
+  "timestamp": "2018-02-07T07:43:51",
+  "latitude": 24.03,
+  "longitude": 121.65,
+  "depth_km": 7.5,
+  "magnitude": 4.9,
+  "stations": [
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 55.7,
+      "AZ": 116.18,
+      "PGA(V)": 1.08,
+      "PGA(NS)": 2.69,
+      "PGA(EW)": 1.74,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "TAI",
+      "Staname": "臺南市",
+      "Stalon": 120.21,
+      "Stalat": 22.99,
+      "Dist": 187.05,
+      "AZ": 52.25,
+      "PGA(V)": 0.96,
+      "PGA(NS)": 0.72,
+      "PGA(EW)": 0.54,
+      "City": "臺南市"
+    }
+  ]
+}

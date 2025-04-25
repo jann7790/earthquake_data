@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "033",
+  "timestamp": "2021-05-08T05:24:15",
+  "latitude": 22.73,
+  "longitude": 120.82,
+  "depth_km": 3.6,
+  "magnitude": 4.6,
+  "stations": [
+    {
+      "Stacode": "SHH",
+      "Staname": "新化",
+      "Stalon": 120.35,
+      "Stalat": 23.02,
+      "Dist": 58.47,
+      "AZ": 123.74,
+      "PGA(V)": 0.27,
+      "PGA(NS)": 0.51,
+      "PGA(EW)": 0.82,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.05,
+      "PGV(EW)": 0.07,
+      "Int": 1,
+      "PGA(SUM)": 0.85,
+      "PGV(SUM)": 0.07,
+      "City": "臺南市"
+    }
+  ]
+}

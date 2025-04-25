@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "038",
+  "timestamp": "2019-05-23T14:12:49",
+  "latitude": 24.02,
+  "longitude": 121.55,
+  "depth_km": 14.5,
+  "magnitude": 4.9,
+  "stations": [
+    {
+      "Stacode": "WWF",
+      "Staname": "霧峰",
+      "Stalon": 120.7,
+      "Stalat": 24.04,
+      "Dist": 86.56,
+      "AZ": 91.91,
+      "PGA(V)": 0.88,
+      "PGA(NS)": 1.23,
+      "PGA(EW)": 0.97,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "WDJ",
+      "Staname": "大甲",
+      "Stalon": 120.64,
+      "Stalat": 24.35,
+      "Dist": 99.32,
+      "AZ": 111.67,
+      "PGA(V)": 1.19,
+      "PGA(NS)": 0.47,
+      "PGA(EW)": 0.53,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "SCL",
+      "Staname": "佳里",
+      "Stalon": 120.2,
+      "Stalat": 23.17,
+      "Dist": 166.19,
+      "AZ": 55.81,
+      "PGA(V)": 0.21,
+      "PGA(NS)": 0.62,
+      "PGA(EW)": 0.88,
+      "City": "臺南市"
+    }
+  ]
+}

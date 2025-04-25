@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "180",
+  "timestamp": "2022-12-15T06:54:12",
+  "latitude": 23.44,
+  "longitude": 121.29,
+  "depth_km": 22.2,
+  "magnitude": 4.6,
+  "stations": [
+    {
+      "Stacode": "SHH",
+      "Staname": "新化",
+      "Stalon": 120.35,
+      "Stalat": 23.02,
+      "Dist": 106.37,
+      "BAZ": 64.38,
+      "PGA(V)": 0.42,
+      "PGA(NS)": 0.78,
+      "PGA(EW)": 0.66,
+      "PGV(V)": 0.03,
+      "PGV(NS)": 0.05,
+      "PGV(EW)": 0.04,
+      "Int": 1,
+      "PGA(SUM)": 0.97,
+      "PGV(SUM)": 0.05,
+      "City": "臺南市"
+    }
+  ]
+}

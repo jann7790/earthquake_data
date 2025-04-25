@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "037",
+  "timestamp": "2020-07-05T07:28:15",
+  "latitude": 24.24,
+  "longitude": 121.65,
+  "depth_km": 16.7,
+  "magnitude": 4.0,
+  "stations": [
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 49.31,
+      "AZ": 91.14,
+      "PGA(V)": 0.99,
+      "PGA(NS)": 1.76,
+      "PGA(EW)": 1.55,
+      "PGV(V)": 0.03,
+      "PGV(NS)": 0.06,
+      "PGV(EW)": 0.04,
+      "Int": 1,
+      "PGA(SUM)": 1.55,
+      "PGV(SUM)": 0.06,
+      "City": "臺中市"
+    }
+  ]
+}

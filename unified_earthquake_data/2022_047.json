@@ -1,0 +1,57 @@
+{
+    "event_id": "2022_047",
+    "timestamp": "2022-04-16T03:47:47",
+    "epicenter_latitude": 23.58,
+    "epicenter_longitude": 120.74,
+    "depth_km": 13.4,
+    "magnitude": 4.0,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "霧峰",
+            "latitude": 24.04,
+            "longitude": 120.7,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "WWF",
+            "distance_km": 51.41,
+            "pga_v": 0.73,
+            "pga_ns": 0.68,
+            "pga_ew": 1.33,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.02,
+            "pgv_ew": 0.03
+        },
+        {
+            "location_name": "佳里",
+            "latitude": 23.17,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SCL",
+            "distance_km": 70.78,
+            "pga_v": 0.85,
+            "pga_ns": 1.78,
+            "pga_ew": 1.26,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.07,
+            "pgv_ew": 0.06
+        },
+        {
+            "location_name": "七股",
+            "latitude": 23.15,
+            "longitude": 120.09,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SCK",
+            "distance_km": 81.93,
+            "pga_v": 0.62,
+            "pga_ns": 1.4,
+            "pga_ew": 1.32,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.04,
+            "pgv_ew": 0.05
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+  "earthquake_id": "065",
+  "timestamp": "2019-12-16T19:25:57",
+  "latitude": 24.54,
+  "longitude": 121.76,
+  "depth_km": 49.7,
+  "magnitude": 5.2,
+  "stations": [
+    {
+      "Stacode": "TWA",
+      "Staname": "木柵",
+      "Stalon": 121.59,
+      "Stalat": 24.98,
+      "Dist": 51.24,
+      "AZ": 160.45,
+      "PGA(V)": 1.55,
+      "PGA(NS)": 1.58,
+      "PGA(EW)": 1.31,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 58.44,
+      "AZ": 160.54,
+      "PGA(V)": 12.22,
+      "PGA(NS)": 3.87,
+      "PGA(EW)": 4.34,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "TAP",
+      "Staname": "臺北市",
+      "Stalon": 121.51,
+      "Stalat": 25.04,
+      "Dist": 60.38,
+      "AZ": 155.46,
+      "PGA(V)": 4.99,
+      "PGA(NS)": 2.99,
+      "PGA(EW)": 1.33,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 68.92,
+      "AZ": 61.98,
+      "PGA(V)": 1.36,
+      "PGA(NS)": 2.54,
+      "PGA(EW)": 1.53,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "ANP",
+      "Staname": "陽明山",
+      "Stalon": 121.53,
+      "Stalat": 25.18,
+      "Dist": 74.77,
+      "AZ": 161.67,
+      "PGA(V)": 0.5,
+      "PGA(NS)": 0.93,
+      "PGA(EW)": 0.77,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "HSN1",
+      "Staname": "新竹市",
+      "Stalon": 121.02,
+      "Stalat": 24.78,
+      "Dist": 79.7,
+      "AZ": 109.16,
+      "PGA(V)": 1.14,
+      "PGA(NS)": 2.03,
+      "PGA(EW)": 1.89,
+      "City": "新竹市"
+    },
+    {
+      "Stacode": "WHP",
+      "Staname": "烏石坑",
+      "Stalon": 120.95,
+      "Stalat": 24.28,
+      "Dist": 87.78,
+      "AZ": 70.53,
+      "PGA(V)": 0.58,
+      "PGA(NS)": 0.97,
+      "PGA(EW)": 0.85,
+      "City": "臺中市"
+    }
+  ]
+}

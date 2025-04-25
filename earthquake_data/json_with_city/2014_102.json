@@ -1,0 +1,9 @@
+{
+  "earthquake_id": "102",
+  "timestamp": "2014-08-01T12:38:07",
+  "latitude": 24.56,
+  "longitude": 121.6,
+  "depth_km": 6.1,
+  "magnitude": 4.0,
+  "stations": []
+}

@@ -5,41 +5,6 @@
   "max_intensity": "2",
   "locations": [
     {
-      "latitude": "23.8766",
-      "longitude": "120.6925",
-      "county": "南投縣",
-      "intensity": "2",
-      "location_name": "名間"
-    },
-    {
-      "latitude": "23.7149",
-      "longitude": "120.5385",
-      "county": "雲林縣",
-      "intensity": "1",
-      "location_name": "斗六市"
-    },
-    {
-      "latitude": "23.6844",
-      "longitude": "120.5703",
-      "county": "雲林縣",
-      "intensity": "1",
-      "location_name": "古坑"
-    },
-    {
-      "latitude": "23.8617",
-      "longitude": "120.2892",
-      "county": "彰化縣",
-      "intensity": "1",
-      "location_name": "大城"
-    },
-    {
-      "latitude": "23.9605",
-      "longitude": "120.5799",
-      "county": "彰化縣",
-      "intensity": "1",
-      "location_name": "員林"
-    },
-    {
       "latitude": "24.1456",
       "longitude": "120.6841",
       "county": "臺中市",

@@ -1,0 +1,11 @@
+{
+    "event_id": "2023_062",
+    "timestamp": "2023-08-27T19:04:46",
+    "epicenter_latitude": 22.89,
+    "epicenter_longitude": 121.08,
+    "depth_km": 9.6,
+    "magnitude": 4.2,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": []
+}

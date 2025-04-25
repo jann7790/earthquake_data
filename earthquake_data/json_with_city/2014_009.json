@@ -1,0 +1,106 @@
+{
+  "earthquake_id": "009",
+  "timestamp": "2014-01-15T03:50:05",
+  "latitude": 22.88,
+  "longitude": 121.08,
+  "depth_km": 8.4,
+  "magnitude": 5.1,
+  "stations": [
+    {
+      "Stacode": "CHN3",
+      "Staname": "新化",
+      "Stalon": 120.36,
+      "Stalat": 23.08,
+      "Dist": 76.48,
+      "AZ": 106.26,
+      "PGA(V)": 0.66,
+      "PGA(NS)": 1.79,
+      "PGA(EW)": 1.68,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SSH",
+      "Staname": "善化",
+      "Stalon": 120.29,
+      "Stalat": 23.14,
+      "Dist": 85.98,
+      "AZ": 109.1,
+      "PGA(V)": 0.36,
+      "PGA(NS)": 1.32,
+      "PGA(EW)": 0.84,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "TAI1",
+      "Staname": "永康",
+      "Stalon": 120.24,
+      "Stalat": 23.04,
+      "Dist": 88.26,
+      "AZ": 101.28,
+      "PGA(V)": 0.3,
+      "PGA(NS)": 0.84,
+      "PGA(EW)": 0.9,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "TAI",
+      "Staname": "臺南市",
+      "Stalon": 120.21,
+      "Stalat": 22.99,
+      "Dist": 90.66,
+      "AZ": 97.8,
+      "PGA(V)": 0.42,
+      "PGA(NS)": 1.2,
+      "PGA(EW)": 0.72,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SCL",
+      "Staname": "佳里",
+      "Stalon": 120.2,
+      "Stalat": 23.17,
+      "Dist": 95.7,
+      "AZ": 109.7,
+      "PGA(V)": 0.3,
+      "PGA(NS)": 1.32,
+      "PGA(EW)": 1.02,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 106.07,
+      "AZ": 106.04,
+      "PGA(V)": 0.3,
+      "PGA(NS)": 1.44,
+      "PGA(EW)": 1.32,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "WDD",
+      "Staname": "大肚",
+      "Stalon": 120.56,
+      "Stalat": 24.13,
+      "Dist": 148.68,
+      "AZ": 158.9,
+      "PGA(V)": 0.48,
+      "PGA(NS)": 0.96,
+      "PGA(EW)": 0.96,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 151.6,
+      "AZ": 183.11,
+      "PGA(V)": 0.3,
+      "PGA(NS)": 0.84,
+      "PGA(EW)": 0.48,
+      "City": "臺中市"
+    }
+  ]
+}

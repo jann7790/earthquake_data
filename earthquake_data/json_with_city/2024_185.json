@@ -1,0 +1,9 @@
+{
+  "earthquake_id": "185",
+  "timestamp": "2024-04-09T15:40:11",
+  "latitude": 23.84,
+  "longitude": 121.54,
+  "depth_km": 7.2,
+  "magnitude": 4.2,
+  "stations": []
+}

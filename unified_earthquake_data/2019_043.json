@@ -1,0 +1,27 @@
+{
+    "event_id": "2019_043",
+    "timestamp": "2019-06-04T20:17:00",
+    "epicenter_latitude": 23.25,
+    "epicenter_longitude": 121.59,
+    "depth_km": 41.2,
+    "magnitude": 4.2,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "烏石坑",
+            "latitude": 24.28,
+            "longitude": 120.95,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WHP",
+            "distance_km": 130.83,
+            "pga_v": 0.89,
+            "pga_ns": 0.83,
+            "pga_ew": 1.09,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

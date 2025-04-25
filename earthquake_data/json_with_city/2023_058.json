@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "058",
+  "timestamp": "2023-08-10T10:02:17",
+  "latitude": 24.79,
+  "longitude": 121.95,
+  "depth_km": 91.2,
+  "magnitude": 5.0,
+  "stations": [
+    {
+      "Stacode": "HSN1",
+      "Staname": "新竹市",
+      "Stalon": 121.02,
+      "Stalat": 24.78,
+      "Dist": 94.13,
+      "BAZ": 88.95,
+      "PGA(V)": 1.54,
+      "PGA(NS)": 3.09,
+      "PGA(EW)": 3.63,
+      "PGV(V)": 0.05,
+      "PGV(NS)": 0.13,
+      "PGV(EW)": 0.16,
+      "Int": 2,
+      "PGA(SUM)": 4.27,
+      "PGV(SUM)": 0.16,
+      "City": "新竹市"
+    },
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 100.01,
+      "BAZ": 52.9,
+      "PGA(V)": 0.57,
+      "PGA(NS)": 0.99,
+      "PGA(EW)": 0.79,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.03,
+      "PGV(EW)": 0.02,
+      "Int": 1,
+      "PGA(SUM)": 1.06,
+      "PGV(SUM)": 0.03,
+      "City": "臺中市"
+    }
+  ]
+}

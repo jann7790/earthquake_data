@@ -1,0 +1,230 @@
+{
+  "earthquake_id": "056",
+  "timestamp": "2017-11-23T06:19:42",
+  "latitude": 23.6,
+  "longitude": 120.74,
+  "depth_km": 14.0,
+  "magnitude": 3.9,
+  "stations": [
+    {
+      "Stacode": "CHN5",
+      "Staname": "草嶺",
+      "Stalon": 120.68,
+      "Stalat": 23.6,
+      "Dist": 6.08,
+      "AZ": 91.53,
+      "PGA(V)": 2.57,
+      "PGA(NS)": 10.17,
+      "PGA(EW)": 15.43
+    },
+    {
+      "Stacode": "ALS",
+      "Staname": "阿里山",
+      "Stalon": 120.81,
+      "Stalat": 23.51,
+      "Dist": 12.45,
+      "AZ": 321.16,
+      "PGA(V)": 4.13,
+      "PGA(NS)": 10.29,
+      "PGA(EW)": 5.03
+    },
+    {
+      "Stacode": "WGK",
+      "Staname": "古坑",
+      "Stalon": 120.57,
+      "Stalat": 23.68,
+      "Dist": 19.62,
+      "AZ": 120.03,
+      "PGA(V)": 8.14,
+      "PGA(NS)": 9.99,
+      "PGA(EW)": 18.36
+    },
+    {
+      "Stacode": "WDL",
+      "Staname": "斗六市",
+      "Stalon": 120.54,
+      "Stalat": 23.72,
+      "Dist": 24.16,
+      "AZ": 123.12,
+      "PGA(V)": 3.41,
+      "PGA(NS)": 3.05,
+      "PGA(EW)": 2.33
+    },
+    {
+      "Stacode": "WES",
+      "Staname": "二水",
+      "Stalon": 120.62,
+      "Stalat": 23.81,
+      "Dist": 26.74,
+      "AZ": 153.01,
+      "PGA(V)": 1.26,
+      "PGA(NS)": 2.39,
+      "PGA(EW)": 2.03
+    },
+    {
+      "Stacode": "CHN4",
+      "Staname": "草山",
+      "Stalon": 120.59,
+      "Stalat": 23.35,
+      "Dist": 30.76,
+      "AZ": 28.31,
+      "PGA(V)": 1.74,
+      "PGA(NS)": 0.96,
+      "PGA(EW)": 1.26
+    },
+    {
+      "Stacode": "WNT",
+      "Staname": "名間",
+      "Stalon": 120.69,
+      "Stalat": 23.88,
+      "Dist": 31.43,
+      "AZ": 171.73,
+      "PGA(V)": 1.74,
+      "PGA(NS)": 3.35,
+      "PGA(EW)": 5.68
+    },
+    {
+      "Stacode": "CHY",
+      "Staname": "嘉義市",
+      "Stalon": 120.43,
+      "Stalat": 23.5,
+      "Dist": 32.96,
+      "AZ": 70.4,
+      "PGA(V)": 1.5,
+      "PGA(NS)": 6.1,
+      "PGA(EW)": 3.77
+    },
+    {
+      "Stacode": "WNT1",
+      "Staname": "南投市",
+      "Stalon": 120.68,
+      "Stalat": 23.91,
+      "Dist": 34.92,
+      "AZ": 170.45,
+      "PGA(V)": 1.38,
+      "PGA(NS)": 0.78,
+      "PGA(EW)": 0.9
+    },
+    {
+      "Stacode": "WTP",
+      "Staname": "大埔",
+      "Stalon": 120.62,
+      "Stalat": 23.24,
+      "Dist": 40.72,
+      "AZ": 16.71,
+      "PGA(V)": 0.3,
+      "PGA(NS)": 0.72,
+      "PGA(EW)": 1.08
+    },
+    {
+      "Stacode": "WYL",
+      "Staname": "員林",
+      "Stalon": 120.58,
+      "Stalat": 23.96,
+      "Dist": 43.44,
+      "AZ": 158.41,
+      "PGA(V)": 2.87,
+      "PGA(NS)": 4.73,
+      "PGA(EW)": 3.41
+    },
+    {
+      "Stacode": "STY",
+      "Staname": "桃源",
+      "Stalon": 120.77,
+      "Stalat": 23.16,
+      "Dist": 48.28,
+      "AZ": 356.48,
+      "PGA(V)": 0.48,
+      "PGA(NS)": 1.02,
+      "PGA(EW)": 1.02
+    },
+    {
+      "Stacode": "WWF",
+      "Staname": "霧峰",
+      "Stalon": 120.7,
+      "Stalat": 24.04,
+      "Dist": 49.65,
+      "AZ": 175.47,
+      "PGA(V)": 0.84,
+      "PGA(NS)": 1.14,
+      "PGA(EW)": 1.62
+    },
+    {
+      "Stacode": "WSF",
+      "Staname": "四湖",
+      "Stalon": 120.23,
+      "Stalat": 23.64,
+      "Dist": 51.93,
+      "AZ": 94.95,
+      "PGA(V)": 0.66,
+      "PGA(NS)": 1.85,
+      "PGA(EW)": 1.38
+    },
+    {
+      "Stacode": "CHN7",
+      "Staname": "六腳",
+      "Stalon": 120.24,
+      "Stalat": 23.48,
+      "Dist": 52.28,
+      "AZ": 76.21,
+      "PGA(V)": 0.6,
+      "PGA(NS)": 1.02,
+      "PGA(EW)": 0.72
+    },
+    {
+      "Stacode": "WTC",
+      "Staname": "大城",
+      "Stalon": 120.29,
+      "Stalat": 23.86,
+      "Dist": 54.32,
+      "AZ": 122.8,
+      "PGA(V)": 0.72,
+      "PGA(NS)": 1.14,
+      "PGA(EW)": 0.84
+    },
+    {
+      "Stacode": "WCH",
+      "Staname": "彰化市",
+      "Stalon": 120.56,
+      "Stalat": 24.08,
+      "Dist": 56.85,
+      "AZ": 161.18,
+      "PGA(V)": 1.74,
+      "PGA(NS)": 6.46,
+      "PGA(EW)": 5.2
+    },
+    {
+      "Stacode": "WDD",
+      "Staname": "大肚",
+      "Stalon": 120.56,
+      "Stalat": 24.13,
+      "Dist": 62.43,
+      "AZ": 162.92,
+      "PGA(V)": 0.54,
+      "PGA(NS)": 1.32,
+      "PGA(EW)": 1.5
+    },
+    {
+      "Stacode": "SCL",
+      "Staname": "佳里",
+      "Stalon": 120.2,
+      "Stalat": 23.17,
+      "Dist": 71.97,
+      "AZ": 49.47,
+      "PGA(V)": 0.3,
+      "PGA(NS)": 0.9,
+      "PGA(EW)": 1.02
+    },
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 83.05,
+      "AZ": 53.22,
+      "PGA(V)": 0.3,
+      "PGA(NS)": 0.96,
+      "PGA(EW)": 0.96
+    }
+  ]
+}

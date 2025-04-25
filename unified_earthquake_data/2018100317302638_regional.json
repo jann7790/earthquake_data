@@ -1,0 +1,42 @@
+{
+    "event_id": "2018100317302638_regional",
+    "timestamp": "2018-10-03 17:30:26",
+    "epicenter_latitude": "23.44",
+    "epicenter_longitude": "120.49",
+    "depth_km": null,
+    "magnitude": "3.8",
+    "max_intensity_observed": "4",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "佳里",
+            "latitude": "23.1743",
+            "longitude": "120.2018",
+            "county": "臺南市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "東山",
+            "latitude": "23.265",
+            "longitude": "120.4999",
+            "county": "臺南市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

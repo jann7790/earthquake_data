@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "010",
+  "timestamp": "2018-02-04T22:12:02",
+  "latitude": 24.23,
+  "longitude": 121.73,
+  "depth_km": 4.0,
+  "magnitude": 4.7,
+  "stations": [
+    {
+      "Stacode": "TAP",
+      "Staname": "臺北市",
+      "Stalon": 121.51,
+      "Stalat": 25.04,
+      "Dist": 92.03,
+      "AZ": 166.46,
+      "PGA(V)": 1.02,
+      "PGA(NS)": 2.39,
+      "PGA(EW)": 2.09,
+      "City": "臺北市"
+    }
+  ]
+}

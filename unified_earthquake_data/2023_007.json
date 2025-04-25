@@ -1,0 +1,57 @@
+{
+    "event_id": "2023_007",
+    "timestamp": "2023-02-08T05:48:48",
+    "epicenter_latitude": 24.75,
+    "epicenter_longitude": 121.83,
+    "depth_km": 79.1,
+    "magnitude": 4.5,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "臺北市",
+            "latitude": 25.04,
+            "longitude": 121.51,
+            "county": "臺北市",
+            "intensity": 1,
+            "station_code": "TAP",
+            "distance_km": 45.32,
+            "pga_v": 0.72,
+            "pga_ns": 0.89,
+            "pga_ew": 0.42,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.04,
+            "pgv_ew": 0.02
+        },
+        {
+            "location_name": "新竹市",
+            "latitude": 24.78,
+            "longitude": 121.02,
+            "county": "新竹市",
+            "intensity": 1,
+            "station_code": "HSN1",
+            "distance_km": 82.13,
+            "pga_v": 0.84,
+            "pga_ns": 0.78,
+            "pga_ew": 0.9,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.03,
+            "pgv_ew": 0.02
+        },
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "TWT",
+            "distance_km": 87.26,
+            "pga_v": 0.61,
+            "pga_ns": 0.74,
+            "pga_ew": 0.78,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.03,
+            "pgv_ew": 0.03
+        }
+    ]
+}

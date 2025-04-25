@@ -1,0 +1,58 @@
+{
+  "earthquake_id": "010",
+  "timestamp": "2014-01-15T07:06:43",
+  "latitude": 22.89,
+  "longitude": 121.08,
+  "depth_km": 8.3,
+  "magnitude": 4.5,
+  "stations": [
+    {
+      "Stacode": "CHN3",
+      "Staname": "新化",
+      "Stalon": 120.36,
+      "Stalat": 23.08,
+      "Dist": 76.28,
+      "AZ": 105.23,
+      "PGA(V)": 0.54,
+      "PGA(NS)": 1.26,
+      "PGA(EW)": 1.5,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "TAI1",
+      "Staname": "永康",
+      "Stalon": 120.24,
+      "Stalat": 23.04,
+      "Dist": 88.18,
+      "AZ": 100.38,
+      "PGA(V)": 0.24,
+      "PGA(NS)": 0.84,
+      "PGA(EW)": 0.66,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SCL",
+      "Staname": "佳里",
+      "Stalon": 120.2,
+      "Stalat": 23.17,
+      "Dist": 95.42,
+      "AZ": 108.89,
+      "PGA(V)": 0.18,
+      "PGA(NS)": 0.96,
+      "PGA(EW)": 0.9,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 105.88,
+      "AZ": 105.3,
+      "PGA(V)": 0.48,
+      "PGA(NS)": 1.14,
+      "PGA(EW)": 1.08,
+      "City": "臺南市"
+    }
+  ]
+}

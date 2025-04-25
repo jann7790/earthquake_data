@@ -1,0 +1,57 @@
+{
+    "event_id": "2019_009",
+    "timestamp": "2019-02-05T19:32:31",
+    "epicenter_latitude": 24.34,
+    "epicenter_longitude": 121.92,
+    "depth_km": 35.7,
+    "magnitude": 4.5,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "信義區",
+            "latitude": 25.04,
+            "longitude": 121.57,
+            "county": "臺北市",
+            "intensity": null,
+            "station_code": "NHY",
+            "distance_km": 85.09,
+            "pga_v": 3.21,
+            "pga_ns": 1.64,
+            "pga_ew": 1.22,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "臺北市",
+            "latitude": 25.04,
+            "longitude": 121.51,
+            "county": "臺北市",
+            "intensity": null,
+            "station_code": "TAP",
+            "distance_km": 87.4,
+            "pga_v": 0.9,
+            "pga_ns": 0.9,
+            "pga_ew": 0.4,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "烏石坑",
+            "latitude": 24.28,
+            "longitude": 120.95,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WHP",
+            "distance_km": 98.69,
+            "pga_v": 0.69,
+            "pga_ns": 0.95,
+            "pga_ew": 0.74,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

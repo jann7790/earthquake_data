@@ -1,0 +1,27 @@
+{
+    "event_id": "2024_384",
+    "timestamp": "2024-05-11T07:07:43",
+    "epicenter_latitude": 23.88,
+    "epicenter_longitude": 121.6,
+    "depth_km": 11.8,
+    "magnitude": 4.1,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "梨山",
+            "latitude": 24.25,
+            "longitude": 121.24,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "FUSS",
+            "distance_km": 54.34,
+            "pga_v": 0.24,
+            "pga_ns": 0.51,
+            "pga_ew": 0.81,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.02,
+            "pgv_ew": 0.02
+        }
+    ]
+}

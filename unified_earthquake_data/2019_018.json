@@ -1,0 +1,57 @@
+{
+    "event_id": "2019_018",
+    "timestamp": "2019-03-14T05:07:22",
+    "epicenter_latitude": 23.06,
+    "epicenter_longitude": 121.35,
+    "depth_km": 17.7,
+    "magnitude": 4.7,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "佳里",
+            "latitude": 23.17,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "SCL",
+            "distance_km": 118.75,
+            "pga_v": 0.17,
+            "pga_ns": 0.58,
+            "pga_ew": 0.82,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "七股",
+            "latitude": 23.15,
+            "longitude": 120.09,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "SCK",
+            "distance_km": 130.23,
+            "pga_v": 0.66,
+            "pga_ns": 1.05,
+            "pga_ew": 1.21,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "烏石坑",
+            "latitude": 24.28,
+            "longitude": 120.95,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WHP",
+            "distance_km": 141.55,
+            "pga_v": 0.7,
+            "pga_ns": 2.27,
+            "pga_ew": 2.57,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "052",
+  "timestamp": "2017-11-11T20:24:43",
+  "latitude": 23.64,
+  "longitude": 120.71,
+  "depth_km": 15.0,
+  "magnitude": 4.1,
+  "stations": [
+    {
+      "Stacode": "WWF",
+      "Staname": "霧峰",
+      "Stalon": 120.7,
+      "Stalat": 24.04,
+      "Dist": 44.22,
+      "AZ": 178.92,
+      "PGA(V)": 2.33,
+      "PGA(NS)": 5.68,
+      "PGA(EW)": 5.8,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "SCL",
+      "Staname": "佳里",
+      "Stalon": 120.2,
+      "Stalat": 23.17,
+      "Dist": 73.28,
+      "AZ": 44.74,
+      "PGA(V)": 3.65,
+      "PGA(NS)": 17.71,
+      "PGA(EW)": 17.23,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 83.94,
+      "AZ": 49.05,
+      "PGA(V)": 3.23,
+      "PGA(NS)": 8.67,
+      "PGA(EW)": 8.61,
+      "City": "臺南市"
+    }
+  ]
+}

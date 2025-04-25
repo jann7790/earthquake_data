@@ -1,0 +1,27 @@
+{
+    "event_id": "2014031003470627_regional",
+    "timestamp": "2014-03-10 03:47:06",
+    "epicenter_latitude": "25.13",
+    "epicenter_longitude": "121.56",
+    "depth_km": null,
+    "magnitude": "2.7",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "陽明山",
+            "latitude": "25.1828",
+            "longitude": "121.5294",
+            "county": "臺北市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

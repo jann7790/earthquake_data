@@ -1,0 +1,27 @@
+{
+    "event_id": "2019_019",
+    "timestamp": "2019-03-16T08:45:51",
+    "epicenter_latitude": 23.22,
+    "epicenter_longitude": 121.39,
+    "depth_km": 18.9,
+    "magnitude": 4.6,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "善化",
+            "latitude": 23.14,
+            "longitude": 120.29,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "SSH",
+            "distance_km": 113.08,
+            "pga_v": 0.46,
+            "pga_ns": 1.39,
+            "pga_ew": 1.2,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

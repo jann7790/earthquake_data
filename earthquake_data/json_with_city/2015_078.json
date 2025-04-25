@@ -1,0 +1,106 @@
+{
+  "earthquake_id": "078",
+  "timestamp": "2015-10-19T10:17:35",
+  "latitude": 24.86,
+  "longitude": 122.01,
+  "depth_km": 14.4,
+  "magnitude": 5.3,
+  "stations": [
+    {
+      "Stacode": "TWA",
+      "Staname": "指南宮",
+      "Stalon": 121.59,
+      "Stalat": 24.98,
+      "Dist": 44.68,
+      "AZ": 107.3,
+      "PGA(V)": 2.21,
+      "PGA(NS)": 3.65,
+      "PGA(EW)": 5.26,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 49.32,
+      "AZ": 114.26,
+      "PGA(V)": 7.48,
+      "PGA(NS)": 11.6,
+      "PGA(EW)": 12.62,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "TAP",
+      "Staname": "臺北市",
+      "Stalon": 121.51,
+      "Stalat": 25.04,
+      "Dist": 54.31,
+      "AZ": 111.47,
+      "PGA(V)": 2.93,
+      "PGA(NS)": 5.32,
+      "PGA(EW)": 4.13,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "ANP",
+      "Staname": "陽明山",
+      "Stalon": 121.53,
+      "Stalat": 25.18,
+      "Dist": 60.78,
+      "AZ": 126.3,
+      "PGA(V)": 0.72,
+      "PGA(NS)": 1.44,
+      "PGA(EW)": 1.2,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "HSN1",
+      "Staname": "新竹市",
+      "Stalon": 121.02,
+      "Stalat": 24.78,
+      "Dist": 101.09,
+      "AZ": 85.01,
+      "PGA(V)": 0.78,
+      "PGA(NS)": 1.5,
+      "PGA(EW)": 1.91,
+      "City": "新竹市"
+    },
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 109.61,
+      "AZ": 52.03,
+      "PGA(V)": 0.6,
+      "PGA(NS)": 1.26,
+      "PGA(EW)": 0.84,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "WDS",
+      "Staname": "東勢",
+      "Stalon": 120.83,
+      "Stalat": 24.26,
+      "Dist": 137.08,
+      "AZ": 61.04,
+      "PGA(V)": 0.42,
+      "PGA(NS)": 0.96,
+      "PGA(EW)": 0.9,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "WWF",
+      "Staname": "霧峰",
+      "Stalon": 120.7,
+      "Stalat": 24.04,
+      "Dist": 161.12,
+      "AZ": 55.92,
+      "PGA(V)": 0.42,
+      "PGA(NS)": 0.96,
+      "PGA(EW)": 0.84,
+      "City": "臺中市"
+    }
+  ]
+}

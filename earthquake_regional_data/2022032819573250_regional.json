@@ -5,27 +5,6 @@
   "max_intensity": "1",
   "locations": [
     {
-      "latitude": "22.0205",
-      "longitude": "120.8372",
-      "county": "屏東縣",
-      "intensity": "1",
-      "location_name": "滿州"
-    },
-    {
-      "latitude": "21.9598",
-      "longitude": "120.7496",
-      "county": "屏東縣",
-      "intensity": "1",
-      "location_name": "南灣"
-    },
-    {
-      "latitude": "22.0373",
-      "longitude": "121.5581",
-      "county": "臺東縣",
-      "intensity": "1",
-      "location_name": "蘭嶼"
-    },
-    {
       "latitude": "23.1466",
       "longitude": "120.0865",
       "county": "臺南市",

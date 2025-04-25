@@ -1,0 +1,57 @@
+{
+    "event_id": "2014_012",
+    "timestamp": "2014-01-20T10:06:28",
+    "epicenter_latitude": 23.97,
+    "epicenter_longitude": 120.64,
+    "depth_km": 23.8,
+    "magnitude": 3.1,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "霧峰",
+            "latitude": 24.04,
+            "longitude": 120.7,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WWF",
+            "distance_km": 10.29,
+            "pga_v": 8.91,
+            "pga_ns": 4.91,
+            "pga_ew": 7.0,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "臺中市",
+            "latitude": 24.15,
+            "longitude": 120.68,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TCU",
+            "distance_km": 20.37,
+            "pga_v": 0.36,
+            "pga_ns": 0.9,
+            "pga_ew": 0.72,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "大肚",
+            "latitude": 24.13,
+            "longitude": 120.56,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WDD",
+            "distance_km": 20.56,
+            "pga_v": 1.32,
+            "pga_ns": 1.56,
+            "pga_ew": 2.33,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

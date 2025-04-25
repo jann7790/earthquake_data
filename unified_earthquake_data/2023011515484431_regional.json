@@ -1,0 +1,27 @@
+{
+    "event_id": "2023011515484431_regional",
+    "timestamp": "2023-01-15 15:48:44",
+    "epicenter_latitude": "24.9075",
+    "epicenter_longitude": "121.1627",
+    "depth_km": null,
+    "magnitude": "3.1",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "新竹市",
+            "latitude": "24.7786",
+            "longitude": "121.0182",
+            "county": "新竹市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

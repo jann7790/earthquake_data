@@ -1,0 +1,9 @@
+{
+  "earthquake_id": "443",
+  "timestamp": "2024-08-15T17:07:15",
+  "latitude": 24.4,
+  "longitude": 121.88,
+  "depth_km": 12.4,
+  "magnitude": 4.6,
+  "stations": []
+}

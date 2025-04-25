@@ -1,0 +1,42 @@
+{
+    "event_id": "2021_060",
+    "timestamp": "2021-07-14T06:59:24",
+    "epicenter_latitude": 23.93,
+    "epicenter_longitude": 121.63,
+    "depth_km": 7.1,
+    "magnitude": 5.0,
+    "max_intensity_observed": 2,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "梨山",
+            "latitude": 24.25,
+            "longitude": 121.24,
+            "county": "臺中市",
+            "intensity": 2,
+            "station_code": "FUSS",
+            "distance_km": 53.2,
+            "pga_v": 1.2,
+            "pga_ns": 2.25,
+            "pga_ew": 2.82,
+            "pgv_v": 0.06,
+            "pgv_ns": 0.13,
+            "pgv_ew": 0.12
+        },
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": 2,
+            "station_code": "TWT",
+            "distance_km": 59.77,
+            "pga_v": 1.0,
+            "pga_ns": 2.7,
+            "pga_ew": 2.17,
+            "pgv_v": 0.06,
+            "pgv_ns": 0.11,
+            "pgv_ew": 0.09
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "event_id": "2020062105482739_regional",
+    "timestamp": "2020-06-21 05:48:27",
+    "epicenter_latitude": "23.05",
+    "epicenter_longitude": "120.83",
+    "depth_km": null,
+    "magnitude": "3.9",
+    "max_intensity_observed": "1",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "新化",
+            "latitude": "23.0213",
+            "longitude": "120.3479",
+            "county": "臺南市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

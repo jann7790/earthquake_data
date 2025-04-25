@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "145",
+  "timestamp": "2014-12-02T18:30:59",
+  "latitude": 24.67,
+  "longitude": 121.74,
+  "depth_km": 70.2,
+  "magnitude": 4.1,
+  "stations": [
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 44.63,
+      "AZ": 157.41,
+      "PGA(V)": 4.61,
+      "PGA(NS)": 0.96,
+      "PGA(EW)": 1.32,
+      "City": "臺北市"
+    }
+  ]
+}

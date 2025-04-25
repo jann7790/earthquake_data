@@ -1,0 +1,42 @@
+{
+    "event_id": "2023_058",
+    "timestamp": "2023-08-10T10:02:17",
+    "epicenter_latitude": 24.79,
+    "epicenter_longitude": 121.95,
+    "depth_km": 91.2,
+    "magnitude": 5.0,
+    "max_intensity_observed": 2,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "新竹市",
+            "latitude": 24.78,
+            "longitude": 121.02,
+            "county": "新竹市",
+            "intensity": 2,
+            "station_code": "HSN1",
+            "distance_km": 94.13,
+            "pga_v": 1.54,
+            "pga_ns": 3.09,
+            "pga_ew": 3.63,
+            "pgv_v": 0.05,
+            "pgv_ns": 0.13,
+            "pgv_ew": 0.16
+        },
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "TWT",
+            "distance_km": 100.01,
+            "pga_v": 0.57,
+            "pga_ns": 0.99,
+            "pga_ew": 0.79,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.03,
+            "pgv_ew": 0.02
+        }
+    ]
+}

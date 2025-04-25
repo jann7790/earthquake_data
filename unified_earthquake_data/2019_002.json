@@ -1,0 +1,27 @@
+{
+    "event_id": "2019_002",
+    "timestamp": "2019-01-04T06:59:20",
+    "epicenter_latitude": 22.89,
+    "epicenter_longitude": 120.96,
+    "depth_km": 4.9,
+    "magnitude": 4.4,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "七股",
+            "latitude": 23.15,
+            "longitude": 120.09,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "SCK",
+            "distance_km": 93.67,
+            "pga_v": 0.38,
+            "pga_ns": 1.47,
+            "pga_ew": 1.08,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

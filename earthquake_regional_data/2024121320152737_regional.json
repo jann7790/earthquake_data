@@ -5,67 +5,11 @@
   "max_intensity": "2",
   "locations": [
     {
-      "latitude": "23.9545",
-      "longitude": "121.1759",
-      "county": "南投縣",
-      "intensity": "2",
-      "location_name": "奧萬大"
-    },
-    {
-      "latitude": "23.6961",
-      "longitude": "120.8532",
-      "county": "南投縣",
-      "intensity": "1",
-      "location_name": "信義鄉"
-    },
-    {
-      "latitude": "23.8766",
-      "longitude": "120.6925",
-      "county": "南投縣",
-      "intensity": "1",
-      "location_name": "名間"
-    },
-    {
-      "latitude": "24.0124",
-      "longitude": "120.9573",
-      "county": "南投縣",
-      "intensity": "1",
-      "location_name": "埔里"
-    },
-    {
-      "latitude": "24.0552",
-      "longitude": "120.4303",
-      "county": "彰化縣",
-      "intensity": "2",
-      "location_name": "鹿港"
-    },
-    {
-      "latitude": "24.0794",
-      "longitude": "120.5583",
-      "county": "彰化縣",
-      "intensity": "1",
-      "location_name": "彰化市"
-    },
-    {
-      "latitude": "23.9026",
-      "longitude": "120.3781",
-      "county": "彰化縣",
-      "intensity": "1",
-      "location_name": "二林"
-    },
-    {
       "latitude": "24.2566",
       "longitude": "120.5234",
       "county": "臺中市",
       "intensity": "1",
       "location_name": "梧棲"
-    },
-    {
-      "latitude": "23.7149",
-      "longitude": "120.5385",
-      "county": "雲林縣",
-      "intensity": "1",
-      "location_name": "斗六市"
     }
   ]
 }

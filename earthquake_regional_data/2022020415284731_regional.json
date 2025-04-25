@@ -5,34 +5,6 @@
   "max_intensity": "2",
   "locations": [
     {
-      "latitude": "24.6468",
-      "longitude": "121.0163",
-      "county": "新竹縣",
-      "intensity": "2",
-      "location_name": "峨眉"
-    },
-    {
-      "latitude": "24.7357",
-      "longitude": "121.0881",
-      "county": "新竹縣",
-      "intensity": "2",
-      "location_name": "竹東"
-    },
-    {
-      "latitude": "24.7771",
-      "longitude": "121.1753",
-      "county": "新竹縣",
-      "intensity": "1",
-      "location_name": "關西"
-    },
-    {
-      "latitude": "24.6319",
-      "longitude": "121.1178",
-      "county": "新竹縣",
-      "intensity": "1",
-      "location_name": "五峰"
-    },
-    {
       "latitude": "24.7786",
       "longitude": "121.0182",
       "county": "新竹市",

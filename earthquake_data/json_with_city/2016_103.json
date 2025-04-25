@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "103",
+  "timestamp": "2016-11-21T14:38:42",
+  "latitude": 23.1,
+  "longitude": 120.7,
+  "depth_km": 6.2,
+  "magnitude": 3.9,
+  "stations": [
+    {
+      "Stacode": "CHN3",
+      "Staname": "新化",
+      "Stalon": 120.36,
+      "Stalat": 23.08,
+      "Dist": 33.96,
+      "AZ": 86.26,
+      "PGA(V)": 0.36,
+      "PGA(NS)": 1.08,
+      "PGA(EW)": 0.84,
+      "City": "臺南市"
+    }
+  ]
+}

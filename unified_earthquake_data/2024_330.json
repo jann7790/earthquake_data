@@ -1,0 +1,27 @@
+{
+    "event_id": "2024_330",
+    "timestamp": "2024-04-24T01:12:15",
+    "epicenter_latitude": 23.76,
+    "epicenter_longitude": 121.54,
+    "depth_km": 6.5,
+    "magnitude": 4.5,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "梨山",
+            "latitude": 24.25,
+            "longitude": 121.24,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "FUSS",
+            "distance_km": 62.2,
+            "pga_v": 0.28,
+            "pga_ns": 0.94,
+            "pga_ew": 0.59,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.03,
+            "pgv_ew": 0.03
+        }
+    ]
+}

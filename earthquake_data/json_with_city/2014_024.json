@@ -1,0 +1,58 @@
+{
+  "earthquake_id": "024",
+  "timestamp": "2014-02-12T00:31:02",
+  "latitude": 25.13,
+  "longitude": 121.57,
+  "depth_km": 6.4,
+  "magnitude": 4.2,
+  "stations": [
+    {
+      "Stacode": "ANP",
+      "Staname": "陽明山",
+      "Stalon": 121.53,
+      "Stalat": 25.18,
+      "Dist": 7.01,
+      "AZ": 142.71,
+      "PGA(V)": 29.13,
+      "PGA(NS)": 18.6,
+      "PGA(EW)": 66.34,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 10.14,
+      "AZ": 1.22,
+      "PGA(V)": 17.35,
+      "PGA(NS)": 9.87,
+      "PGA(EW)": 7.66,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "TAP",
+      "Staname": "臺北市",
+      "Stalon": 121.51,
+      "Stalat": 25.04,
+      "Dist": 12.01,
+      "AZ": 28.78,
+      "PGA(V)": 3.71,
+      "PGA(NS)": 3.71,
+      "PGA(EW)": 4.49,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "TWA",
+      "Staname": "指南宮",
+      "Stalon": 121.59,
+      "Stalat": 24.98,
+      "Dist": 17.25,
+      "AZ": 352.99,
+      "PGA(V)": 1.68,
+      "PGA(NS)": 1.38,
+      "PGA(EW)": 1.74,
+      "City": "臺北市"
+    }
+  ]
+}

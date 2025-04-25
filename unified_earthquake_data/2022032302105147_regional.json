@@ -1,0 +1,27 @@
+{
+    "event_id": "2022032302105147_regional",
+    "timestamp": "2022-03-23 02:10:51",
+    "epicenter_latitude": "23.5003",
+    "epicenter_longitude": "121.431",
+    "depth_km": null,
+    "magnitude": "4.7",
+    "max_intensity_observed": "3",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "梧棲",
+            "latitude": "24.2566",
+            "longitude": "120.5234",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

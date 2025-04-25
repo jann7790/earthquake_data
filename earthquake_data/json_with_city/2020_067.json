@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "067",
+  "timestamp": "2020-11-07T20:01:31",
+  "latitude": 24.5,
+  "longitude": 121.9,
+  "depth_km": 11.2,
+  "magnitude": 4.3,
+  "stations": [
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 68.34,
+      "AZ": 150.44,
+      "PGA(V)": 1.85,
+      "PGA(NS)": 1.05,
+      "PGA(EW)": 1.15,
+      "PGV(V)": 0.04,
+      "PGV(NS)": 0.03,
+      "PGV(EW)": 0.03,
+      "Int": 1,
+      "PGA(SUM)": 1.85,
+      "PGV(SUM)": 0.05,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "FUSS",
+      "Staname": "梨山",
+      "Stalon": 121.24,
+      "Stalat": 24.25,
+      "Dist": 72.56,
+      "AZ": 67.09,
+      "PGA(V)": 0.76,
+      "PGA(NS)": 1.08,
+      "PGA(EW)": 1.01,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.03,
+      "PGV(EW)": 0.03,
+      "Int": 1,
+      "PGA(SUM)": 1.38,
+      "PGV(SUM)": 0.04,
+      "City": "臺中市"
+    }
+  ]
+}

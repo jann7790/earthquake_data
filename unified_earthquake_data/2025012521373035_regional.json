@@ -1,0 +1,72 @@
+{
+    "event_id": "2025012521373035_regional",
+    "timestamp": "2025-01-25 21:37:30",
+    "epicenter_latitude": "23.25",
+    "epicenter_longitude": "120.499",
+    "depth_km": null,
+    "magnitude": "3.5",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "白河",
+            "latitude": "23.3526",
+            "longitude": "120.4144",
+            "county": "臺南市",
+            "intensity": "2",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "楠西",
+            "latitude": "23.1849",
+            "longitude": "120.5286",
+            "county": "臺南市",
+            "intensity": "2",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "曾文",
+            "latitude": "23.2198",
+            "longitude": "120.4973",
+            "county": "臺南市",
+            "intensity": "2",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "善化",
+            "latitude": "23.1361",
+            "longitude": "120.2882",
+            "county": "臺南市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

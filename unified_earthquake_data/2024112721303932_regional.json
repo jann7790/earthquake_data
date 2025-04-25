@@ -1,0 +1,27 @@
+{
+    "event_id": "2024112721303932_regional",
+    "timestamp": "2024-11-27 21:30:39",
+    "epicenter_latitude": "23.4218",
+    "epicenter_longitude": "120.4878",
+    "depth_km": null,
+    "magnitude": "3.2",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "白河",
+            "latitude": "23.3526",
+            "longitude": "120.4144",
+            "county": "臺南市",
+            "intensity": "2",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

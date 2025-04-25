@@ -1,0 +1,72 @@
+{
+    "event_id": "2019_048",
+    "timestamp": "2019-08-06T09:19:48",
+    "epicenter_latitude": 23.67,
+    "epicenter_longitude": 121.53,
+    "depth_km": 4.6,
+    "magnitude": 5.1,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "梨山",
+            "latitude": 24.25,
+            "longitude": 121.24,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "FUSS",
+            "distance_km": 70.05,
+            "pga_v": 1.46,
+            "pga_ns": 2.52,
+            "pga_ew": 2.8,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 74.09,
+            "pga_v": 0.39,
+            "pga_ns": 1.12,
+            "pga_ew": 0.82,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "烏石坑",
+            "latitude": 24.28,
+            "longitude": 120.95,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WHP",
+            "distance_km": 89.62,
+            "pga_v": 1.05,
+            "pga_ns": 1.65,
+            "pga_ew": 2.67,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "霧峰",
+            "latitude": 24.04,
+            "longitude": 120.7,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WWF",
+            "distance_km": 94.14,
+            "pga_v": 0.27,
+            "pga_ns": 0.59,
+            "pga_ew": 0.81,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

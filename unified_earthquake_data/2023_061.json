@@ -1,0 +1,27 @@
+{
+    "event_id": "2023_061",
+    "timestamp": "2023-08-16T22:58:53",
+    "epicenter_latitude": 23.53,
+    "epicenter_longitude": 120.39,
+    "depth_km": 9.5,
+    "magnitude": 4.0,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "佳里",
+            "latitude": 23.17,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SCL",
+            "distance_km": 43.77,
+            "pga_v": 0.64,
+            "pga_ns": 0.67,
+            "pga_ew": 0.75,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.03,
+            "pgv_ew": 0.04
+        }
+    ]
+}

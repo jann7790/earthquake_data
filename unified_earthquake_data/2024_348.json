@@ -1,0 +1,11 @@
+{
+    "event_id": "2024_348",
+    "timestamp": "2024-04-26T12:43:49",
+    "epicenter_latitude": 23.91,
+    "epicenter_longitude": 121.62,
+    "depth_km": 10.9,
+    "magnitude": 4.0,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": []
+}

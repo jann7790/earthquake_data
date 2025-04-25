@@ -1,0 +1,9 @@
+{
+  "earthquake_id": "086",
+  "timestamp": "2016-07-16T10:35:25",
+  "latitude": 24.36,
+  "longitude": 121.75,
+  "depth_km": 19.6,
+  "magnitude": 4.2,
+  "stations": []
+}

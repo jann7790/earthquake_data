@@ -1,0 +1,42 @@
+{
+    "event_id": "2015022402444330_regional",
+    "timestamp": "2015-02-24 02:44:43",
+    "epicenter_latitude": "23.26",
+    "epicenter_longitude": "120.37",
+    "depth_km": null,
+    "magnitude": "3",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "佳里",
+            "latitude": "23.1743",
+            "longitude": "120.2018",
+            "county": "臺南市",
+            "intensity": "2",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "善化",
+            "latitude": "23.1361",
+            "longitude": "120.2882",
+            "county": "臺南市",
+            "intensity": "2",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

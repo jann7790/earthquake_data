@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "130",
+  "timestamp": "2018-11-21T09:32:16",
+  "latitude": 24.42,
+  "longitude": 121.91,
+  "depth_km": 38.1,
+  "magnitude": 4.2,
+  "stations": [
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 76.79,
+      "AZ": 153.67,
+      "PGA(V)": 1.62,
+      "PGA(NS)": 0.96,
+      "PGA(EW)": 1.5,
+      "City": "臺北市"
+    }
+  ]
+}

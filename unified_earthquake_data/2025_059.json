@@ -1,0 +1,42 @@
+{
+    "event_id": "2025_059",
+    "timestamp": "2025-02-07T19:56:11",
+    "epicenter_latitude": 23.8,
+    "epicenter_longitude": 121.45,
+    "depth_km": 13.8,
+    "magnitude": 4.1,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "梨山",
+            "latitude": 24.25,
+            "longitude": 121.24,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "FUSS",
+            "distance_km": 53.42,
+            "pga_v": 0.46,
+            "pga_ns": 1.36,
+            "pga_ew": 1.35,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.03,
+            "pgv_ew": 0.05
+        },
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "TWT",
+            "distance_km": 57.36,
+            "pga_v": 0.62,
+            "pga_ns": 0.9,
+            "pga_ew": 0.75,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.03,
+            "pgv_ew": 0.02
+        }
+    ]
+}

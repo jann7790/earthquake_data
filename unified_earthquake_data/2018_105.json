@@ -1,0 +1,42 @@
+{
+    "event_id": "2018_105",
+    "timestamp": "2018-07-04T15:45:32",
+    "epicenter_latitude": 23.13,
+    "epicenter_longitude": 120.91,
+    "depth_km": 1.6,
+    "magnitude": 4.2,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "東山",
+            "latitude": 23.26,
+            "longitude": 120.5,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "TWL",
+            "distance_km": 44.18,
+            "pga_v": 0.54,
+            "pga_ns": 0.78,
+            "pga_ew": 0.9,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "新化",
+            "latitude": 23.08,
+            "longitude": 120.36,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "CHN3",
+            "distance_km": 56.17,
+            "pga_v": 0.36,
+            "pga_ns": 0.66,
+            "pga_ew": 1.14,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

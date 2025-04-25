@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "063",
+  "timestamp": "2019-12-10T12:13:55",
+  "latitude": 24.05,
+  "longitude": 121.5,
+  "depth_km": 21.8,
+  "magnitude": 4.1,
+  "stations": [
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 40.86,
+      "AZ": 123.36,
+      "PGA(V)": 1.56,
+      "PGA(NS)": 3.33,
+      "PGA(EW)": 1.73,
+      "City": "臺中市"
+    }
+  ]
+}

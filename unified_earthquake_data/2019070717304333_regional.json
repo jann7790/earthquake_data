@@ -1,0 +1,57 @@
+{
+    "event_id": "2019070717304333_regional",
+    "timestamp": "2019-07-07 17:30:43",
+    "epicenter_latitude": "24.16",
+    "epicenter_longitude": "120.79",
+    "depth_km": null,
+    "magnitude": "3.3",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "臺中市",
+            "latitude": "24.1456",
+            "longitude": "120.6841",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "大甲",
+            "latitude": "24.3477",
+            "longitude": "120.6404",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "烏石坑",
+            "latitude": "24.2777",
+            "longitude": "120.9458",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

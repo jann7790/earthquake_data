@@ -1,0 +1,27 @@
+{
+    "event_id": "2016_090",
+    "timestamp": "2016-08-25T15:13:37",
+    "epicenter_latitude": 24.27,
+    "epicenter_longitude": 121.7,
+    "depth_km": 28.7,
+    "magnitude": 4.4,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 54.4,
+            "pga_v": 0.9,
+            "pga_ns": 2.39,
+            "pga_ew": 1.62,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

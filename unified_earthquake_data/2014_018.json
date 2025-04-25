@@ -1,0 +1,57 @@
+{
+    "event_id": "2014_018",
+    "timestamp": "2014-01-29T10:14:52",
+    "epicenter_latitude": 23.24,
+    "epicenter_longitude": 121.37,
+    "depth_km": 17.3,
+    "magnitude": 4.4,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "新化",
+            "latitude": 23.08,
+            "longitude": 120.36,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "CHN3",
+            "distance_km": 104.27,
+            "pga_v": 0.36,
+            "pga_ns": 0.78,
+            "pga_ew": 0.9,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "善化",
+            "latitude": 23.14,
+            "longitude": 120.29,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "SSH",
+            "distance_km": 111.05,
+            "pga_v": 0.18,
+            "pga_ns": 0.9,
+            "pga_ew": 0.54,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "七股",
+            "latitude": 23.15,
+            "longitude": 120.09,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "SCK",
+            "distance_km": 131.52,
+            "pga_v": 0.12,
+            "pga_ns": 0.84,
+            "pga_ew": 0.9,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

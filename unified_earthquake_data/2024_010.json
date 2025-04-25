@@ -1,0 +1,42 @@
+{
+    "event_id": "2024_010",
+    "timestamp": "2024-03-11T18:54:17",
+    "epicenter_latitude": 23.19,
+    "epicenter_longitude": 121.42,
+    "depth_km": 24.4,
+    "magnitude": 4.7,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "新化",
+            "latitude": 23.02,
+            "longitude": 120.35,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SHH",
+            "distance_km": 111.72,
+            "pga_v": 0.38,
+            "pga_ns": 0.9,
+            "pga_ew": 1.24,
+            "pgv_v": 0.03,
+            "pgv_ns": 0.07,
+            "pgv_ew": 0.11
+        },
+        {
+            "location_name": "善化",
+            "latitude": 23.14,
+            "longitude": 120.29,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SSH",
+            "distance_km": 116.37,
+            "pga_v": 0.2,
+            "pga_ns": 0.67,
+            "pga_ew": 0.89,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.05,
+            "pgv_ew": 0.13
+        }
+    ]
+}

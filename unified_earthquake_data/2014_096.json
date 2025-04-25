@@ -1,0 +1,42 @@
+{
+    "event_id": "2014_096",
+    "timestamp": "2014-07-22T10:30:51",
+    "epicenter_latitude": 23.39,
+    "epicenter_longitude": 120.48,
+    "depth_km": 8.0,
+    "magnitude": 3.5,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "善化",
+            "latitude": 23.14,
+            "longitude": 120.29,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "SSH",
+            "distance_km": 34.1,
+            "pga_v": 0.66,
+            "pga_ns": 0.66,
+            "pga_ew": 0.96,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "佳里",
+            "latitude": 23.17,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "SCL",
+            "distance_km": 37.0,
+            "pga_v": 0.66,
+            "pga_ns": 1.74,
+            "pga_ew": 1.62,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "089",
+  "timestamp": "2021-08-19T23:34:33",
+  "latitude": 23.96,
+  "longitude": 121.62,
+  "depth_km": 4.7,
+  "magnitude": 4.3,
+  "stations": [
+    {
+      "Stacode": "FUSS",
+      "Staname": "梨山",
+      "Stalon": 121.24,
+      "Stalat": 24.25,
+      "Dist": 49.54,
+      "AZ": 130.18,
+      "PGA(V)": 0.49,
+      "PGA(NS)": 1.48,
+      "PGA(EW)": 0.78,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.03,
+      "PGV(EW)": 0.03,
+      "Int": 1,
+      "PGA(SUM)": 1.39,
+      "PGV(SUM)": 0.04,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 56.27,
+      "AZ": 124.87,
+      "PGA(V)": 0.36,
+      "PGA(NS)": 0.82,
+      "PGA(EW)": 0.51,
+      "PGV(V)": 0.01,
+      "PGV(NS)": 0.03,
+      "PGV(EW)": 0.02,
+      "Int": 1,
+      "PGA(SUM)": 0.8,
+      "PGV(SUM)": 0.03,
+      "City": "臺中市"
+    }
+  ]
+}

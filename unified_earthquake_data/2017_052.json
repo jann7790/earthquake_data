@@ -1,0 +1,57 @@
+{
+    "event_id": "2017_052",
+    "timestamp": "2017-11-11T20:24:43",
+    "epicenter_latitude": 23.64,
+    "epicenter_longitude": 120.71,
+    "depth_km": 15.0,
+    "magnitude": 4.1,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "霧峰",
+            "latitude": 24.04,
+            "longitude": 120.7,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WWF",
+            "distance_km": 44.22,
+            "pga_v": 2.33,
+            "pga_ns": 5.68,
+            "pga_ew": 5.8,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "佳里",
+            "latitude": 23.17,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "SCL",
+            "distance_km": 73.28,
+            "pga_v": 3.65,
+            "pga_ns": 17.71,
+            "pga_ew": 17.23,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "七股",
+            "latitude": 23.15,
+            "longitude": 120.09,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "SCK",
+            "distance_km": 83.94,
+            "pga_v": 3.23,
+            "pga_ns": 8.67,
+            "pga_ew": 8.61,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

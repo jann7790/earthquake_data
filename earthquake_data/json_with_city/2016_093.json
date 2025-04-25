@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "093",
+  "timestamp": "2016-09-24T17:36:49",
+  "latitude": 24.11,
+  "longitude": 121.51,
+  "depth_km": 19.2,
+  "magnitude": 4.2,
+  "stations": [
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 39.24,
+      "AZ": 113.87,
+      "PGA(V)": 0.78,
+      "PGA(NS)": 2.45,
+      "PGA(EW)": 1.26,
+      "City": "臺中市"
+    }
+  ]
+}

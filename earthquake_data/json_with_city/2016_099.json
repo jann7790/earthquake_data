@@ -1,0 +1,9 @@
+{
+  "earthquake_id": "099",
+  "timestamp": "2016-10-29T19:49:18",
+  "latitude": 24.19,
+  "longitude": 121.65,
+  "depth_km": 32.0,
+  "magnitude": 4.3,
+  "stations": []
+}

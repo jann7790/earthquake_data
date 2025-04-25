@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "062",
+  "timestamp": "2014-05-04T00:03:14",
+  "latitude": 24.2,
+  "longitude": 121.72,
+  "depth_km": 14.9,
+  "magnitude": 4.3,
+  "stations": [
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 57.38,
+      "AZ": 95.21,
+      "PGA(V)": 0.54,
+      "PGA(NS)": 1.14,
+      "PGA(EW)": 0.72,
+      "City": "臺中市"
+    }
+  ]
+}

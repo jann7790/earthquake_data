@@ -1,0 +1,27 @@
+{
+    "event_id": "2021_017",
+    "timestamp": "2021-02-18T02:38:48",
+    "epicenter_latitude": 22.24,
+    "epicenter_longitude": 121.38,
+    "depth_km": 21.7,
+    "magnitude": 5.2,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "新化",
+            "latitude": 23.02,
+            "longitude": 120.35,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SHH",
+            "distance_km": 137.26,
+            "pga_v": 0.52,
+            "pga_ns": 0.84,
+            "pga_ew": 0.77,
+            "pgv_v": 0.03,
+            "pgv_ns": 0.09,
+            "pgv_ew": 0.07
+        }
+    ]
+}

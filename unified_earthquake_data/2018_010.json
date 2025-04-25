@@ -1,0 +1,27 @@
+{
+    "event_id": "2018_010",
+    "timestamp": "2018-02-04T22:12:02",
+    "epicenter_latitude": 24.23,
+    "epicenter_longitude": 121.73,
+    "depth_km": 4.0,
+    "magnitude": 4.7,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "臺北市",
+            "latitude": 25.04,
+            "longitude": 121.51,
+            "county": "臺北市",
+            "intensity": null,
+            "station_code": "TAP",
+            "distance_km": 92.03,
+            "pga_v": 1.02,
+            "pga_ns": 2.39,
+            "pga_ew": 2.09,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

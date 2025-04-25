@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "067",
+  "timestamp": "2016-05-14T11:12:02",
+  "latitude": 24.17,
+  "longitude": 121.76,
+  "depth_km": 12.4,
+  "magnitude": 4.7,
+  "stations": [
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 61.6,
+      "AZ": 97.66,
+      "PGA(V)": 0.72,
+      "PGA(NS)": 1.56,
+      "PGA(EW)": 1.32,
+      "City": "臺中市"
+    }
+  ]
+}

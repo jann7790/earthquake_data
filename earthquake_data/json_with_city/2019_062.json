@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "062",
+  "timestamp": "2019-12-07T03:32:33",
+  "latitude": 24.56,
+  "longitude": 122.68,
+  "depth_km": 100.4,
+  "magnitude": 5.0,
+  "stations": [
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 124.23,
+      "AZ": 115.41,
+      "PGA(V)": 2.24,
+      "PGA(NS)": 1.38,
+      "PGA(EW)": 1.4,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 157.62,
+      "AZ": 77.48,
+      "PGA(V)": 0.84,
+      "PGA(NS)": 1.67,
+      "PGA(EW)": 1.12,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "HSN1",
+      "Staname": "新竹市",
+      "Stalon": 121.02,
+      "Stalat": 24.78,
+      "Dist": 169.88,
+      "AZ": 98.25,
+      "PGA(V)": 0.52,
+      "PGA(NS)": 1.15,
+      "PGA(EW)": 0.79,
+      "City": "新竹市"
+    }
+  ]
+}

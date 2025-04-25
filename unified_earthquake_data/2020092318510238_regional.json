@@ -1,0 +1,27 @@
+{
+    "event_id": "2020092318510238_regional",
+    "timestamp": "2020-09-23 18:51:02",
+    "epicenter_latitude": "24.74",
+    "epicenter_longitude": "121.79",
+    "depth_km": null,
+    "magnitude": "3.8",
+    "max_intensity_observed": "3",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "信義區",
+            "latitude": "25.0408",
+            "longitude": "121.5692",
+            "county": "臺北市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

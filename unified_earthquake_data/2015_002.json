@@ -1,0 +1,57 @@
+{
+    "event_id": "2015_002",
+    "timestamp": "2015-01-05T13:53:46",
+    "epicenter_latitude": 24.69,
+    "epicenter_longitude": 122.02,
+    "depth_km": 73.8,
+    "magnitude": 5.1,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "臺北市",
+            "latitude": 25.04,
+            "longitude": 121.51,
+            "county": "臺北市",
+            "intensity": null,
+            "station_code": "TAP",
+            "distance_km": 63.81,
+            "pga_v": 1.2,
+            "pga_ns": 1.02,
+            "pga_ew": 0.78,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 99.73,
+            "pga_v": 2.27,
+            "pga_ns": 2.63,
+            "pga_ew": 2.33,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "新竹市",
+            "latitude": 24.78,
+            "longitude": 121.02,
+            "county": "新竹市",
+            "intensity": null,
+            "station_code": "HSN1",
+            "distance_km": 101.66,
+            "pga_v": 0.42,
+            "pga_ns": 1.85,
+            "pga_ew": 0.9,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "001",
+  "timestamp": "2015-01-02T01:10:44",
+  "latitude": 23.68,
+  "longitude": 121.47,
+  "depth_km": 19.8,
+  "magnitude": 4.5,
+  "stations": [
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 70.42,
+      "AZ": 153.97,
+      "PGA(V)": 0.78,
+      "PGA(NS)": 1.68,
+      "PGA(EW)": 1.91,
+      "City": "臺中市"
+    }
+  ]
+}

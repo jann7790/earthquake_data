@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "151",
+  "timestamp": "2022-10-07T22:06:55",
+  "latitude": 23.45,
+  "longitude": 121.29,
+  "depth_km": 13.1,
+  "magnitude": 4.6,
+  "stations": [
+    {
+      "Stacode": "FUSS",
+      "Staname": "梨山",
+      "Stalon": 121.24,
+      "Stalat": 24.25,
+      "Dist": 88.3,
+      "AZ": 356.64,
+      "PGA(V)": 0.32,
+      "PGA(NS)": 1.23,
+      "PGA(EW)": 1.18,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.04,
+      "PGV(EW)": 0.04,
+      "Int": 1,
+      "PGA(SUM)": 1.37,
+      "PGV(SUM)": 0.05,
+      "City": "臺中市"
+    }
+  ]
+}

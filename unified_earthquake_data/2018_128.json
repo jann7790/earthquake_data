@@ -1,0 +1,27 @@
+{
+    "event_id": "2018_128",
+    "timestamp": "2018-11-19T22:40:15",
+    "epicenter_latitude": 24.35,
+    "epicenter_longitude": 121.94,
+    "depth_km": 25.6,
+    "magnitude": 4.5,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "信義區",
+            "latitude": 25.04,
+            "longitude": 121.57,
+            "county": "臺北市",
+            "intensity": null,
+            "station_code": "NHY",
+            "distance_km": 85.02,
+            "pga_v": 1.03,
+            "pga_ns": 0.76,
+            "pga_ew": 0.71,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

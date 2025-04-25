@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "038",
+  "timestamp": "2015-07-25T18:25:37",
+  "latitude": 23.15,
+  "longitude": 121.39,
+  "depth_km": 22.2,
+  "magnitude": 4.5,
+  "stations": [
+    {
+      "Stacode": "CHN3",
+      "Staname": "新化",
+      "Stalon": 120.36,
+      "Stalat": 23.08,
+      "Dist": 105.7,
+      "AZ": 85.59,
+      "PGA(V)": 0.42,
+      "PGA(NS)": 1.26,
+      "PGA(EW)": 1.02,
+      "City": "臺南市"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "earthquake_id": "005",
+  "timestamp": "2016-02-02T22:19:21",
+  "latitude": 25.42,
+  "longitude": 123.54,
+  "depth_km": 203.7,
+  "magnitude": 6.7,
+  "stations": [
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 202.63,
+      "AZ": 77.92,
+      "PGA(V)": 1.91,
+      "PGA(NS)": 1.68,
+      "PGA(EW)": 1.68,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "TAP",
+      "Staname": "臺北市",
+      "Stalon": 121.51,
+      "Stalat": 25.04,
+      "Dist": 208.15,
+      "AZ": 78.14,
+      "PGA(V)": 0.48,
+      "PGA(NS)": 1.08,
+      "PGA(EW)": 0.84,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "HSN1",
+      "Staname": "新竹市",
+      "Stalon": 121.02,
+      "Stalat": 24.78,
+      "Dist": 263.78,
+      "AZ": 74.28,
+      "PGA(V)": 0.84,
+      "PGA(NS)": 1.68,
+      "PGA(EW)": 2.45,
+      "City": "新竹市"
+    },
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 272.98,
+      "AZ": 61.54,
+      "PGA(V)": 2.03,
+      "PGA(NS)": 4.49,
+      "PGA(EW)": 2.87,
+      "City": "臺中市"
+    }
+  ]
+}

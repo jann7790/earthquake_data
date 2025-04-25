@@ -1,0 +1,76 @@
+{
+  "earthquake_id": "103",
+  "timestamp": "2016-11-21T14:38:42",
+  "latitude": 23.1,
+  "longitude": 120.7,
+  "depth_km": 6.2,
+  "magnitude": 3.9,
+  "stations": [
+    {
+      "Stacode": "STY",
+      "Staname": "桃源",
+      "Stalon": 120.77,
+      "Stalat": 23.16,
+      "Dist": 10.2,
+      "AZ": 224.92,
+      "PGA(V)": 3.59,
+      "PGA(NS)": 16.81,
+      "PGA(EW)": 14.36
+    },
+    {
+      "Stacode": "SGS",
+      "Staname": "甲仙",
+      "Stalon": 120.59,
+      "Stalat": 23.08,
+      "Dist": 10.87,
+      "AZ": 81.09,
+      "PGA(V)": 3.53,
+      "PGA(NS)": 9.33,
+      "PGA(EW)": 7.48
+    },
+    {
+      "Stacode": "WTP",
+      "Staname": "大埔",
+      "Stalon": 120.62,
+      "Stalat": 23.24,
+      "Dist": 18.04,
+      "AZ": 155.46,
+      "PGA(V)": 1.38,
+      "PGA(NS)": 3.77,
+      "PGA(EW)": 4.91
+    },
+    {
+      "Stacode": "CHN1",
+      "Staname": "楠西",
+      "Stalon": 120.53,
+      "Stalat": 23.19,
+      "Dist": 19.77,
+      "AZ": 120.1,
+      "PGA(V)": 1.08,
+      "PGA(NS)": 2.27,
+      "PGA(EW)": 1.91
+    },
+    {
+      "Stacode": "CHN4",
+      "Staname": "草山",
+      "Stalon": 120.59,
+      "Stalat": 23.35,
+      "Dist": 30.17,
+      "AZ": 159.86,
+      "PGA(V)": 1.02,
+      "PGA(NS)": 0.78,
+      "PGA(EW)": 0.96
+    },
+    {
+      "Stacode": "CHN3",
+      "Staname": "新化",
+      "Stalon": 120.36,
+      "Stalat": 23.08,
+      "Dist": 33.96,
+      "AZ": 86.26,
+      "PGA(V)": 0.36,
+      "PGA(NS)": 1.08,
+      "PGA(EW)": 0.84
+    }
+  ]
+}

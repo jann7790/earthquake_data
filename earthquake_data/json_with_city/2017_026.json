@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "026",
+  "timestamp": "2017-06-04T21:24:46",
+  "latitude": 24.63,
+  "longitude": 122.63,
+  "depth_km": 20.7,
+  "magnitude": 5.1,
+  "stations": [
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 154.88,
+      "AZ": 74.15,
+      "PGA(V)": 0.6,
+      "PGA(NS)": 1.44,
+      "PGA(EW)": 0.78,
+      "City": "臺中市"
+    }
+  ]
+}

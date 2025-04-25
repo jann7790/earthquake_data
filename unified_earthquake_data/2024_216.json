@@ -1,0 +1,27 @@
+{
+    "event_id": "2024_216",
+    "timestamp": "2024-04-22T08:01:34",
+    "epicenter_latitude": 24.29,
+    "epicenter_longitude": 121.83,
+    "depth_km": 8.1,
+    "magnitude": 4.1,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "TWT",
+            "distance_km": 67.78,
+            "pga_v": 0.46,
+            "pga_ns": 0.89,
+            "pga_ew": 0.56,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.04,
+            "pgv_ew": 0.02
+        }
+    ]
+}

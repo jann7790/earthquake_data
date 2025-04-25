@@ -1,0 +1,72 @@
+{
+    "event_id": "2016_032",
+    "timestamp": "2016-04-27T23:27:38",
+    "epicenter_latitude": 24.25,
+    "epicenter_longitude": 121.75,
+    "depth_km": 13.0,
+    "magnitude": 5.1,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 59.66,
+            "pga_v": 0.96,
+            "pga_ns": 2.57,
+            "pga_ew": 1.38,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "東勢",
+            "latitude": 24.26,
+            "longitude": 120.83,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WDS",
+            "distance_km": 93.27,
+            "pga_v": 0.36,
+            "pga_ns": 0.54,
+            "pga_ew": 0.84,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "霧峰",
+            "latitude": 24.04,
+            "longitude": 120.7,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WWF",
+            "distance_km": 109.28,
+            "pga_v": 0.3,
+            "pga_ns": 0.9,
+            "pga_ew": 0.9,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "大肚",
+            "latitude": 24.13,
+            "longitude": 120.56,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WDD",
+            "distance_km": 121.82,
+            "pga_v": 0.48,
+            "pga_ns": 0.78,
+            "pga_ew": 1.2,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

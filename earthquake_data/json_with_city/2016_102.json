@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "102",
+  "timestamp": "2016-11-12T06:25:31",
+  "latitude": 24.07,
+  "longitude": 122.43,
+  "depth_km": 31.2,
+  "magnitude": 5.3,
+  "stations": [
+    {
+      "Stacode": "TWA",
+      "Staname": "指南宮",
+      "Stalon": 121.59,
+      "Stalat": 24.98,
+      "Dist": 131.92,
+      "AZ": 139.95,
+      "PGA(V)": 0.6,
+      "PGA(NS)": 0.9,
+      "PGA(EW)": 0.96,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 138.77,
+      "AZ": 141.07,
+      "PGA(V)": 1.2,
+      "PGA(NS)": 1.79,
+      "PGA(EW)": 2.27,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "TAP",
+      "Staname": "臺北市",
+      "Stalon": 121.51,
+      "Stalat": 25.04,
+      "Dist": 142.06,
+      "AZ": 139.22,
+      "PGA(V)": 0.66,
+      "PGA(NS)": 1.5,
+      "PGA(EW)": 1.5,
+      "City": "臺北市"
+    }
+  ]
+}

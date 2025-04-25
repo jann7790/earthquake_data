@@ -5,55 +5,6 @@
   "max_intensity": "1",
   "locations": [
     {
-      "latitude": "23.1988",
-      "longitude": "121.2939",
-      "county": "花蓮縣",
-      "intensity": "1",
-      "location_name": "富里"
-    },
-    {
-      "latitude": "23.0804",
-      "longitude": "120.5908",
-      "county": "高雄市",
-      "intensity": "1",
-      "location_name": "甲仙"
-    },
-    {
-      "latitude": "22.9933",
-      "longitude": "120.6463",
-      "county": "高雄市",
-      "intensity": "1",
-      "location_name": "六龜"
-    },
-    {
-      "latitude": "23.4385",
-      "longitude": "120.6047",
-      "county": "嘉義縣",
-      "intensity": "1",
-      "location_name": "番路"
-    },
-    {
-      "latitude": "23.0952",
-      "longitude": "121.2192",
-      "county": "臺東縣",
-      "intensity": "1",
-      "location_name": "池上"
-    },
-    {
-      "latitude": "23.1871",
-      "longitude": "121.0251",
-      "county": "臺東縣",
-      "intensity": "1",
-      "location_name": "利稻"
-    },
-    {
-      "latitude": "22.9063",
-      "longitude": "121.1305",
-      "county": "臺東縣",
-      "intensity": "1",
-      "location_name": "鹿野"
-    },
-    {
       "latitude": "23.0213",
       "longitude": "120.3479",
       "county": "臺南市",

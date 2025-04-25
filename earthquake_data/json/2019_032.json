@@ -1,0 +1,263 @@
+{
+  "earthquake_id": "032",
+  "timestamp": "2019-04-18T13:17:26",
+  "latitude": 24.08,
+  "longitude": 121.53,
+  "depth_km": 20.6,
+  "magnitude": 4.2,
+  "stations": [
+    {
+      "Stacode": "TWD",
+      "Staname": "秀林",
+      "Stalon": 121.6,
+      "Stalat": 24.08,
+      "Dist": 7.62,
+      "AZ": 270.17,
+      "PGA(V)": 17.39,
+      "PGA(NS)": 18.06,
+      "PGA(EW)": 31.22
+    },
+    {
+      "Stacode": "ETL",
+      "Staname": "太魯閣",
+      "Stalon": 121.62,
+      "Stalat": 24.16,
+      "Dist": 12.72,
+      "AZ": 228.11,
+      "PGA(V)": 9.88,
+      "PGA(NS)": 32.56,
+      "PGA(EW)": 25.69
+    },
+    {
+      "Stacode": "ETM",
+      "Staname": "銅門",
+      "Stalon": 121.49,
+      "Stalat": 23.97,
+      "Dist": 13.39,
+      "AZ": 16.34,
+      "PGA(V)": 28.16,
+      "PGA(NS)": 82.37,
+      "PGA(EW)": 52.58
+    },
+    {
+      "Stacode": "HWA",
+      "Staname": "花蓮市",
+      "Stalon": 121.61,
+      "Stalat": 23.98,
+      "Dist": 14.54,
+      "AZ": 324.16,
+      "PGA(V)": 8.53,
+      "PGA(NS)": 22.99,
+      "PGA(EW)": 27.53
+    },
+    {
+      "Stacode": "ETLH",
+      "Staname": "西寶",
+      "Stalon": 121.48,
+      "Stalat": 24.21,
+      "Dist": 14.71,
+      "AZ": 160.62,
+      "PGA(V)": 10.58,
+      "PGA(NS)": 15.11,
+      "PGA(EW)": 18.14
+    },
+    {
+      "Stacode": "WHF",
+      "Staname": "合歡山",
+      "Stalon": 121.27,
+      "Stalat": 24.14,
+      "Dist": 27.05,
+      "AZ": 104.68,
+      "PGA(V)": 3.48,
+      "PGA(NS)": 7.19,
+      "PGA(EW)": 8.19
+    },
+    {
+      "Stacode": "ESL",
+      "Staname": "西林",
+      "Stalon": 121.44,
+      "Stalat": 23.81,
+      "Dist": 31.16,
+      "AZ": 16.77,
+      "PGA(V)": 5.27,
+      "PGA(NS)": 15.93,
+      "PGA(EW)": 25.51
+    },
+    {
+      "Stacode": "SHUL",
+      "Staname": "水璉",
+      "Stalon": 121.56,
+      "Stalat": 23.79,
+      "Dist": 32.73,
+      "AZ": 354.13,
+      "PGA(V)": 1.62,
+      "PGA(NS)": 2.29,
+      "PGA(EW)": 2.66
+    },
+    {
+      "Stacode": "EHP",
+      "Staname": "和平",
+      "Stalon": 121.75,
+      "Stalat": 24.31,
+      "Dist": 33.5,
+      "AZ": 221.65,
+      "PGA(V)": 1.93,
+      "PGA(NS)": 2.2,
+      "PGA(EW)": 2.37
+    },
+    {
+      "Stacode": "FUSS",
+      "Staname": "梨山",
+      "Stalon": 121.24,
+      "Stalat": 24.25,
+      "Dist": 34.4,
+      "AZ": 122.33,
+      "PGA(V)": 4.17,
+      "PGA(NS)": 7.23,
+      "PGA(EW)": 6.28
+    },
+    {
+      "Stacode": "EAH",
+      "Staname": "澳花",
+      "Stalon": 121.74,
+      "Stalat": 24.33,
+      "Dist": 34.73,
+      "AZ": 217.79,
+      "PGA(V)": 1.58,
+      "PGA(NS)": 2.2,
+      "PGA(EW)": 2.18
+    },
+    {
+      "Stacode": "OWD",
+      "Staname": "奧萬大",
+      "Stalon": 121.18,
+      "Stalat": 23.95,
+      "Dist": 38.65,
+      "AZ": 68.66,
+      "PGA(V)": 2.8,
+      "PGA(NS)": 4.57,
+      "PGA(EW)": 3.74
+    },
+    {
+      "Stacode": "EGC",
+      "Staname": "磯崎",
+      "Stalon": 121.55,
+      "Stalat": 23.71,
+      "Dist": 41.43,
+      "AZ": 357.51,
+      "PGA(V)": 0.75,
+      "PGA(NS)": 0.9,
+      "PGA(EW)": 1.0
+    },
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 41.75,
+      "AZ": 116.47,
+      "PGA(V)": 1.07,
+      "PGA(NS)": 2.89,
+      "PGA(EW)": 1.77
+    },
+    {
+      "Stacode": "NNS",
+      "Staname": "南山",
+      "Stalon": 121.38,
+      "Stalat": 24.44,
+      "Dist": 42.2,
+      "AZ": 159.08,
+      "PGA(V)": 1.04,
+      "PGA(NS)": 6.9,
+      "PGA(EW)": 3.44
+    },
+    {
+      "Stacode": "ENA",
+      "Staname": "南澳",
+      "Stalon": 121.75,
+      "Stalat": 24.43,
+      "Dist": 44.2,
+      "AZ": 210.23,
+      "PGA(V)": 1.53,
+      "PGA(NS)": 4.76,
+      "PGA(EW)": 4.71
+    },
+    {
+      "Stacode": "EWT",
+      "Staname": "武塔",
+      "Stalon": 121.78,
+      "Stalat": 24.45,
+      "Dist": 47.51,
+      "AZ": 212.07,
+      "PGA(V)": 2.28,
+      "PGA(NS)": 2.86,
+      "PGA(EW)": 3.48
+    },
+    {
+      "Stacode": "ENT",
+      "Staname": "牛鬥",
+      "Stalon": 121.57,
+      "Stalat": 24.64,
+      "Dist": 61.78,
+      "AZ": 184.12,
+      "PGA(V)": 0.35,
+      "PGA(NS)": 1.89,
+      "PGA(EW)": 0.89
+    },
+    {
+      "Stacode": "WHP",
+      "Staname": "烏石坑",
+      "Stalon": 120.95,
+      "Stalat": 24.28,
+      "Dist": 63.19,
+      "AZ": 110.11,
+      "PGA(V)": 0.64,
+      "PGA(NS)": 1.05,
+      "PGA(EW)": 1.02
+    },
+    {
+      "Stacode": "NDS",
+      "Staname": "冬山",
+      "Stalon": 121.72,
+      "Stalat": 24.63,
+      "Dist": 64.07,
+      "AZ": 197.22,
+      "PGA(V)": 0.59,
+      "PGA(NS)": 1.04,
+      "PGA(EW)": 0.78
+    },
+    {
+      "Stacode": "EHY",
+      "Staname": "紅葉",
+      "Stalon": 121.33,
+      "Stalat": 23.5,
+      "Dist": 67.15,
+      "AZ": 17.66,
+      "PGA(V)": 0.9,
+      "PGA(NS)": 1.67,
+      "PGA(EW)": 2.18
+    },
+    {
+      "Stacode": "WCH1",
+      "Staname": "彰化市",
+      "Stalon": 120.55,
+      "Stalat": 24.07,
+      "Dist": 99.96,
+      "AZ": 89.38,
+      "PGA(V)": 0.9,
+      "PGA(NS)": 1.35,
+      "PGA(EW)": 0.98
+    },
+    {
+      "Stacode": "WDL",
+      "Staname": "斗六市",
+      "Stalon": 120.54,
+      "Stalat": 23.71,
+      "Dist": 108.79,
+      "AZ": 68.08,
+      "PGA(V)": 0.97,
+      "PGA(NS)": 0.83,
+      "PGA(EW)": 0.96
+    }
+  ]
+}

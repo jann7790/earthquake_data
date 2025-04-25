@@ -1,0 +1,42 @@
+{
+    "event_id": "2020_074",
+    "timestamp": "2020-12-26T08:28:46",
+    "epicenter_latitude": 22.64,
+    "epicenter_longitude": 120.41,
+    "depth_km": 34.9,
+    "magnitude": 4.2,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "臺南市",
+            "latitude": 23.0,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "TAI",
+            "distance_km": 45.17,
+            "pga_v": 1.02,
+            "pga_ns": 1.42,
+            "pga_ew": 1.09,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.02,
+            "pgv_ew": 0.03
+        },
+        {
+            "location_name": "佳里",
+            "latitude": 23.17,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SCL",
+            "distance_km": 63.01,
+            "pga_v": 1.02,
+            "pga_ns": 1.24,
+            "pga_ew": 0.81,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.05,
+            "pgv_ew": 0.02
+        }
+    ]
+}

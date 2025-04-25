@@ -5,109 +5,11 @@
   "max_intensity": "2",
   "locations": [
     {
-      "latitude": "23.6961",
-      "longitude": "120.8532",
-      "county": "南投縣",
-      "intensity": "2",
-      "location_name": "信義鄉"
-    },
-    {
-      "latitude": "23.8219",
-      "longitude": "120.7279",
-      "county": "南投縣",
-      "intensity": "1",
-      "location_name": "竹山"
-    },
-    {
-      "latitude": "23.4873",
-      "longitude": "120.9594",
-      "county": "南投縣",
-      "intensity": "1",
-      "location_name": "玉山"
-    },
-    {
-      "latitude": "23.5972",
-      "longitude": "120.6769",
-      "county": "雲林縣",
-      "intensity": "2",
-      "location_name": "草嶺"
-    },
-    {
-      "latitude": "23.6888",
-      "longitude": "120.5381",
-      "county": "雲林縣",
-      "intensity": "2",
-      "location_name": "斗六市"
-    },
-    {
-      "latitude": "23.6844",
-      "longitude": "120.5703",
-      "county": "雲林縣",
-      "intensity": "2",
-      "location_name": "古坑"
-    },
-    {
-      "latitude": "23.5226",
-      "longitude": "120.2278",
-      "county": "雲林縣",
-      "intensity": "2",
-      "location_name": "水林"
-    },
-    {
-      "latitude": "23.6876",
-      "longitude": "120.3886",
-      "county": "雲林縣",
-      "intensity": "1",
-      "location_name": "土庫"
-    },
-    {
-      "latitude": "23.5084",
-      "longitude": "120.8134",
-      "county": "嘉義縣",
-      "intensity": "2",
-      "location_name": "阿里山"
-    },
-    {
-      "latitude": "23.4385",
-      "longitude": "120.6047",
-      "county": "嘉義縣",
-      "intensity": "2",
-      "location_name": "番路"
-    },
-    {
-      "latitude": "23.5319",
-      "longitude": "120.4744",
-      "county": "嘉義縣",
-      "intensity": "1",
-      "location_name": "民雄"
-    },
-    {
-      "latitude": "24.0794",
-      "longitude": "120.5583",
-      "county": "彰化縣",
-      "intensity": "2",
-      "location_name": "彰化市"
-    },
-    {
-      "latitude": "23.9026",
-      "longitude": "120.3781",
-      "county": "彰化縣",
-      "intensity": "1",
-      "location_name": "二林"
-    },
-    {
       "latitude": "23.1466",
       "longitude": "120.0865",
       "county": "臺南市",
       "intensity": "1",
       "location_name": "七股"
-    },
-    {
-      "latitude": "23.4963",
-      "longitude": "120.4327",
-      "county": "嘉義市",
-      "intensity": "1",
-      "location_name": "嘉義市"
     }
   ]
 }

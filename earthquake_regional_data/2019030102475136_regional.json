@@ -5,69 +5,6 @@
   "max_intensity": "3",
   "locations": [
     {
-      "latitude": "23.9545",
-      "longitude": "121.1759",
-      "county": "南投縣",
-      "intensity": "3",
-      "location_name": "奧萬大"
-    },
-    {
-      "latitude": "24.0566",
-      "longitude": "120.9117",
-      "county": "南投縣",
-      "intensity": "2",
-      "location_name": "國姓"
-    },
-    {
-      "latitude": "24.1434",
-      "longitude": "121.2725",
-      "county": "南投縣",
-      "intensity": "2",
-      "location_name": "合歡山"
-    },
-    {
-      "latitude": "24.0124",
-      "longitude": "120.9573",
-      "county": "南投縣",
-      "intensity": "2",
-      "location_name": "埔里"
-    },
-    {
-      "latitude": "23.6888",
-      "longitude": "120.5381",
-      "county": "雲林縣",
-      "intensity": "1",
-      "location_name": "斗六市"
-    },
-    {
-      "latitude": "23.6844",
-      "longitude": "120.5703",
-      "county": "雲林縣",
-      "intensity": "1",
-      "location_name": "古坑"
-    },
-    {
-      "latitude": "23.5084",
-      "longitude": "120.8134",
-      "county": "嘉義縣",
-      "intensity": "1",
-      "location_name": "阿里山"
-    },
-    {
-      "latitude": "24.0794",
-      "longitude": "120.5583",
-      "county": "彰化縣",
-      "intensity": "1",
-      "location_name": "彰化市"
-    },
-    {
-      "latitude": "23.9605",
-      "longitude": "120.5799",
-      "county": "彰化縣",
-      "intensity": "1",
-      "location_name": "員林"
-    },
-    {
       "latitude": "24.2495",
       "longitude": "121.1618",
       "county": "臺中市",
@@ -80,13 +17,6 @@
       "county": "臺中市",
       "intensity": "1",
       "location_name": "烏石坑"
-    },
-    {
-      "latitude": "23.6689",
-      "longitude": "121.4275",
-      "county": "花蓮縣",
-      "intensity": "1",
-      "location_name": "光復"
     }
   ]
 }

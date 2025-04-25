@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "005",
+  "timestamp": "2014-01-11T01:13:43",
+  "latitude": 24.82,
+  "longitude": 121.3,
+  "depth_km": 8.4,
+  "magnitude": 3.0,
+  "stations": [
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 36.86,
+      "AZ": 228.7,
+      "PGA(V)": 0.84,
+      "PGA(NS)": 0.24,
+      "PGA(EW)": 0.48,
+      "City": "臺北市"
+    }
+  ]
+}

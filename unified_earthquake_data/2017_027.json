@@ -1,0 +1,42 @@
+{
+    "event_id": "2017_027",
+    "timestamp": "2017-06-11T00:46:20",
+    "epicenter_latitude": 24.62,
+    "epicenter_longitude": 121.63,
+    "depth_km": 58.1,
+    "magnitude": 4.0,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 62.49,
+            "pga_v": 0.48,
+            "pga_ns": 1.08,
+            "pga_ew": 1.14,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "新竹市",
+            "latitude": 24.78,
+            "longitude": 121.02,
+            "county": "新竹市",
+            "intensity": null,
+            "station_code": "HSN1",
+            "distance_km": 63.97,
+            "pga_v": 0.36,
+            "pga_ns": 0.96,
+            "pga_ew": 0.84,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

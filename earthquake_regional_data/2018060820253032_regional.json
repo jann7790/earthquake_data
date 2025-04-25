@@ -10,20 +10,6 @@
       "county": "臺中市",
       "intensity": "2",
       "location_name": "臺中市"
-    },
-    {
-      "latitude": "24.0794",
-      "longitude": "120.5583",
-      "county": "彰化縣",
-      "intensity": "1",
-      "location_name": "彰化市"
-    },
-    {
-      "latitude": "23.9605",
-      "longitude": "120.5799",
-      "county": "彰化縣",
-      "intensity": "1",
-      "location_name": "員林"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+    "event_id": "2016122613351534_regional",
+    "timestamp": "2016-12-26 13:35:15",
+    "epicenter_latitude": "24.73",
+    "epicenter_longitude": "120.87",
+    "depth_km": null,
+    "magnitude": "3.4",
+    "max_intensity_observed": "3",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "新竹市",
+            "latitude": "24.7786",
+            "longitude": "121.0182",
+            "county": "新竹市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

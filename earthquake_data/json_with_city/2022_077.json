@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "077",
+  "timestamp": "2022-07-08T19:57:48",
+  "latitude": 24.84,
+  "longitude": 121.98,
+  "depth_km": 9.4,
+  "magnitude": 4.3,
+  "stations": [
+    {
+      "Stacode": "TWA",
+      "Staname": "木柵",
+      "Stalon": 121.59,
+      "Stalat": 24.98,
+      "Dist": 42.4,
+      "AZ": 290.73,
+      "PGA(V)": 0.36,
+      "PGA(NS)": 0.58,
+      "PGA(EW)": 0.94,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.03,
+      "PGV(EW)": 0.05,
+      "Int": 1,
+      "PGA(SUM)": 1.1,
+      "PGV(SUM)": 0.06,
+      "City": "臺北市"
+    }
+  ]
+}

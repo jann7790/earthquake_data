@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "035",
+  "timestamp": "2019-05-03T05:47:43",
+  "latitude": 24.83,
+  "longitude": 121.91,
+  "depth_km": 101.1,
+  "magnitude": 4.3,
+  "stations": [
+    {
+      "Stacode": "TAP",
+      "Staname": "臺北市",
+      "Stalon": 121.51,
+      "Stalat": 25.04,
+      "Dist": 46.55,
+      "AZ": 120.07,
+      "PGA(V)": 1.74,
+      "PGA(NS)": 0.42,
+      "PGA(EW)": 0.34,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "HSN1",
+      "Staname": "新竹市",
+      "Stalon": 121.02,
+      "Stalat": 24.78,
+      "Dist": 90.62,
+      "AZ": 86.55,
+      "PGA(V)": 0.55,
+      "PGA(NS)": 0.77,
+      "PGA(EW)": 0.86,
+      "City": "新竹市"
+    },
+    {
+      "Stacode": "WHP",
+      "Staname": "烏石坑",
+      "Stalon": 120.95,
+      "Stalat": 24.28,
+      "Dist": 115.31,
+      "AZ": 58.14,
+      "PGA(V)": 1.49,
+      "PGA(NS)": 1.36,
+      "PGA(EW)": 0.97,
+      "City": "臺中市"
+    }
+  ]
+}

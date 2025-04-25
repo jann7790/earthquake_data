@@ -1,0 +1,42 @@
+{
+    "event_id": "2021_095",
+    "timestamp": "2021-09-15T18:50:53",
+    "epicenter_latitude": 23.16,
+    "epicenter_longitude": 121.39,
+    "depth_km": 20.6,
+    "magnitude": 4.5,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "新化",
+            "latitude": 23.02,
+            "longitude": 120.35,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SHH",
+            "distance_km": 107.93,
+            "pga_v": 0.47,
+            "pga_ns": 0.8,
+            "pga_ew": 0.96,
+            "pgv_v": 0.03,
+            "pgv_ns": 0.08,
+            "pgv_ew": 0.07
+        },
+        {
+            "location_name": "善化",
+            "latitude": 23.14,
+            "longitude": 120.29,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SSH",
+            "distance_km": 112.93,
+            "pga_v": 0.33,
+            "pga_ns": 0.67,
+            "pga_ew": 0.72,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.06,
+            "pgv_ew": 0.07
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "event_id": "2018032908241738_regional",
+    "timestamp": "2018-03-29 08:24:17",
+    "epicenter_latitude": "24",
+    "epicenter_longitude": "121.01",
+    "depth_km": null,
+    "magnitude": "3.8",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": "24.2495",
+            "longitude": "121.1618",
+            "county": "臺中市",
+            "intensity": "2",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

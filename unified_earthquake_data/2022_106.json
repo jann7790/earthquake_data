@@ -1,0 +1,27 @@
+{
+    "event_id": "2022_106",
+    "timestamp": "2022-09-18T12:10:52",
+    "epicenter_latitude": 22.8,
+    "epicenter_longitude": 121.09,
+    "depth_km": 6.5,
+    "magnitude": 4.8,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "七股",
+            "latitude": 23.15,
+            "longitude": 120.09,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SCK",
+            "distance_km": 109.81,
+            "pga_v": 0.74,
+            "pga_ns": 1.19,
+            "pga_ew": 1.29,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.08,
+            "pgv_ew": 0.12
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "002",
+  "timestamp": "2019-01-04T06:59:20",
+  "latitude": 22.89,
+  "longitude": 120.96,
+  "depth_km": 4.9,
+  "magnitude": 4.4,
+  "stations": [
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 93.67,
+      "AZ": 107.81,
+      "PGA(V)": 0.38,
+      "PGA(NS)": 1.47,
+      "PGA(EW)": 1.08,
+      "City": "臺南市"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+    "event_id": "2021_036",
+    "timestamp": "2021-05-26T00:48:00",
+    "epicenter_latitude": 23.94,
+    "epicenter_longitude": 121.49,
+    "depth_km": 20.2,
+    "magnitude": 5.0,
+    "max_intensity_observed": 3,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "梨山",
+            "latitude": 24.25,
+            "longitude": 121.24,
+            "county": "臺中市",
+            "intensity": 3,
+            "station_code": "FUSS",
+            "distance_km": 42.34,
+            "pga_v": 8.02,
+            "pga_ns": 16.07,
+            "pga_ew": 12.88,
+            "pgv_v": 0.4,
+            "pgv_ns": 0.71,
+            "pgv_ew": 0.48
+        },
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": 2,
+            "station_code": "TWT",
+            "distance_km": 47.86,
+            "pga_v": 1.81,
+            "pga_ns": 3.31,
+            "pga_ew": 3.0,
+            "pgv_v": 0.07,
+            "pgv_ns": 0.15,
+            "pgv_ew": 0.08
+        },
+        {
+            "location_name": "霧峰",
+            "latitude": 24.04,
+            "longitude": 120.7,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "WWF",
+            "distance_km": 81.26,
+            "pga_v": 0.79,
+            "pga_ns": 0.69,
+            "pga_ew": 1.15,
+            "pgv_v": 0.03,
+            "pgv_ns": 0.04,
+            "pgv_ew": 0.15
+        }
+    ]
+}

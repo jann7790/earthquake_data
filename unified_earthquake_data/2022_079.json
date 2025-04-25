@@ -1,0 +1,42 @@
+{
+    "event_id": "2022_079",
+    "timestamp": "2022-07-19T10:39:59",
+    "epicenter_latitude": 23.23,
+    "epicenter_longitude": 121.3,
+    "depth_km": 7.4,
+    "magnitude": 4.6,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "善化",
+            "latitude": 23.14,
+            "longitude": 120.29,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SSH",
+            "distance_km": 103.77,
+            "pga_v": 0.43,
+            "pga_ns": 0.69,
+            "pga_ew": 0.74,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.06,
+            "pgv_ew": 0.06
+        },
+        {
+            "location_name": "臺南市",
+            "latitude": 23.0,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "TAI",
+            "distance_km": 115.62,
+            "pga_v": 0.57,
+            "pga_ns": 0.71,
+            "pga_ew": 0.86,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.05,
+            "pgv_ew": 0.08
+        }
+    ]
+}

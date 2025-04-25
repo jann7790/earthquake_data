@@ -1,0 +1,72 @@
+{
+    "event_id": "2020_069",
+    "timestamp": "2020-11-16T15:19:12",
+    "epicenter_latitude": 21.98,
+    "epicenter_longitude": 121.28,
+    "depth_km": 68.2,
+    "magnitude": 5.3,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "臺南市",
+            "latitude": 23.0,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "TAI",
+            "distance_km": 158.33,
+            "pga_v": 1.82,
+            "pga_ns": 1.9,
+            "pga_ew": 1.61,
+            "pgv_v": 0.03,
+            "pgv_ns": 0.05,
+            "pgv_ew": 0.06
+        },
+        {
+            "location_name": "永康",
+            "latitude": 23.04,
+            "longitude": 120.24,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "TAI1",
+            "distance_km": 158.93,
+            "pga_v": 0.75,
+            "pga_ns": 1.02,
+            "pga_ew": 1.01,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.04,
+            "pgv_ew": 0.03
+        },
+        {
+            "location_name": "善化",
+            "latitude": 23.14,
+            "longitude": 120.29,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SSH",
+            "distance_km": 163.69,
+            "pga_v": 1.53,
+            "pga_ns": 1.73,
+            "pga_ew": 1.43,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.04,
+            "pgv_ew": 0.05
+        },
+        {
+            "location_name": "佳里",
+            "latitude": 23.17,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SCL",
+            "distance_km": 172.52,
+            "pga_v": 1.11,
+            "pga_ns": 2.06,
+            "pga_ew": 1.84,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.06,
+            "pgv_ew": 0.06
+        }
+    ]
+}

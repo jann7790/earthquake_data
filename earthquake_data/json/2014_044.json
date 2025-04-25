@@ -1,0 +1,87 @@
+{
+  "earthquake_id": "044",
+  "timestamp": "2014-03-22T08:11:21",
+  "latitude": 22.76,
+  "longitude": 120.42,
+  "depth_km": 31.8,
+  "magnitude": 3.5,
+  "stations": [
+    {
+      "Stacode": "TWM1",
+      "Staname": "旗山",
+      "Stalon": 120.43,
+      "Stalat": 22.82,
+      "Dist": 6.57,
+      "AZ": 192.97,
+      "PGA(V)": 0.54,
+      "PGA(NS)": 1.5,
+      "PGA(EW)": 0.9
+    },
+    {
+      "Stacode": "SGL",
+      "Staname": "九如",
+      "Stalon": 120.5,
+      "Stalat": 22.72,
+      "Dist": 9.53,
+      "AZ": 297.68,
+      "PGA(V)": 0.36,
+      "PGA(NS)": 0.9,
+      "PGA(EW)": 0.66
+    },
+    {
+      "Stacode": "SPT",
+      "Staname": "屏東市",
+      "Stalon": 120.5,
+      "Stalat": 22.68,
+      "Dist": 12.62,
+      "AZ": 319.72,
+      "PGA(V)": 1.2,
+      "PGA(NS)": 1.2,
+      "PGA(EW)": 1.14
+    },
+    {
+      "Stacode": "SSD",
+      "Staname": "三地門",
+      "Stalon": 120.64,
+      "Stalat": 22.74,
+      "Dist": 23.09,
+      "AZ": 275.33,
+      "PGA(V)": 1.91,
+      "PGA(NS)": 1.74,
+      "PGA(EW)": 1.56
+    },
+    {
+      "Stacode": "KAU",
+      "Staname": "高雄市",
+      "Stalon": 120.32,
+      "Stalat": 22.57,
+      "Dist": 24.18,
+      "AZ": 25.29,
+      "PGA(V)": 0.96,
+      "PGA(NS)": 1.38,
+      "PGA(EW)": 1.14
+    },
+    {
+      "Stacode": "SCL",
+      "Staname": "佳里",
+      "Stalon": 120.2,
+      "Stalat": 23.17,
+      "Dist": 50.44,
+      "AZ": 154.13,
+      "PGA(V)": 0.3,
+      "PGA(NS)": 2.03,
+      "PGA(EW)": 0.84
+    },
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 54.28,
+      "AZ": 141.41,
+      "PGA(V)": 0.84,
+      "PGA(NS)": 1.5,
+      "PGA(EW)": 1.14
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+    "event_id": "2023_066",
+    "timestamp": "2023-09-06T13:21:37",
+    "epicenter_latitude": 22.9,
+    "epicenter_longitude": 120.68,
+    "depth_km": 5.8,
+    "magnitude": 4.4,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "善化",
+            "latitude": 23.14,
+            "longitude": 120.29,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SSH",
+            "distance_km": 48.08,
+            "pga_v": 0.64,
+            "pga_ns": 0.81,
+            "pga_ew": 0.79,
+            "pgv_v": 0.03,
+            "pgv_ns": 0.05,
+            "pgv_ew": 0.05
+        }
+    ]
+}

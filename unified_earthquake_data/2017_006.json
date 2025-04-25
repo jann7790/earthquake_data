@@ -1,0 +1,57 @@
+{
+    "event_id": "2017_006",
+    "timestamp": "2017-01-13T01:46:42",
+    "epicenter_latitude": 23.11,
+    "epicenter_longitude": 120.67,
+    "depth_km": 8.1,
+    "magnitude": 3.9,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "東山",
+            "latitude": 23.26,
+            "longitude": 120.5,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "TWL",
+            "distance_km": 24.19,
+            "pga_v": 0.66,
+            "pga_ns": 0.72,
+            "pga_ew": 1.02,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "新化",
+            "latitude": 23.08,
+            "longitude": 120.36,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "CHN3",
+            "distance_km": 32.02,
+            "pga_v": 0.48,
+            "pga_ns": 1.08,
+            "pga_ew": 0.9,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "臺南市",
+            "latitude": 22.99,
+            "longitude": 120.21,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "TAI",
+            "distance_km": 49.94,
+            "pga_v": 0.54,
+            "pga_ns": 0.84,
+            "pga_ew": 0.9,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

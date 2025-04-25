@@ -1,0 +1,27 @@
+{
+    "event_id": "2019061906501033_regional",
+    "timestamp": "2019-06-19 06:50:10",
+    "epicenter_latitude": "23.91",
+    "epicenter_longitude": "120.77",
+    "depth_km": null,
+    "magnitude": "3.3",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "烏石坑",
+            "latitude": "24.2777",
+            "longitude": "120.9458",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

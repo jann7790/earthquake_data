@@ -1,0 +1,109 @@
+{
+  "earthquake_id": "016",
+  "timestamp": "2017-03-24T01:09:25",
+  "latitude": 23.42,
+  "longitude": 120.48,
+  "depth_km": 6.2,
+  "magnitude": 3.5,
+  "stations": [
+    {
+      "Stacode": "CHY",
+      "Staname": "嘉義市",
+      "Stalon": 120.43,
+      "Stalat": 23.5,
+      "Dist": 9.36,
+      "AZ": 152.04,
+      "PGA(V)": 5.44,
+      "PGA(NS)": 9.21,
+      "PGA(EW)": 11.13
+    },
+    {
+      "Stacode": "CHN4",
+      "Staname": "草山",
+      "Stalon": 120.59,
+      "Stalat": 23.35,
+      "Dist": 14.37,
+      "AZ": 302.67,
+      "PGA(V)": 1.5,
+      "PGA(NS)": 1.56,
+      "PGA(EW)": 1.68
+    },
+    {
+      "Stacode": "WTP",
+      "Staname": "大埔",
+      "Stalon": 120.62,
+      "Stalat": 23.24,
+      "Dist": 24.73,
+      "AZ": 322.69,
+      "PGA(V)": 0.24,
+      "PGA(NS)": 1.68,
+      "PGA(EW)": 1.32
+    },
+    {
+      "Stacode": "CHN7",
+      "Staname": "六腳",
+      "Stalon": 120.24,
+      "Stalat": 23.48,
+      "Dist": 25.08,
+      "AZ": 105.88,
+      "PGA(V)": 1.32,
+      "PGA(NS)": 1.32,
+      "PGA(EW)": 1.91
+    },
+    {
+      "Stacode": "CHN1",
+      "Staname": "楠西",
+      "Stalon": 120.53,
+      "Stalat": 23.19,
+      "Dist": 26.72,
+      "AZ": 348.33,
+      "PGA(V)": 0.84,
+      "PGA(NS)": 1.02,
+      "PGA(EW)": 0.72
+    },
+    {
+      "Stacode": "WGK",
+      "Staname": "古坑",
+      "Stalon": 120.57,
+      "Stalat": 23.68,
+      "Dist": 30.7,
+      "AZ": 198.34,
+      "PGA(V)": 1.56,
+      "PGA(NS)": 0.66,
+      "PGA(EW)": 0.9
+    },
+    {
+      "Stacode": "WSF",
+      "Staname": "四湖",
+      "Stalon": 120.23,
+      "Stalat": 23.64,
+      "Dist": 34.6,
+      "AZ": 133.48,
+      "PGA(V)": 1.97,
+      "PGA(NS)": 3.47,
+      "PGA(EW)": 1.68
+    },
+    {
+      "Stacode": "SSH",
+      "Staname": "善化",
+      "Stalon": 120.29,
+      "Stalat": 23.14,
+      "Dist": 36.94,
+      "AZ": 31.27,
+      "PGA(V)": 1.44,
+      "PGA(NS)": 0.48,
+      "PGA(EW)": 0.78
+    },
+    {
+      "Stacode": "SCL",
+      "Staname": "佳里",
+      "Stalon": 120.2,
+      "Stalat": 23.17,
+      "Dist": 39.22,
+      "AZ": 45.59,
+      "PGA(V)": 0.3,
+      "PGA(NS)": 0.6,
+      "PGA(EW)": 1.2
+    }
+  ]
+}

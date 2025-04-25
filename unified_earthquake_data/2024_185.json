@@ -1,0 +1,11 @@
+{
+    "event_id": "2024_185",
+    "timestamp": "2024-04-09T15:40:11",
+    "epicenter_latitude": 23.84,
+    "epicenter_longitude": 121.54,
+    "depth_km": 7.2,
+    "magnitude": 4.2,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": []
+}

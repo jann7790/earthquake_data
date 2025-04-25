@@ -1,0 +1,27 @@
+{
+    "event_id": "2022122207074234_regional",
+    "timestamp": "2022-12-22 07:07:42",
+    "epicenter_latitude": "23.2762",
+    "epicenter_longitude": "120.4887",
+    "depth_km": null,
+    "magnitude": "3.4",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "東山",
+            "latitude": "23.265",
+            "longitude": "120.4999",
+            "county": "臺南市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

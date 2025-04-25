@@ -1,0 +1,11 @@
+{
+    "event_id": "2022_052",
+    "timestamp": "2022-04-28T08:42:44",
+    "epicenter_latitude": 23.16,
+    "epicenter_longitude": 120.84,
+    "depth_km": 4.2,
+    "magnitude": 4.1,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": []
+}

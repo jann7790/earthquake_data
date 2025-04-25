@@ -5,34 +5,6 @@
   "max_intensity": "2",
   "locations": [
     {
-      "latitude": "22.7443",
-      "longitude": "120.64",
-      "county": "屏東縣",
-      "intensity": "2",
-      "location_name": "三地門"
-    },
-    {
-      "latitude": "22.7234",
-      "longitude": "120.4987",
-      "county": "屏東縣",
-      "intensity": "1",
-      "location_name": "九如"
-    },
-    {
-      "latitude": "22.7054",
-      "longitude": "120.6447",
-      "county": "屏東縣",
-      "intensity": "1",
-      "location_name": "瑪家"
-    },
-    {
-      "latitude": "22.6767",
-      "longitude": "120.4961",
-      "county": "屏東縣",
-      "intensity": "1",
-      "location_name": "屏東市"
-    },
-    {
       "latitude": "23.0213",
       "longitude": "120.3479",
       "county": "臺南市",

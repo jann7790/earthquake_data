@@ -1,0 +1,27 @@
+{
+    "event_id": "2018_134",
+    "timestamp": "2018-12-10T18:58:07",
+    "epicenter_latitude": 23.06,
+    "epicenter_longitude": 121.34,
+    "depth_km": 18.8,
+    "magnitude": 4.6,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "佳里",
+            "latitude": 23.17,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "SCL",
+            "distance_km": 117.04,
+            "pga_v": 0.13,
+            "pga_ns": 0.59,
+            "pga_ew": 0.89,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

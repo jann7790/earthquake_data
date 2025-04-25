@@ -1,0 +1,57 @@
+{
+    "event_id": "2019_035",
+    "timestamp": "2019-05-03T05:47:43",
+    "epicenter_latitude": 24.83,
+    "epicenter_longitude": 121.91,
+    "depth_km": 101.1,
+    "magnitude": 4.3,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "臺北市",
+            "latitude": 25.04,
+            "longitude": 121.51,
+            "county": "臺北市",
+            "intensity": null,
+            "station_code": "TAP",
+            "distance_km": 46.55,
+            "pga_v": 1.74,
+            "pga_ns": 0.42,
+            "pga_ew": 0.34,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "新竹市",
+            "latitude": 24.78,
+            "longitude": 121.02,
+            "county": "新竹市",
+            "intensity": null,
+            "station_code": "HSN1",
+            "distance_km": 90.62,
+            "pga_v": 0.55,
+            "pga_ns": 0.77,
+            "pga_ew": 0.86,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "烏石坑",
+            "latitude": 24.28,
+            "longitude": 120.95,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WHP",
+            "distance_km": 115.31,
+            "pga_v": 1.49,
+            "pga_ns": 1.36,
+            "pga_ew": 0.97,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

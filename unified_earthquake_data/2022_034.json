@@ -1,0 +1,27 @@
+{
+    "event_id": "2022_034",
+    "timestamp": "2022-03-28T17:00:26",
+    "epicenter_latitude": 23.11,
+    "epicenter_longitude": 121.32,
+    "depth_km": 16.8,
+    "magnitude": 4.6,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "新化",
+            "latitude": 23.02,
+            "longitude": 120.35,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SHH",
+            "distance_km": 99.78,
+            "pga_v": 0.37,
+            "pga_ns": 0.74,
+            "pga_ew": 0.75,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.04,
+            "pgv_ew": 0.05
+        }
+    ]
+}

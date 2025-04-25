@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "118",
+  "timestamp": "2014-09-26T19:44:34",
+  "latitude": 23.9,
+  "longitude": 121.5,
+  "depth_km": 30.7,
+  "magnitude": 4.4,
+  "stations": [
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 51.22,
+      "AZ": 138.31,
+      "PGA(V)": 1.02,
+      "PGA(NS)": 2.93,
+      "PGA(EW)": 1.68,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "TCU",
+      "Staname": "臺中市",
+      "Stalon": 120.68,
+      "Stalat": 24.15,
+      "Dist": 86.89,
+      "AZ": 107.97,
+      "PGA(V)": 0.3,
+      "PGA(NS)": 1.14,
+      "PGA(EW)": 0.78,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "WDD",
+      "Staname": "大肚",
+      "Stalon": 120.56,
+      "Stalat": 24.13,
+      "Dist": 98.96,
+      "AZ": 104.99,
+      "PGA(V)": 0.78,
+      "PGA(NS)": 1.14,
+      "PGA(EW)": 0.96,
+      "City": "臺中市"
+    }
+  ]
+}

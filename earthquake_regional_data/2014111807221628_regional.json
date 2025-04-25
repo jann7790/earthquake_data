@@ -10,13 +10,6 @@
       "county": "臺北市",
       "intensity": "3",
       "location_name": "陽明山"
-    },
-    {
-      "latitude": "25.1014",
-      "longitude": "121.4234",
-      "county": "新北市",
-      "intensity": "1",
-      "location_name": "五股"
     }
   ]
 }

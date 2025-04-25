@@ -1,0 +1,27 @@
+{
+    "event_id": "2014_022",
+    "timestamp": "2014-02-08T01:39:31",
+    "epicenter_latitude": 24.7,
+    "epicenter_longitude": 121.11,
+    "depth_km": 8.4,
+    "magnitude": 3.4,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "新竹市",
+            "latitude": 24.78,
+            "longitude": 121.02,
+            "county": "新竹市",
+            "intensity": null,
+            "station_code": "HSN1",
+            "distance_km": 12.76,
+            "pga_v": 1.02,
+            "pga_ns": 1.62,
+            "pga_ew": 2.63,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

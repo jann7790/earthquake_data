@@ -1,0 +1,72 @@
+{
+    "event_id": "2023_022",
+    "timestamp": "2023-03-22T23:43:05",
+    "epicenter_latitude": 23.65,
+    "epicenter_longitude": 121.31,
+    "depth_km": 6.5,
+    "magnitude": 4.7,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "梨山",
+            "latitude": 24.25,
+            "longitude": 121.24,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "FUSS",
+            "distance_km": 66.8,
+            "pga_v": 0.39,
+            "pga_ns": 0.9,
+            "pga_ew": 0.87,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.04,
+            "pgv_ew": 0.03
+        },
+        {
+            "location_name": "善化",
+            "latitude": 23.14,
+            "longitude": 120.29,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SSH",
+            "distance_km": 119.14,
+            "pga_v": 0.37,
+            "pga_ns": 0.78,
+            "pga_ew": 0.86,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.07,
+            "pgv_ew": 0.08
+        },
+        {
+            "location_name": "佳里",
+            "latitude": 23.17,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SCL",
+            "distance_km": 125.13,
+            "pga_v": 0.21,
+            "pga_ns": 0.97,
+            "pga_ew": 0.77,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.07,
+            "pgv_ew": 0.06
+        },
+        {
+            "location_name": "七股",
+            "latitude": 23.15,
+            "longitude": 120.09,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SCK",
+            "distance_km": 137.14,
+            "pga_v": 0.28,
+            "pga_ns": 0.88,
+            "pga_ew": 0.85,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.05,
+            "pgv_ew": 0.05
+        }
+    ]
+}

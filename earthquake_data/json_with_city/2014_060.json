@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "060",
+  "timestamp": "2014-04-26T00:33:05",
+  "latitude": 23.55,
+  "longitude": 121.35,
+  "depth_km": 17.6,
+  "magnitude": 4.7,
+  "stations": [
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 79.96,
+      "AZ": 166.26,
+      "PGA(V)": 0.54,
+      "PGA(NS)": 1.14,
+      "PGA(EW)": 0.84,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "SSH",
+      "Staname": "善化",
+      "Stalon": 120.29,
+      "Stalat": 23.14,
+      "Dist": 117.55,
+      "AZ": 67.19,
+      "PGA(V)": 0.36,
+      "PGA(NS)": 0.66,
+      "PGA(EW)": 0.84,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 136.44,
+      "AZ": 71.01,
+      "PGA(V)": 0.36,
+      "PGA(NS)": 0.96,
+      "PGA(EW)": 1.08,
+      "City": "臺南市"
+    }
+  ]
+}

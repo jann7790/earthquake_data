@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "030",
+  "timestamp": "2021-04-28T06:10:51",
+  "latitude": 23.15,
+  "longitude": 120.92,
+  "depth_km": 1.6,
+  "magnitude": 4.8,
+  "stations": [
+    {
+      "Stacode": "TWL",
+      "Staname": "東山",
+      "Stalon": 120.5,
+      "Stalat": 23.26,
+      "Dist": 44.71,
+      "AZ": 106.47,
+      "PGA(V)": 0.52,
+      "PGA(NS)": 0.74,
+      "PGA(EW)": 1.01,
+      "PGV(V)": 0.08,
+      "PGV(NS)": 0.07,
+      "PGV(EW)": 0.11,
+      "Int": 1,
+      "PGA(SUM)": 1.18,
+      "PGV(SUM)": 0.14,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SHH",
+      "Staname": "新化",
+      "Stalon": 120.35,
+      "Stalat": 23.02,
+      "Dist": 60.21,
+      "AZ": 76.27,
+      "PGA(V)": 0.52,
+      "PGA(NS)": 1.15,
+      "PGA(EW)": 1.14,
+      "PGV(V)": 0.07,
+      "PGV(NS)": 0.1,
+      "PGV(EW)": 0.12,
+      "Int": 1,
+      "PGA(SUM)": 1.29,
+      "PGV(SUM)": 0.13,
+      "City": "臺南市"
+    }
+  ]
+}

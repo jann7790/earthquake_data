@@ -1,0 +1,27 @@
+{
+    "event_id": "2024040413534734_regional",
+    "timestamp": "2024-04-04 13:53:47",
+    "epicenter_latitude": "23.3632",
+    "epicenter_longitude": "120.2098",
+    "depth_km": null,
+    "magnitude": "3.4",
+    "max_intensity_observed": "4",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "佳里",
+            "latitude": "23.1743",
+            "longitude": "120.2018",
+            "county": "臺南市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

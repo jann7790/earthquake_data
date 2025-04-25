@@ -1,0 +1,11 @@
+{
+    "event_id": "2024_225",
+    "timestamp": "2024-04-22T18:46:11",
+    "epicenter_latitude": 23.74,
+    "epicenter_longitude": 121.53,
+    "depth_km": 9.6,
+    "magnitude": 4.8,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": []
+}

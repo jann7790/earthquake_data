@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "197",
+  "timestamp": "2024-04-12T22:20:01",
+  "latitude": 22.36,
+  "longitude": 121.63,
+  "depth_km": 14.5,
+  "magnitude": 4.7,
+  "stations": [
+    {
+      "Stacode": "C015",
+      "Staname": "白河",
+      "Stalon": 120.41,
+      "Stalat": 23.35,
+      "Dist": 166.02,
+      "BAZ": 131.31,
+      "PGA(V)": 0.44,
+      "PGA(NS)": 0.69,
+      "PGA(EW)": 0.82,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.04,
+      "PGV(EW)": 0.05,
+      "Int": 1,
+      "PGA(SUM)": 0.82,
+      "PGV(SUM)": 0.05,
+      "City": "臺南市"
+    }
+  ]
+}

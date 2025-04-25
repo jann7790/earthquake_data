@@ -1,0 +1,72 @@
+{
+    "event_id": "2020_058",
+    "timestamp": "2020-10-05T10:05:05",
+    "epicenter_latitude": 23.2,
+    "epicenter_longitude": 120.82,
+    "depth_km": 6.6,
+    "magnitude": 4.5,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "東山",
+            "latitude": 23.26,
+            "longitude": 120.5,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "TWL",
+            "distance_km": 33.65,
+            "pga_v": 1.35,
+            "pga_ns": 0.78,
+            "pga_ew": 1.1,
+            "pgv_v": 0.05,
+            "pgv_ns": 0.04,
+            "pgv_ew": 0.04
+        },
+        {
+            "location_name": "善化",
+            "latitude": 23.14,
+            "longitude": 120.29,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SSH",
+            "distance_km": 55.04,
+            "pga_v": 0.65,
+            "pga_ns": 1.61,
+            "pga_ew": 1.06,
+            "pgv_v": 0.03,
+            "pgv_ns": 0.09,
+            "pgv_ew": 0.06
+        },
+        {
+            "location_name": "臺南市",
+            "latitude": 23.0,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "TAI",
+            "distance_km": 67.83,
+            "pga_v": 0.75,
+            "pga_ns": 0.67,
+            "pga_ew": 0.65,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.03,
+            "pgv_ew": 0.04
+        },
+        {
+            "location_name": "七股",
+            "latitude": 23.15,
+            "longitude": 120.09,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SCK",
+            "distance_km": 75.44,
+            "pga_v": 0.48,
+            "pga_ns": 1.09,
+            "pga_ew": 0.83,
+            "pgv_v": 0.04,
+            "pgv_ns": 0.08,
+            "pgv_ew": 0.03
+        }
+    ]
+}

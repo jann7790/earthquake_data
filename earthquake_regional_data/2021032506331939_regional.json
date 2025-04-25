@@ -5,48 +5,6 @@
   "max_intensity": "2",
   "locations": [
     {
-      "latitude": "24.8427",
-      "longitude": "121.9438",
-      "county": "宜蘭縣",
-      "intensity": "2",
-      "location_name": "龜山島"
-    },
-    {
-      "latitude": "24.8535",
-      "longitude": "121.8302",
-      "county": "宜蘭縣",
-      "intensity": "2",
-      "location_name": "頭城"
-    },
-    {
-      "latitude": "24.6378",
-      "longitude": "121.5737",
-      "county": "宜蘭縣",
-      "intensity": "1",
-      "location_name": "牛鬥"
-    },
-    {
-      "latitude": "24.634",
-      "longitude": "121.7168",
-      "county": "宜蘭縣",
-      "intensity": "1",
-      "location_name": "冬山"
-    },
-    {
-      "latitude": "25.0068",
-      "longitude": "121.9972",
-      "county": "新北市",
-      "intensity": "2",
-      "location_name": "三貂角"
-    },
-    {
-      "latitude": "24.9719",
-      "longitude": "121.8255",
-      "county": "新北市",
-      "intensity": "1",
-      "location_name": "雙溪"
-    },
-    {
       "latitude": "25.0408",
       "longitude": "121.5692",
       "county": "臺北市",

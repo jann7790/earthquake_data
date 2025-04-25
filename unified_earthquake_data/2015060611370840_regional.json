@@ -1,0 +1,42 @@
+{
+    "event_id": "2015060611370840_regional",
+    "timestamp": "2015-06-06 11:37:08",
+    "epicenter_latitude": "24.24",
+    "epicenter_longitude": "121.06",
+    "depth_km": null,
+    "magnitude": "4",
+    "max_intensity_observed": "3",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": "24.2495",
+            "longitude": "121.1618",
+            "county": "臺中市",
+            "intensity": "3",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "新竹市",
+            "latitude": "24.7786",
+            "longitude": "121.0182",
+            "county": "新竹市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

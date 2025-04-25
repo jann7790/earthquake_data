@@ -1,0 +1,27 @@
+{
+    "event_id": "2020_037",
+    "timestamp": "2020-07-05T07:28:15",
+    "epicenter_latitude": 24.24,
+    "epicenter_longitude": 121.65,
+    "depth_km": 16.7,
+    "magnitude": 4.0,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "TWT",
+            "distance_km": 49.31,
+            "pga_v": 0.99,
+            "pga_ns": 1.76,
+            "pga_ew": 1.55,
+            "pgv_v": 0.03,
+            "pgv_ns": 0.06,
+            "pgv_ew": 0.04
+        }
+    ]
+}

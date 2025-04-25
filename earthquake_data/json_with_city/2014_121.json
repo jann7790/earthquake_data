@@ -1,0 +1,118 @@
+{
+  "earthquake_id": "121",
+  "timestamp": "2014-10-08T02:08:10",
+  "latitude": 23.64,
+  "longitude": 121.58,
+  "depth_km": 33.4,
+  "magnitude": 5.2,
+  "stations": [
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 79.91,
+      "AZ": 147.8,
+      "PGA(V)": 1.44,
+      "PGA(NS)": 4.31,
+      "PGA(EW)": 3.11,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "WWF",
+      "Staname": "霧峰",
+      "Stalon": 120.7,
+      "Stalat": 24.04,
+      "Dist": 100.34,
+      "AZ": 116.5,
+      "PGA(V)": 2.15,
+      "PGA(NS)": 5.08,
+      "PGA(EW)": 3.41,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "WDS",
+      "Staname": "東勢",
+      "Stalon": 120.83,
+      "Stalat": 24.26,
+      "Dist": 102.63,
+      "AZ": 132.0,
+      "PGA(V)": 1.32,
+      "PGA(NS)": 2.81,
+      "PGA(EW)": 2.21,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "TCU",
+      "Staname": "臺中市",
+      "Stalon": 120.68,
+      "Stalat": 24.15,
+      "Dist": 107.13,
+      "AZ": 121.63,
+      "PGA(V)": 1.44,
+      "PGA(NS)": 3.05,
+      "PGA(EW)": 5.62,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "WDD",
+      "Staname": "大肚",
+      "Stalon": 120.56,
+      "Stalat": 24.13,
+      "Dist": 117.78,
+      "AZ": 117.81,
+      "PGA(V)": 2.81,
+      "PGA(NS)": 7.42,
+      "PGA(EW)": 13.22,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "WYP",
+      "Staname": "外埔",
+      "Stalon": 120.65,
+      "Stalat": 24.33,
+      "Dist": 121.69,
+      "AZ": 129.22,
+      "PGA(V)": 0.54,
+      "PGA(NS)": 1.91,
+      "PGA(EW)": 1.38,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "HSN1",
+      "Staname": "新竹市",
+      "Stalon": 121.02,
+      "Stalat": 24.78,
+      "Dist": 138.55,
+      "AZ": 155.69,
+      "PGA(V)": 0.54,
+      "PGA(NS)": 1.2,
+      "PGA(EW)": 1.14,
+      "City": "新竹市"
+    },
+    {
+      "Stacode": "TAP",
+      "Staname": "臺北市",
+      "Stalon": 121.51,
+      "Stalat": 25.04,
+      "Dist": 155.07,
+      "AZ": 177.53,
+      "PGA(V)": 0.6,
+      "PGA(NS)": 1.02,
+      "PGA(EW)": 0.72,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 155.32,
+      "AZ": 179.6,
+      "PGA(V)": 1.97,
+      "PGA(NS)": 1.44,
+      "PGA(EW)": 1.14,
+      "City": "臺北市"
+    }
+  ]
+}

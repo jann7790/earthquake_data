@@ -1,0 +1,9 @@
+{
+  "earthquake_id": "061",
+  "timestamp": "2016-05-12T11:20:51",
+  "latitude": 24.69,
+  "longitude": 121.98,
+  "depth_km": 11.4,
+  "magnitude": 4.6,
+  "stations": []
+}

@@ -1,0 +1,27 @@
+{
+    "event_id": "2015_017",
+    "timestamp": "2015-04-06T19:37:30",
+    "epicenter_latitude": 24.46,
+    "epicenter_longitude": 122.7,
+    "depth_km": 79.4,
+    "magnitude": 5.4,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 157.8,
+            "pga_v": 0.54,
+            "pga_ns": 1.5,
+            "pga_ew": 0.78,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

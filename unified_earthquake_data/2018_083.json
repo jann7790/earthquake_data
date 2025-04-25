@@ -1,0 +1,27 @@
+{
+    "event_id": "2018_083",
+    "timestamp": "2018-04-26T13:44:20",
+    "epicenter_latitude": 22.36,
+    "epicenter_longitude": 121.05,
+    "depth_km": 3.7,
+    "magnitude": 4.6,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "新化",
+            "latitude": 23.08,
+            "longitude": 120.36,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "CHN3",
+            "distance_km": 105.63,
+            "pga_v": 0.48,
+            "pga_ns": 1.44,
+            "pga_ew": 0.96,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

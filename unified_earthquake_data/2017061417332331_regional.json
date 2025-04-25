@@ -1,0 +1,42 @@
+{
+    "event_id": "2017061417332331_regional",
+    "timestamp": "2017-06-14 17:33:23",
+    "epicenter_latitude": "23.17",
+    "epicenter_longitude": "120.05",
+    "depth_km": null,
+    "magnitude": "3.1",
+    "max_intensity_observed": "3",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "七股",
+            "latitude": "23.1466",
+            "longitude": "120.0865",
+            "county": "臺南市",
+            "intensity": "3",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "佳里",
+            "latitude": "23.1743",
+            "longitude": "120.2018",
+            "county": "臺南市",
+            "intensity": "2",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

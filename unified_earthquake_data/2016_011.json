@@ -1,0 +1,57 @@
+{
+    "event_id": "2016_011",
+    "timestamp": "2016-02-09T08:47:00",
+    "epicenter_latitude": 23.89,
+    "epicenter_longitude": 121.69,
+    "depth_km": 5.7,
+    "magnitude": 5.1,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 67.12,
+            "pga_v": 0.72,
+            "pga_ns": 2.09,
+            "pga_ew": 1.56,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "外埔",
+            "latitude": 24.33,
+            "longitude": 120.65,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WYP",
+            "distance_km": 116.52,
+            "pga_v": 0.54,
+            "pga_ns": 0.48,
+            "pga_ew": 0.84,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "大肚",
+            "latitude": 24.13,
+            "longitude": 120.56,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WDD",
+            "distance_km": 118.66,
+            "pga_v": 0.96,
+            "pga_ns": 1.08,
+            "pga_ew": 1.32,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

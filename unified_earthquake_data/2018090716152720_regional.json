@@ -1,0 +1,27 @@
+{
+    "event_id": "2018090716152720_regional",
+    "timestamp": "2018-09-07 16:15:27",
+    "epicenter_latitude": "24.71",
+    "epicenter_longitude": "120.98",
+    "depth_km": null,
+    "magnitude": "2",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "新竹市",
+            "latitude": "24.7786",
+            "longitude": "121.0182",
+            "county": "新竹市",
+            "intensity": "2",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

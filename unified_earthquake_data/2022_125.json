@@ -1,0 +1,42 @@
+{
+    "event_id": "2022_125",
+    "timestamp": "2022-09-18T17:19:34",
+    "epicenter_latitude": 23.37,
+    "epicenter_longitude": 121.35,
+    "depth_km": 13.9,
+    "magnitude": 4.7,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "新化",
+            "latitude": 23.02,
+            "longitude": 120.35,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SHH",
+            "distance_km": 109.19,
+            "pga_v": 0.4,
+            "pga_ns": 0.6,
+            "pga_ew": 0.87,
+            "pgv_v": 0.03,
+            "pgv_ns": 0.05,
+            "pgv_ew": 0.05
+        },
+        {
+            "location_name": "善化",
+            "latitude": 23.14,
+            "longitude": 120.29,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SSH",
+            "distance_km": 111.27,
+            "pga_v": 0.32,
+            "pga_ns": 0.64,
+            "pga_ew": 0.78,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.05,
+            "pgv_ew": 0.07
+        }
+    ]
+}

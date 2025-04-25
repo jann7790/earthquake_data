@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "066",
+  "timestamp": "2023-09-06T13:21:37",
+  "latitude": 22.9,
+  "longitude": 120.68,
+  "depth_km": 5.8,
+  "magnitude": 4.4,
+  "stations": [
+    {
+      "Stacode": "SSH",
+      "Staname": "善化",
+      "Stalon": 120.29,
+      "Stalat": 23.14,
+      "Dist": 48.08,
+      "BAZ": 123.36,
+      "PGA(V)": 0.64,
+      "PGA(NS)": 0.81,
+      "PGA(EW)": 0.79,
+      "PGV(V)": 0.03,
+      "PGV(NS)": 0.05,
+      "PGV(EW)": 0.05,
+      "Int": 1,
+      "PGA(SUM)": 0.97,
+      "PGV(SUM)": 0.06,
+      "City": "臺南市"
+    }
+  ]
+}

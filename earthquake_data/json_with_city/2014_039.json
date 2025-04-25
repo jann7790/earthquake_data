@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "039",
+  "timestamp": "2014-03-14T02:32:18",
+  "latitude": 24.04,
+  "longitude": 120.65,
+  "depth_km": 10.0,
+  "magnitude": 3.6,
+  "stations": [
+    {
+      "Stacode": "WWF",
+      "Staname": "霧峰",
+      "Stalon": 120.7,
+      "Stalat": 24.04,
+      "Dist": 5.44,
+      "AZ": 261.97,
+      "PGA(V)": 7.0,
+      "PGA(NS)": 18.07,
+      "PGA(EW)": 17.23,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "TCU",
+      "Staname": "臺中市",
+      "Stalon": 120.68,
+      "Stalat": 24.15,
+      "Dist": 12.79,
+      "AZ": 197.9,
+      "PGA(V)": 2.03,
+      "PGA(NS)": 3.71,
+      "PGA(EW)": 2.39,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "WDS",
+      "Staname": "東勢",
+      "Stalon": 120.83,
+      "Stalat": 24.26,
+      "Dist": 31.02,
+      "AZ": 217.34,
+      "PGA(V)": 0.48,
+      "PGA(NS)": 0.9,
+      "PGA(EW)": 0.66,
+      "City": "臺中市"
+    }
+  ]
+}

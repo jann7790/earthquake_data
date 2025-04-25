@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "092",
+  "timestamp": "2016-09-05T10:02:00",
+  "latitude": 24.74,
+  "longitude": 121.58,
+  "depth_km": 78.0,
+  "magnitude": 3.7,
+  "stations": [
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 32.94,
+      "AZ": 178.69,
+      "PGA(V)": 0.84,
+      "PGA(NS)": 0.42,
+      "PGA(EW)": 0.42,
+      "City": "臺北市"
+    }
+  ]
+}

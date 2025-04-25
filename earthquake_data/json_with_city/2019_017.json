@@ -1,0 +1,142 @@
+{
+  "earthquake_id": "017",
+  "timestamp": "2019-03-13T12:32:34",
+  "latitude": 23.6,
+  "longitude": 121.59,
+  "depth_km": 35.9,
+  "magnitude": 5.4,
+  "stations": [
+    {
+      "Stacode": "WWF",
+      "Staname": "霧峰",
+      "Stalon": 120.7,
+      "Stalat": 24.04,
+      "Dist": 103.38,
+      "AZ": 118.66,
+      "PGA(V)": 3.16,
+      "PGA(NS)": 5.36,
+      "PGA(EW)": 5.33,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "TCU",
+      "Staname": "臺中市",
+      "Stalon": 120.68,
+      "Stalat": 24.15,
+      "Dist": 110.48,
+      "AZ": 123.51,
+      "PGA(V)": 1.27,
+      "PGA(NS)": 3.46,
+      "PGA(EW)": 3.58,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "TWL",
+      "Staname": "東山",
+      "Stalon": 120.5,
+      "Stalat": 23.26,
+      "Dist": 117.11,
+      "AZ": 71.8,
+      "PGA(V)": 1.23,
+      "PGA(NS)": 1.85,
+      "PGA(EW)": 2.01,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "WDJ",
+      "Staname": "大甲",
+      "Stalon": 120.64,
+      "Stalat": 24.35,
+      "Dist": 127.54,
+      "AZ": 130.82,
+      "PGA(V)": 1.89,
+      "PGA(NS)": 3.41,
+      "PGA(EW)": 2.29,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "SSH",
+      "Staname": "善化",
+      "Stalon": 120.29,
+      "Stalat": 23.14,
+      "Dist": 142.35,
+      "AZ": 69.08,
+      "PGA(V)": 0.66,
+      "PGA(NS)": 1.79,
+      "PGA(EW)": 2.13,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "HSN1",
+      "Staname": "新竹市",
+      "Stalon": 121.02,
+      "Stalat": 24.78,
+      "Dist": 143.28,
+      "AZ": 156.13,
+      "PGA(V)": 0.81,
+      "PGA(NS)": 0.96,
+      "PGA(EW)": 0.69,
+      "City": "新竹市"
+    },
+    {
+      "Stacode": "SCL",
+      "Staname": "佳里",
+      "Stalon": 120.2,
+      "Stalat": 23.17,
+      "Dist": 149.26,
+      "AZ": 71.78,
+      "PGA(V)": 0.43,
+      "PGA(NS)": 1.42,
+      "PGA(EW)": 1.56,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "TAI1",
+      "Staname": "永康",
+      "Stalon": 120.24,
+      "Stalat": 23.04,
+      "Dist": 151.43,
+      "AZ": 65.96,
+      "PGA(V)": 0.58,
+      "PGA(NS)": 1.39,
+      "PGA(EW)": 1.09,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "TAI",
+      "Staname": "臺南市",
+      "Stalon": 120.2,
+      "Stalat": 23.0,
+      "Dist": 157.08,
+      "AZ": 64.98,
+      "PGA(V)": 0.7,
+      "PGA(NS)": 0.91,
+      "PGA(EW)": 0.7,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 159.98,
+      "AZ": 179.3,
+      "PGA(V)": 1.03,
+      "PGA(NS)": 0.68,
+      "PGA(EW)": 0.88,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 161.39,
+      "AZ": 72.08,
+      "PGA(V)": 0.6,
+      "PGA(NS)": 2.55,
+      "PGA(EW)": 1.44,
+      "City": "臺南市"
+    }
+  ]
+}

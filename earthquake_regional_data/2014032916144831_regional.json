@@ -24,20 +24,6 @@
       "county": "臺南市",
       "intensity": "1",
       "location_name": "七股"
-    },
-    {
-      "latitude": "23.6844",
-      "longitude": "120.5703",
-      "county": "雲林縣",
-      "intensity": "1",
-      "location_name": "古坑"
-    },
-    {
-      "latitude": "23.6363",
-      "longitude": "120.2298",
-      "county": "雲林縣",
-      "intensity": "1",
-      "location_name": "四湖"
     }
   ]
 }

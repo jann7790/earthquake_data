@@ -1,0 +1,9 @@
+{
+  "earthquake_id": "052",
+  "timestamp": "2022-04-28T08:42:44",
+  "latitude": 23.16,
+  "longitude": 120.84,
+  "depth_km": 4.2,
+  "magnitude": 4.1,
+  "stations": []
+}

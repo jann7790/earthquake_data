@@ -1,0 +1,57 @@
+{
+    "event_id": "2024_491",
+    "timestamp": "2024-11-09T19:42:08",
+    "epicenter_latitude": 23.42,
+    "epicenter_longitude": 120.48,
+    "depth_km": 5.9,
+    "magnitude": 4.5,
+    "max_intensity_observed": 3,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "白河",
+            "latitude": 23.35,
+            "longitude": 120.41,
+            "county": "臺南市",
+            "intensity": 3,
+            "station_code": "C015",
+            "distance_km": 9.77,
+            "pga_v": 12.3,
+            "pga_ns": 13.28,
+            "pga_ew": 17.46,
+            "pgv_v": 0.29,
+            "pgv_ns": 0.87,
+            "pgv_ew": 0.58
+        },
+        {
+            "location_name": "佳里",
+            "latitude": 23.17,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SCL",
+            "distance_km": 39.14,
+            "pga_v": 1.23,
+            "pga_ns": 1.3,
+            "pga_ew": 2.23,
+            "pgv_v": 0.06,
+            "pgv_ns": 0.1,
+            "pgv_ew": 0.11
+        },
+        {
+            "location_name": "新化",
+            "latitude": 23.02,
+            "longitude": 120.35,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SHH",
+            "distance_km": 45.73,
+            "pga_v": 0.43,
+            "pga_ns": 0.88,
+            "pga_ew": 0.88,
+            "pgv_v": 0.03,
+            "pgv_ns": 0.06,
+            "pgv_ew": 0.08
+        }
+    ]
+}

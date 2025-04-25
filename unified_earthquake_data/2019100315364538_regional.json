@@ -1,0 +1,27 @@
+{
+    "event_id": "2019100315364538_regional",
+    "timestamp": "2019-10-03 15:36:45",
+    "epicenter_latitude": "23.05",
+    "epicenter_longitude": "121.12",
+    "depth_km": null,
+    "magnitude": "3.8",
+    "max_intensity_observed": "3",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "楠西",
+            "latitude": "23.1849",
+            "longitude": "120.5286",
+            "county": "臺南市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

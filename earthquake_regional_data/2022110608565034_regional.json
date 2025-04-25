@@ -5,69 +5,6 @@
   "max_intensity": "2",
   "locations": [
     {
-      "latitude": "23.9659",
-      "longitude": "121.4928",
-      "county": "花蓮縣",
-      "intensity": "2",
-      "location_name": "銅門"
-    },
-    {
-      "latitude": "23.9035",
-      "longitude": "121.6017",
-      "county": "花蓮縣",
-      "intensity": "1",
-      "location_name": "鹽寮"
-    },
-    {
-      "latitude": "23.9751",
-      "longitude": "121.6138",
-      "county": "花蓮縣",
-      "intensity": "1",
-      "location_name": "花蓮市"
-    },
-    {
-      "latitude": "23.6689",
-      "longitude": "121.4275",
-      "county": "花蓮縣",
-      "intensity": "1",
-      "location_name": "光復"
-    },
-    {
-      "latitude": "23.812",
-      "longitude": "121.4416",
-      "county": "花蓮縣",
-      "intensity": "1",
-      "location_name": "西林"
-    },
-    {
-      "latitude": "24.1587",
-      "longitude": "121.6229",
-      "county": "花蓮縣",
-      "intensity": "1",
-      "location_name": "太魯閣"
-    },
-    {
-      "latitude": "24.2068",
-      "longitude": "121.4818",
-      "county": "花蓮縣",
-      "intensity": "1",
-      "location_name": "西寶"
-    },
-    {
-      "latitude": "23.9545",
-      "longitude": "121.1759",
-      "county": "南投縣",
-      "intensity": "1",
-      "location_name": "奧萬大"
-    },
-    {
-      "latitude": "24.1434",
-      "longitude": "121.2725",
-      "county": "南投縣",
-      "intensity": "1",
-      "location_name": "合歡山"
-    },
-    {
       "latitude": "24.2475",
       "longitude": "121.2437",
       "county": "臺中市",

@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "100",
+  "timestamp": "2022-09-18T06:05:48",
+  "latitude": 23.17,
+  "longitude": 120.69,
+  "depth_km": 13.7,
+  "magnitude": 4.2,
+  "stations": [
+    {
+      "Stacode": "TWL",
+      "Staname": "東山",
+      "Stalon": 120.5,
+      "Stalat": 23.26,
+      "Dist": 21.96,
+      "AZ": 298.5,
+      "PGA(V)": 0.56,
+      "PGA(NS)": 0.79,
+      "PGA(EW)": 1.01,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.03,
+      "PGV(EW)": 0.03,
+      "Int": 1,
+      "PGA(SUM)": 1.04,
+      "PGV(SUM)": 0.04,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SHH",
+      "Staname": "新化",
+      "Stalon": 120.35,
+      "Stalat": 23.02,
+      "Dist": 38.59,
+      "AZ": 244.71,
+      "PGA(V)": 0.56,
+      "PGA(NS)": 0.69,
+      "PGA(EW)": 0.8,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.04,
+      "PGV(EW)": 0.04,
+      "Int": 1,
+      "PGA(SUM)": 0.9,
+      "PGV(SUM)": 0.04,
+      "City": "臺南市"
+    }
+  ]
+}

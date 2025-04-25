@@ -1,0 +1,72 @@
+{
+    "event_id": "2023_013",
+    "timestamp": "2023-02-21T19:01:42",
+    "epicenter_latitude": 23.52,
+    "epicenter_longitude": 121.66,
+    "depth_km": 31.3,
+    "magnitude": 4.8,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "梨山",
+            "latitude": 24.25,
+            "longitude": 121.24,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "FUSS",
+            "distance_km": 91.36,
+            "pga_v": 0.54,
+            "pga_ns": 1.08,
+            "pga_ew": 1.49,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.04,
+            "pgv_ew": 0.05
+        },
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "TWT",
+            "distance_km": 95.71,
+            "pga_v": 0.81,
+            "pga_ns": 1.17,
+            "pga_ew": 0.75,
+            "pgv_v": 0.03,
+            "pgv_ns": 0.08,
+            "pgv_ew": 0.05
+        },
+        {
+            "location_name": "霧峰",
+            "latitude": 24.04,
+            "longitude": 120.7,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "WWF",
+            "distance_km": 114.06,
+            "pga_v": 0.72,
+            "pga_ns": 0.96,
+            "pga_ew": 0.58,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.03,
+            "pgv_ew": 0.02
+        },
+        {
+            "location_name": "善化",
+            "latitude": 23.14,
+            "longitude": 120.29,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SSH",
+            "distance_km": 146.59,
+            "pga_v": 0.18,
+            "pga_ns": 0.47,
+            "pga_ew": 0.73,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.03,
+            "pgv_ew": 0.04
+        }
+    ]
+}

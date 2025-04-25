@@ -1,0 +1,27 @@
+{
+    "event_id": "2024121909291845_regional",
+    "timestamp": "2024-12-19 09:29:18",
+    "epicenter_latitude": "24.2647",
+    "epicenter_longitude": "122.3312",
+    "depth_km": null,
+    "magnitude": "4.5",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": "24.2495",
+            "longitude": "121.1618",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "event_id": "2022_028",
+    "timestamp": "2022-03-23T12:25:48",
+    "epicenter_latitude": 23.45,
+    "epicenter_longitude": 121.46,
+    "depth_km": 24.2,
+    "magnitude": 4.6,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": []
+}

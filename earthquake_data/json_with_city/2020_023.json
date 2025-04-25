@@ -1,0 +1,9 @@
+{
+  "earthquake_id": "023",
+  "timestamp": "2020-04-27T19:16:48",
+  "latitude": 23.11,
+  "longitude": 120.91,
+  "depth_km": 2.7,
+  "magnitude": 4.4,
+  "stations": []
+}

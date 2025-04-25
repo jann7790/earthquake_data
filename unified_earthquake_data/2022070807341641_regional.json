@@ -1,0 +1,42 @@
+{
+    "event_id": "2022070807341641_regional",
+    "timestamp": "2022-07-08 07:34:16",
+    "epicenter_latitude": "23.8608",
+    "epicenter_longitude": "121.0718",
+    "depth_km": null,
+    "magnitude": "4.1",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "大甲",
+            "latitude": "24.3477",
+            "longitude": "120.6404",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "梧棲",
+            "latitude": "24.2566",
+            "longitude": "120.5234",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

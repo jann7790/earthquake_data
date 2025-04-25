@@ -1,0 +1,27 @@
+{
+    "event_id": "2017_026",
+    "timestamp": "2017-06-04T21:24:46",
+    "epicenter_latitude": 24.63,
+    "epicenter_longitude": 122.63,
+    "depth_km": 20.7,
+    "magnitude": 5.1,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 154.88,
+            "pga_v": 0.6,
+            "pga_ns": 1.44,
+            "pga_ew": 0.78,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

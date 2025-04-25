@@ -1,0 +1,57 @@
+{
+    "event_id": "2024_437",
+    "timestamp": "2024-08-02T07:43:04",
+    "epicenter_latitude": 24.01,
+    "epicenter_longitude": 121.28,
+    "depth_km": 3.0,
+    "magnitude": 4.3,
+    "max_intensity_observed": 2,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "梨山",
+            "latitude": 24.25,
+            "longitude": 121.24,
+            "county": "臺中市",
+            "intensity": 2,
+            "station_code": "FUSS",
+            "distance_km": 26.99,
+            "pga_v": 1.54,
+            "pga_ns": 3.39,
+            "pga_ew": 3.8,
+            "pgv_v": 0.03,
+            "pgv_ns": 0.09,
+            "pgv_ew": 0.1
+        },
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": 2,
+            "station_code": "TWT",
+            "distance_km": 29.56,
+            "pga_v": 2.7,
+            "pga_ns": 4.65,
+            "pga_ew": 4.51,
+            "pgv_v": 0.07,
+            "pgv_ns": 0.17,
+            "pgv_ew": 0.18
+        },
+        {
+            "location_name": "烏石坑",
+            "latitude": 24.28,
+            "longitude": 120.95,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "WHP",
+            "distance_km": 45.51,
+            "pga_v": 0.46,
+            "pga_ns": 0.95,
+            "pga_ew": 1.27,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.04,
+            "pgv_ew": 0.03
+        }
+    ]
+}

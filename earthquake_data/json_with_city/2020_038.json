@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "038",
+  "timestamp": "2020-07-09T00:54:32",
+  "latitude": 23.25,
+  "longitude": 121.27,
+  "depth_km": 23.2,
+  "magnitude": 4.6,
+  "stations": [
+    {
+      "Stacode": "SSH",
+      "Staname": "善化",
+      "Stalon": 120.29,
+      "Stalat": 23.14,
+      "Dist": 101.76,
+      "AZ": 83.06,
+      "PGA(V)": 0.2,
+      "PGA(NS)": 0.76,
+      "PGA(EW)": 0.53,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.04,
+      "PGV(EW)": 0.05,
+      "Int": 1,
+      "PGA(SUM)": 0.83,
+      "PGV(SUM)": 0.05,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 122.14,
+      "AZ": 84.78,
+      "PGA(V)": 0.66,
+      "PGA(NS)": 0.75,
+      "PGA(EW)": 0.36,
+      "PGV(V)": 0.12,
+      "PGV(NS)": 0.08,
+      "PGV(EW)": 0.04,
+      "Int": 1,
+      "PGA(SUM)": 0.98,
+      "PGV(SUM)": 0.15,
+      "City": "臺南市"
+    }
+  ]
+}

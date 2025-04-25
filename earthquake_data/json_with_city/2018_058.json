@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "058",
+  "timestamp": "2018-02-10T02:43:09",
+  "latitude": 24.03,
+  "longitude": 121.81,
+  "depth_km": 5.8,
+  "magnitude": 4.7,
+  "stations": [
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 70.59,
+      "AZ": 110.19,
+      "PGA(V)": 0.42,
+      "PGA(NS)": 1.26,
+      "PGA(EW)": 0.6,
+      "City": "臺中市"
+    }
+  ]
+}

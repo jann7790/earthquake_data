@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "012",
+  "timestamp": "2024-03-16T18:45:52",
+  "latitude": 23.2,
+  "longitude": 121.47,
+  "depth_km": 42.4,
+  "magnitude": 4.6,
+  "stations": [
+    {
+      "Stacode": "SSH",
+      "Staname": "善化",
+      "Stalon": 120.29,
+      "Stalat": 23.14,
+      "Dist": 121.11,
+      "BAZ": 86.86,
+      "PGA(V)": 0.52,
+      "PGA(NS)": 0.85,
+      "PGA(EW)": 0.44,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.05,
+      "PGV(EW)": 0.02,
+      "Int": 1,
+      "PGA(SUM)": 0.8,
+      "PGV(SUM)": 0.05,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "WHP",
+      "Staname": "烏石坑",
+      "Stalon": 120.95,
+      "Stalat": 24.28,
+      "Dist": 131.15,
+      "BAZ": 155.99,
+      "PGA(V)": 0.48,
+      "PGA(NS)": 0.63,
+      "PGA(EW)": 0.71,
+      "PGV(V)": 0.03,
+      "PGV(NS)": 0.03,
+      "PGV(EW)": 0.04,
+      "Int": 1,
+      "PGA(SUM)": 0.85,
+      "PGV(SUM)": 0.04,
+      "City": "臺中市"
+    }
+  ]
+}

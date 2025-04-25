@@ -5,13 +5,6 @@
   "max_intensity": "4",
   "locations": [
     {
-      "latitude": "24.4374",
-      "longitude": "121.3813",
-      "county": "宜蘭縣",
-      "intensity": "4",
-      "location_name": "南山"
-    },
-    {
       "latitude": "24.2475",
       "longitude": "121.2437",
       "county": "臺中市",

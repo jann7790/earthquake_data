@@ -1,0 +1,27 @@
+{
+    "event_id": "2024121507564833_regional",
+    "timestamp": "2024-12-15 07:56:48",
+    "epicenter_latitude": "23.9407",
+    "epicenter_longitude": "121.4732",
+    "depth_km": null,
+    "magnitude": "3.3",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "梨山",
+            "latitude": "24.2475",
+            "longitude": "121.2437",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

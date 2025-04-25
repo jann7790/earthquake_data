@@ -1,0 +1,72 @@
+{
+    "event_id": "2023_003",
+    "timestamp": "2023-01-11T12:42:09",
+    "epicenter_latitude": 23.22,
+    "epicenter_longitude": 121.47,
+    "depth_km": 29.2,
+    "magnitude": 4.8,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "東山",
+            "latitude": 23.27,
+            "longitude": 120.5,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "TWL",
+            "distance_km": 98.85,
+            "pga_v": 0.39,
+            "pga_ns": 0.55,
+            "pga_ew": 0.75,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.03,
+            "pgv_ew": 0.03
+        },
+        {
+            "location_name": "新化",
+            "latitude": 23.02,
+            "longitude": 120.35,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SHH",
+            "distance_km": 116.6,
+            "pga_v": 0.42,
+            "pga_ns": 0.8,
+            "pga_ew": 0.78,
+            "pgv_v": 0.03,
+            "pgv_ns": 0.07,
+            "pgv_ew": 0.05
+        },
+        {
+            "location_name": "善化",
+            "latitude": 23.14,
+            "longitude": 120.29,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SSH",
+            "distance_km": 120.87,
+            "pga_v": 0.34,
+            "pga_ns": 1.08,
+            "pga_ew": 0.48,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.06,
+            "pgv_ew": 0.03
+        },
+        {
+            "location_name": "烏石坑",
+            "latitude": 24.28,
+            "longitude": 120.95,
+            "county": "臺中市",
+            "intensity": 1,
+            "station_code": "WHP",
+            "distance_km": 128.09,
+            "pga_v": 0.41,
+            "pga_ns": 0.59,
+            "pga_ew": 0.77,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.03,
+            "pgv_ew": 0.04
+        }
+    ]
+}

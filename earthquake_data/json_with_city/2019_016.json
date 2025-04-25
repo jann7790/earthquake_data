@@ -1,0 +1,94 @@
+{
+  "earthquake_id": "016",
+  "timestamp": "2019-03-13T04:19:15",
+  "latitude": 25.02,
+  "longitude": 121.86,
+  "depth_km": 138.0,
+  "magnitude": 5.3,
+  "stations": [
+    {
+      "Stacode": "TWA",
+      "Staname": "木柵",
+      "Stalon": 121.59,
+      "Stalat": 24.98,
+      "Dist": 26.93,
+      "AZ": 80.56,
+      "PGA(V)": 1.12,
+      "PGA(NS)": 1.46,
+      "PGA(EW)": 1.78,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 28.98,
+      "AZ": 94.74,
+      "PGA(V)": 2.81,
+      "PGA(NS)": 1.56,
+      "PGA(EW)": 2.13,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "TAP",
+      "Staname": "臺北市",
+      "Stalon": 121.51,
+      "Stalat": 25.04,
+      "Dist": 34.56,
+      "AZ": 93.68,
+      "PGA(V)": 0.99,
+      "PGA(NS)": 1.82,
+      "PGA(EW)": 1.23,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "HSN1",
+      "Staname": "新竹市",
+      "Stalon": 121.02,
+      "Stalat": 24.78,
+      "Dist": 88.68,
+      "AZ": 72.58,
+      "PGA(V)": 1.65,
+      "PGA(NS)": 0.86,
+      "PGA(EW)": 0.86,
+      "City": "新竹市"
+    },
+    {
+      "Stacode": "FUSS",
+      "Staname": "梨山",
+      "Stalon": 121.24,
+      "Stalat": 24.25,
+      "Dist": 105.41,
+      "AZ": 35.98,
+      "PGA(V)": 4.39,
+      "PGA(NS)": 3.03,
+      "PGA(EW)": 2.94,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "WHP",
+      "Staname": "烏石坑",
+      "Stalon": 120.95,
+      "Stalat": 24.28,
+      "Dist": 123.28,
+      "AZ": 48.33,
+      "PGA(V)": 2.19,
+      "PGA(NS)": 1.59,
+      "PGA(EW)": 1.32,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "WDJ",
+      "Staname": "大甲",
+      "Stalon": 120.64,
+      "Stalat": 24.35,
+      "Dist": 143.63,
+      "AZ": 58.9,
+      "PGA(V)": 0.88,
+      "PGA(NS)": 0.18,
+      "PGA(EW)": 0.16,
+      "City": "臺中市"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "001",
+  "timestamp": "2025-01-01T02:52:07",
+  "latitude": 24.3,
+  "longitude": 121.71,
+  "depth_km": 26.6,
+  "magnitude": 4.5,
+  "stations": [
+    {
+      "Stacode": "FUSS",
+      "Staname": "梨山",
+      "Stalon": 121.24,
+      "Stalat": 24.25,
+      "Dist": 47.69,
+      "BAZ": 82.61,
+      "PGA(V)": 0.37,
+      "PGA(NS)": 1.78,
+      "PGA(EW)": 1.0,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.08,
+      "PGV(EW)": 0.04,
+      "Int": 1,
+      "PGA(SUM)": 1.82,
+      "PGV(SUM)": 0.08,
+      "City": "臺中市"
+    }
+  ]
+}

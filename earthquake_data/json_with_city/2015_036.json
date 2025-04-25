@@ -1,0 +1,94 @@
+{
+  "earthquake_id": "036",
+  "timestamp": "2015-07-10T17:38:49",
+  "latitude": 23.22,
+  "longitude": 120.46,
+  "depth_km": 8.6,
+  "magnitude": 4.4,
+  "stations": [
+    {
+      "Stacode": "TWL",
+      "Staname": "東山",
+      "Stalon": 120.5,
+      "Stalat": 23.26,
+      "Dist": 6.42,
+      "AZ": 220.38,
+      "PGA(V)": 4.67,
+      "PGA(NS)": 8.26,
+      "PGA(EW)": 8.91,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "CHN3",
+      "Staname": "新化",
+      "Stalon": 120.36,
+      "Stalat": 23.08,
+      "Dist": 18.8,
+      "AZ": 31.88,
+      "PGA(V)": 5.44,
+      "PGA(NS)": 14.3,
+      "PGA(EW)": 14.0,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SSH",
+      "Staname": "善化",
+      "Stalon": 120.29,
+      "Stalat": 23.14,
+      "Dist": 20.02,
+      "AZ": 62.5,
+      "PGA(V)": 5.2,
+      "PGA(NS)": 16.15,
+      "PGA(EW)": 10.95,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SCL",
+      "Staname": "佳里",
+      "Stalon": 120.2,
+      "Stalat": 23.17,
+      "Dist": 27.1,
+      "AZ": 79.12,
+      "PGA(V)": 2.75,
+      "PGA(NS)": 3.53,
+      "PGA(EW)": 4.13,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "TAI1",
+      "Staname": "永康",
+      "Stalon": 120.24,
+      "Stalat": 23.04,
+      "Dist": 30.59,
+      "AZ": 48.87,
+      "PGA(V)": 1.56,
+      "PGA(NS)": 4.25,
+      "PGA(EW)": 3.41,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "TAI",
+      "Staname": "臺南市",
+      "Stalon": 120.21,
+      "Stalat": 22.99,
+      "Dist": 36.33,
+      "AZ": 46.35,
+      "PGA(V)": 1.79,
+      "PGA(NS)": 2.33,
+      "PGA(EW)": 1.68,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 39.27,
+      "AZ": 78.14,
+      "PGA(V)": 0.96,
+      "PGA(NS)": 1.85,
+      "PGA(EW)": 1.85,
+      "City": "臺南市"
+    }
+  ]
+}

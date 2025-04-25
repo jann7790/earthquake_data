@@ -1,0 +1,9 @@
+{
+  "earthquake_id": "053",
+  "timestamp": "2020-09-29T03:05:08",
+  "latitude": 22.39,
+  "longitude": 121.02,
+  "depth_km": 11.0,
+  "magnitude": 4.4,
+  "stations": []
+}

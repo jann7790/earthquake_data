@@ -1,0 +1,70 @@
+{
+  "earthquake_id": "119",
+  "timestamp": "2018-09-09T21:16:34",
+  "latitude": 23.93,
+  "longitude": 121.61,
+  "depth_km": 44.6,
+  "magnitude": 4.6,
+  "stations": [
+    {
+      "Stacode": "FUSS",
+      "Staname": "梨山",
+      "Stalon": 121.24,
+      "Stalat": 24.25,
+      "Dist": 51.19,
+      "AZ": 132.73,
+      "PGA(V)": 1.75,
+      "PGA(NS)": 10.18,
+      "PGA(EW)": 9.15,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 57.7,
+      "AZ": 127.27,
+      "PGA(V)": 1.25,
+      "PGA(NS)": 4.21,
+      "PGA(EW)": 2.54,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "WHP",
+      "Staname": "烏石坑",
+      "Stalon": 120.95,
+      "Stalat": 24.28,
+      "Dist": 77.84,
+      "AZ": 119.28,
+      "PGA(V)": 1.43,
+      "PGA(NS)": 1.42,
+      "PGA(EW)": 1.53,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "WWF",
+      "Staname": "霧峰",
+      "Stalon": 120.7,
+      "Stalat": 24.04,
+      "Dist": 93.91,
+      "AZ": 97.37,
+      "PGA(V)": 2.26,
+      "PGA(NS)": 0.79,
+      "PGA(EW)": 0.84,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 122.51,
+      "AZ": 177.9,
+      "PGA(V)": 1.18,
+      "PGA(NS)": 1.2,
+      "PGA(EW)": 2.06,
+      "City": "臺北市"
+    }
+  ]
+}

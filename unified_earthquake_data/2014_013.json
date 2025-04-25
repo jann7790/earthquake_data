@@ -1,0 +1,27 @@
+{
+    "event_id": "2014_013",
+    "timestamp": "2014-01-23T00:28:37",
+    "epicenter_latitude": 23.73,
+    "epicenter_longitude": 121.43,
+    "depth_km": 21.8,
+    "magnitude": 4.3,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 63.76,
+            "pga_v": 0.48,
+            "pga_ns": 1.38,
+            "pga_ew": 0.72,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

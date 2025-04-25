@@ -5,27 +5,6 @@
   "max_intensity": "2",
   "locations": [
     {
-      "latitude": "23.6363",
-      "longitude": "120.2298",
-      "county": "雲林縣",
-      "intensity": "2",
-      "location_name": "四湖"
-    },
-    {
-      "latitude": "23.5972",
-      "longitude": "120.6769",
-      "county": "雲林縣",
-      "intensity": "1",
-      "location_name": "草嶺"
-    },
-    {
-      "latitude": "22.0373",
-      "longitude": "121.5581",
-      "county": "臺東縣",
-      "intensity": "2",
-      "location_name": "蘭嶼"
-    },
-    {
       "latitude": "23.1466",
       "longitude": "120.0865",
       "county": "臺南市",
@@ -59,69 +38,6 @@
       "county": "臺南市",
       "intensity": "1",
       "location_name": "永康"
-    },
-    {
-      "latitude": "23.5653",
-      "longitude": "119.5633",
-      "county": "澎湖縣",
-      "intensity": "1",
-      "location_name": "馬公市"
-    },
-    {
-      "latitude": "22.0038",
-      "longitude": "120.746",
-      "county": "屏東縣",
-      "intensity": "1",
-      "location_name": "恆春"
-    },
-    {
-      "latitude": "21.9009",
-      "longitude": "120.8551",
-      "county": "屏東縣",
-      "intensity": "1",
-      "location_name": "鵝鑾鼻"
-    },
-    {
-      "latitude": "21.9598",
-      "longitude": "120.7496",
-      "county": "屏東縣",
-      "intensity": "1",
-      "location_name": "南灣"
-    },
-    {
-      "latitude": "22.7443",
-      "longitude": "120.64",
-      "county": "屏東縣",
-      "intensity": "1",
-      "location_name": "三地門"
-    },
-    {
-      "latitude": "23.4963",
-      "longitude": "120.4327",
-      "county": "嘉義市",
-      "intensity": "1",
-      "location_name": "嘉義市"
-    },
-    {
-      "latitude": "23.2438",
-      "longitude": "120.6223",
-      "county": "嘉義縣",
-      "intensity": "1",
-      "location_name": "大埔"
-    },
-    {
-      "latitude": "24.0794",
-      "longitude": "120.5583",
-      "county": "彰化縣",
-      "intensity": "1",
-      "location_name": "彰化市"
-    },
-    {
-      "latitude": "23.8617",
-      "longitude": "120.2892",
-      "county": "彰化縣",
-      "intensity": "1",
-      "location_name": "大城"
     }
   ]
 }

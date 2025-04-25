@@ -1,0 +1,27 @@
+{
+    "event_id": "2014_066",
+    "timestamp": "2014-05-11T21:16:21",
+    "epicenter_latitude": 23.31,
+    "epicenter_longitude": 120.61,
+    "depth_km": 8.1,
+    "magnitude": 3.3,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "東山",
+            "latitude": 23.26,
+            "longitude": 120.5,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "TWL",
+            "distance_km": 11.84,
+            "pga_v": 0.6,
+            "pga_ns": 0.54,
+            "pga_ew": 0.84,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

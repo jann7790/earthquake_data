@@ -1,0 +1,197 @@
+{
+  "earthquake_id": "107",
+  "timestamp": "2018-07-11T20:41:49",
+  "latitude": 23.03,
+  "longitude": 120.21,
+  "depth_km": 16.8,
+  "magnitude": 4.5,
+  "stations": [
+    {
+      "Stacode": "TAI1",
+      "Staname": "永康",
+      "Stalon": 120.24,
+      "Stalat": 23.04,
+      "Dist": 2.44,
+      "AZ": 250.08,
+      "PGA(V)": 26.08,
+      "PGA(NS)": 61.91,
+      "PGA(EW)": 106.29
+    },
+    {
+      "Stacode": "TAI",
+      "Staname": "臺南市",
+      "Stalon": 120.21,
+      "Stalat": 22.99,
+      "Dist": 4.24,
+      "AZ": 13.04,
+      "PGA(V)": 57.66,
+      "PGA(NS)": 79.44,
+      "PGA(EW)": 56.23
+    },
+    {
+      "Stacode": "SSH",
+      "Staname": "善化",
+      "Stalon": 120.29,
+      "Stalat": 23.14,
+      "Dist": 13.94,
+      "AZ": 212.88,
+      "PGA(V)": 7.06,
+      "PGA(NS)": 11.07,
+      "PGA(EW)": 10.41
+    },
+    {
+      "Stacode": "SCL",
+      "Staname": "佳里",
+      "Stalon": 120.2,
+      "Stalat": 23.17,
+      "Dist": 15.89,
+      "AZ": 175.33,
+      "PGA(V)": 2.39,
+      "PGA(NS)": 13.28,
+      "PGA(EW)": 30.57
+    },
+    {
+      "Stacode": "CHN3",
+      "Staname": "新化",
+      "Stalon": 120.36,
+      "Stalat": 23.08,
+      "Dist": 16.19,
+      "AZ": 252.08,
+      "PGA(V)": 4.43,
+      "PGA(NS)": 14.48,
+      "PGA(EW)": 9.87
+    },
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 18.39,
+      "AZ": 134.46,
+      "PGA(V)": 3.71,
+      "PGA(NS)": 3.47,
+      "PGA(EW)": 5.08
+    },
+    {
+      "Stacode": "TWM1",
+      "Staname": "旗山",
+      "Stalon": 120.43,
+      "Stalat": 22.82,
+      "Dist": 32.06,
+      "AZ": 316.21,
+      "PGA(V)": 0.6,
+      "PGA(NS)": 1.5,
+      "PGA(EW)": 0.96
+    },
+    {
+      "Stacode": "CHN1",
+      "Staname": "楠西",
+      "Stalon": 120.53,
+      "Stalat": 23.19,
+      "Dist": 36.44,
+      "AZ": 242.0,
+      "PGA(V)": 0.42,
+      "PGA(NS)": 0.84,
+      "PGA(EW)": 0.54
+    },
+    {
+      "Stacode": "SPT",
+      "Staname": "屏東市",
+      "Stalon": 120.5,
+      "Stalat": 22.68,
+      "Dist": 48.67,
+      "AZ": 323.6,
+      "PGA(V)": 0.6,
+      "PGA(NS)": 1.02,
+      "PGA(EW)": 0.84
+    },
+    {
+      "Stacode": "CHN7",
+      "Staname": "六腳",
+      "Stalon": 120.24,
+      "Stalat": 23.48,
+      "Dist": 50.21,
+      "AZ": 182.94,
+      "PGA(V)": 0.72,
+      "PGA(NS)": 2.03,
+      "PGA(EW)": 1.56
+    },
+    {
+      "Stacode": "KAU",
+      "Staname": "高雄市",
+      "Stalon": 120.32,
+      "Stalat": 22.57,
+      "Dist": 52.46,
+      "AZ": 348.55,
+      "PGA(V)": 1.56,
+      "PGA(NS)": 1.97,
+      "PGA(EW)": 2.21
+    },
+    {
+      "Stacode": "CHN4",
+      "Staname": "草山",
+      "Stalon": 120.59,
+      "Stalat": 23.35,
+      "Dist": 52.65,
+      "AZ": 227.57,
+      "PGA(V)": 0.48,
+      "PGA(NS)": 0.9,
+      "PGA(EW)": 0.66
+    },
+    {
+      "Stacode": "CHY",
+      "Staname": "嘉義市",
+      "Stalon": 120.43,
+      "Stalat": 23.5,
+      "Dist": 56.18,
+      "AZ": 203.43,
+      "PGA(V)": 0.54,
+      "PGA(NS)": 1.62,
+      "PGA(EW)": 1.14
+    },
+    {
+      "Stacode": "WSF",
+      "Staname": "四湖",
+      "Stalon": 120.23,
+      "Stalat": 23.64,
+      "Dist": 67.11,
+      "AZ": 181.35,
+      "PGA(V)": 0.66,
+      "PGA(NS)": 1.26,
+      "PGA(EW)": 1.74
+    },
+    {
+      "Stacode": "CHN5",
+      "Staname": "草嶺",
+      "Stalon": 120.68,
+      "Stalat": 23.6,
+      "Dist": 78.62,
+      "AZ": 217.03,
+      "PGA(V)": 0.36,
+      "PGA(NS)": 0.66,
+      "PGA(EW)": 0.84
+    },
+    {
+      "Stacode": "WGK",
+      "Staname": "古坑",
+      "Stalon": 120.57,
+      "Stalat": 23.68,
+      "Dist": 81.06,
+      "AZ": 206.68,
+      "PGA(V)": 0.24,
+      "PGA(NS)": 0.66,
+      "PGA(EW)": 1.14
+    },
+    {
+      "Stacode": "WCH",
+      "Staname": "彰化市",
+      "Stalon": 120.56,
+      "Stalat": 24.08,
+      "Dist": 121.55,
+      "AZ": 196.71,
+      "PGA(V)": 0.3,
+      "PGA(NS)": 0.84,
+      "PGA(EW)": 0.54
+    }
+  ]
+}

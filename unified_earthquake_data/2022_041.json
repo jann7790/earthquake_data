@@ -1,0 +1,27 @@
+{
+    "event_id": "2022_041",
+    "timestamp": "2022-04-11T21:47:27",
+    "epicenter_latitude": 21.49,
+    "epicenter_longitude": 121.06,
+    "depth_km": 32.3,
+    "magnitude": 5.4,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "七股",
+            "latitude": 23.15,
+            "longitude": 120.09,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SCK",
+            "distance_km": 208.76,
+            "pga_v": 0.37,
+            "pga_ns": 0.96,
+            "pga_ew": 0.63,
+            "pgv_v": 0.03,
+            "pgv_ns": 0.07,
+            "pgv_ew": 0.07
+        }
+    ]
+}

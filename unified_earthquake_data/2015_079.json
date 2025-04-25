@@ -1,0 +1,27 @@
+{
+    "event_id": "2015_079",
+    "timestamp": "2015-10-21T09:14:32",
+    "epicenter_latitude": 22.55,
+    "epicenter_longitude": 121.01,
+    "depth_km": 9.4,
+    "magnitude": 4.5,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "臺南市",
+            "latitude": 22.99,
+            "longitude": 120.21,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "TAI",
+            "distance_km": 95.89,
+            "pga_v": 0.72,
+            "pga_ns": 0.96,
+            "pga_ew": 1.08,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

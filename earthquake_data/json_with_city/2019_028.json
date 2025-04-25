@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "028",
+  "timestamp": "2019-04-10T04:24:13",
+  "latitude": 23.97,
+  "longitude": 121.56,
+  "depth_km": 10.3,
+  "magnitude": 4.8,
+  "stations": [
+    {
+      "Stacode": "FUSS",
+      "Staname": "梨山",
+      "Stalon": 121.24,
+      "Stalat": 24.25,
+      "Dist": 44.58,
+      "AZ": 134.36,
+      "PGA(V)": 4.25,
+      "PGA(NS)": 9.16,
+      "PGA(EW)": 8.25,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 50.99,
+      "AZ": 127.98,
+      "PGA(V)": 1.79,
+      "PGA(NS)": 3.16,
+      "PGA(EW)": 2.14,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "WHP",
+      "Staname": "烏石坑",
+      "Stalon": 120.95,
+      "Stalat": 24.28,
+      "Dist": 71.09,
+      "AZ": 119.03,
+      "PGA(V)": 1.1,
+      "PGA(NS)": 2.39,
+      "PGA(EW)": 1.79,
+      "City": "臺中市"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+    "event_id": "2019_062",
+    "timestamp": "2019-12-07T03:32:33",
+    "epicenter_latitude": 24.56,
+    "epicenter_longitude": 122.68,
+    "depth_km": 100.4,
+    "magnitude": 5.0,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "信義區",
+            "latitude": 25.04,
+            "longitude": 121.57,
+            "county": "臺北市",
+            "intensity": null,
+            "station_code": "NHY",
+            "distance_km": 124.23,
+            "pga_v": 2.24,
+            "pga_ns": 1.38,
+            "pga_ew": 1.4,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 157.62,
+            "pga_v": 0.84,
+            "pga_ns": 1.67,
+            "pga_ew": 1.12,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "新竹市",
+            "latitude": 24.78,
+            "longitude": 121.02,
+            "county": "新竹市",
+            "intensity": null,
+            "station_code": "HSN1",
+            "distance_km": 169.88,
+            "pga_v": 0.52,
+            "pga_ns": 1.15,
+            "pga_ew": 0.79,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

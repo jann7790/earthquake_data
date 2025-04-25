@@ -1,0 +1,58 @@
+{
+  "earthquake_id": "003",
+  "timestamp": "2017-01-04T15:07:21",
+  "latitude": 24.05,
+  "longitude": 121.81,
+  "depth_km": 52.9,
+  "magnitude": 4.8,
+  "stations": [
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 69.84,
+      "AZ": 108.16,
+      "PGA(V)": 0.72,
+      "PGA(NS)": 1.62,
+      "PGA(EW)": 1.08,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "WWF",
+      "Staname": "霧峰",
+      "Stalon": 120.7,
+      "Stalat": 24.04,
+      "Dist": 113.53,
+      "AZ": 89.45,
+      "PGA(V)": 1.02,
+      "PGA(NS)": 0.9,
+      "PGA(EW)": 1.08,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "WDD",
+      "Staname": "大肚",
+      "Stalon": 120.56,
+      "Stalat": 24.13,
+      "Dist": 128.19,
+      "AZ": 94.07,
+      "PGA(V)": 0.96,
+      "PGA(NS)": 1.02,
+      "PGA(EW)": 2.09,
+      "City": "臺中市"
+    },
+    {
+      "Stacode": "SCL",
+      "Staname": "佳里",
+      "Stalon": 120.2,
+      "Stalat": 23.17,
+      "Dist": 191.21,
+      "AZ": 59.39,
+      "PGA(V)": 0.12,
+      "PGA(NS)": 0.48,
+      "PGA(EW)": 0.84,
+      "City": "臺南市"
+    }
+  ]
+}

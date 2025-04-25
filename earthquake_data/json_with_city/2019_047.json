@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "047",
+  "timestamp": "2019-08-03T06:24:43",
+  "latitude": 23.69,
+  "longitude": 121.54,
+  "depth_km": 4.1,
+  "magnitude": 4.9,
+  "stations": [
+    {
+      "Stacode": "WHP",
+      "Staname": "烏石坑",
+      "Stalon": 120.95,
+      "Stalat": 24.28,
+      "Dist": 88.74,
+      "AZ": 137.41,
+      "PGA(V)": 0.65,
+      "PGA(NS)": 0.97,
+      "PGA(EW)": 1.03,
+      "City": "臺中市"
+    }
+  ]
+}

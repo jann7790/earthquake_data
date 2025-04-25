@@ -5,41 +5,6 @@
   "max_intensity": "2",
   "locations": [
     {
-      "latitude": "23.1794",
-      "longitude": "120.7811",
-      "county": "高雄市",
-      "intensity": "2",
-      "location_name": "桃源"
-    },
-    {
-      "latitude": "23.0804",
-      "longitude": "120.5908",
-      "county": "高雄市",
-      "intensity": "1",
-      "location_name": "甲仙"
-    },
-    {
-      "latitude": "22.9933",
-      "longitude": "120.6463",
-      "county": "高雄市",
-      "intensity": "1",
-      "location_name": "六龜"
-    },
-    {
-      "latitude": "23.2438",
-      "longitude": "120.6223",
-      "county": "嘉義縣",
-      "intensity": "1",
-      "location_name": "大埔"
-    },
-    {
-      "latitude": "23.1871",
-      "longitude": "121.0251",
-      "county": "臺東縣",
-      "intensity": "1",
-      "location_name": "利稻"
-    },
-    {
       "latitude": "23.3526",
       "longitude": "120.4144",
       "county": "臺南市",

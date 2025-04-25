@@ -1,0 +1,34 @@
+{
+  "earthquake_id": "034",
+  "timestamp": "2014-02-22T04:27:00",
+  "latitude": 24.67,
+  "longitude": 121.6,
+  "depth_km": 62.5,
+  "magnitude": 4.3,
+  "stations": [
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 41.2,
+      "AZ": 175.74,
+      "PGA(V)": 10.77,
+      "PGA(NS)": 2.33,
+      "PGA(EW)": 4.73,
+      "City": "臺北市"
+    },
+    {
+      "Stacode": "TAP",
+      "Staname": "臺北市",
+      "Stalon": 121.51,
+      "Stalat": 25.04,
+      "Dist": 41.61,
+      "AZ": 168.01,
+      "PGA(V)": 4.25,
+      "PGA(NS)": 1.02,
+      "PGA(EW)": 0.54,
+      "City": "臺北市"
+    }
+  ]
+}

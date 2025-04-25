@@ -1,0 +1,11 @@
+{
+    "event_id": "2016_099",
+    "timestamp": "2016-10-29T19:49:18",
+    "epicenter_latitude": 24.19,
+    "epicenter_longitude": 121.65,
+    "depth_km": 32.0,
+    "magnitude": 4.3,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": []
+}

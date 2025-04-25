@@ -1,0 +1,11 @@
+{
+    "event_id": "2020_023",
+    "timestamp": "2020-04-27T19:16:48",
+    "epicenter_latitude": 23.11,
+    "epicenter_longitude": 120.91,
+    "depth_km": 2.7,
+    "magnitude": 4.4,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": []
+}

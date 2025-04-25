@@ -1,0 +1,11 @@
+{
+    "event_id": "2023_078",
+    "timestamp": "2023-10-31T20:33:54",
+    "epicenter_latitude": 23.24,
+    "epicenter_longitude": 121.6,
+    "depth_km": 44.6,
+    "magnitude": 4.7,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": []
+}

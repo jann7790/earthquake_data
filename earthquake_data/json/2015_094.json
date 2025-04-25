@@ -1,0 +1,208 @@
+{
+  "earthquake_id": "094",
+  "timestamp": "2015-12-14T15:19:31",
+  "latitude": 23.92,
+  "longitude": 121.46,
+  "depth_km": 22.3,
+  "magnitude": 4.2,
+  "stations": [
+    {
+      "Stacode": "ETM",
+      "Staname": "銅門",
+      "Stalon": 121.49,
+      "Stalat": 23.97,
+      "Dist": 5.77,
+      "AZ": 215.97,
+      "PGA(V)": 12.62,
+      "PGA(NS)": 43.25,
+      "PGA(EW)": 36.31
+    },
+    {
+      "Stacode": "ESF",
+      "Staname": "壽豐",
+      "Stalon": 121.51,
+      "Stalat": 23.87,
+      "Dist": 7.59,
+      "AZ": 320.14,
+      "PGA(V)": 11.9,
+      "PGA(NS)": 26.5,
+      "PGA(EW)": 42.89
+    },
+    {
+      "Stacode": "EGA",
+      "Staname": "吉安",
+      "Stalon": 121.56,
+      "Stalat": 23.97,
+      "Dist": 11.86,
+      "AZ": 242.36,
+      "PGA(V)": 4.67,
+      "PGA(NS)": 8.14,
+      "PGA(EW)": 6.94
+    },
+    {
+      "Stacode": "ESL",
+      "Staname": "西林",
+      "Stalon": 121.44,
+      "Stalat": 23.81,
+      "Dist": 12.49,
+      "AZ": 8.44,
+      "PGA(V)": 14.83,
+      "PGA(NS)": 59.28,
+      "PGA(EW)": 61.49
+    },
+    {
+      "Stacode": "EYL",
+      "Staname": "鹽寮",
+      "Stalon": 121.6,
+      "Stalat": 23.9,
+      "Dist": 14.67,
+      "AZ": 278.53,
+      "PGA(V)": 2.09,
+      "PGA(NS)": 3.53,
+      "PGA(EW)": 3.17
+    },
+    {
+      "Stacode": "HWA",
+      "Staname": "花蓮市",
+      "Stalon": 121.61,
+      "Stalat": 23.98,
+      "Dist": 16.69,
+      "AZ": 249.87,
+      "PGA(V)": 1.56,
+      "PGA(NS)": 3.17,
+      "PGA(EW)": 3.17
+    },
+    {
+      "Stacode": "TWD",
+      "Staname": "秀林",
+      "Stalon": 121.6,
+      "Stalat": 24.08,
+      "Dist": 22.88,
+      "AZ": 220.25,
+      "PGA(V)": 0.9,
+      "PGA(NS)": 0.78,
+      "PGA(EW)": 0.9
+    },
+    {
+      "Stacode": "EGC",
+      "Staname": "磯崎",
+      "Stalon": 121.55,
+      "Stalat": 23.71,
+      "Dist": 25.5,
+      "AZ": 339.41,
+      "PGA(V)": 2.45,
+      "PGA(NS)": 2.75,
+      "PGA(EW)": 2.69
+    },
+    {
+      "Stacode": "EGF",
+      "Staname": "光復",
+      "Stalon": 121.48,
+      "Stalat": 23.68,
+      "Dist": 26.55,
+      "AZ": 354.94,
+      "PGA(V)": 3.47,
+      "PGA(NS)": 7.96,
+      "PGA(EW)": 7.78
+    },
+    {
+      "Stacode": "ETL",
+      "Staname": "太魯閣",
+      "Stalon": 121.62,
+      "Stalat": 24.16,
+      "Dist": 30.87,
+      "AZ": 212.59,
+      "PGA(V)": 1.5,
+      "PGA(NS)": 5.74,
+      "PGA(EW)": 6.64
+    },
+    {
+      "Stacode": "WHF",
+      "Staname": "合歡山",
+      "Stalon": 121.27,
+      "Stalat": 24.14,
+      "Dist": 30.93,
+      "AZ": 142.04,
+      "PGA(V)": 0.72,
+      "PGA(NS)": 2.57,
+      "PGA(EW)": 2.39
+    },
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 47.11,
+      "AZ": 139.97,
+      "PGA(V)": 0.84,
+      "PGA(NS)": 2.03,
+      "PGA(EW)": 1.08
+    },
+    {
+      "Stacode": "EHY",
+      "Staname": "紅葉",
+      "Stalon": 121.33,
+      "Stalat": 23.5,
+      "Dist": 48.36,
+      "AZ": 16.1,
+      "PGA(V)": 3.35,
+      "PGA(NS)": 5.38,
+      "PGA(EW)": 9.75
+    },
+    {
+      "Stacode": "NNS",
+      "Staname": "南山",
+      "Stalon": 121.38,
+      "Stalat": 24.44,
+      "Dist": 57.5,
+      "AZ": 172.06,
+      "PGA(V)": 0.36,
+      "PGA(NS)": 1.26,
+      "PGA(EW)": 1.38
+    },
+    {
+      "Stacode": "ENA",
+      "Staname": "南澳",
+      "Stalon": 121.75,
+      "Stalat": 24.43,
+      "Dist": 62.95,
+      "AZ": 207.86,
+      "PGA(V)": 0.42,
+      "PGA(NS)": 0.78,
+      "PGA(EW)": 1.14
+    },
+    {
+      "Stacode": "TWF1",
+      "Staname": "玉里",
+      "Stalon": 121.31,
+      "Stalat": 23.35,
+      "Dist": 65.31,
+      "AZ": 13.94,
+      "PGA(V)": 0.78,
+      "PGA(NS)": 0.9,
+      "PGA(EW)": 1.02
+    },
+    {
+      "Stacode": "CHK",
+      "Staname": "成功",
+      "Stalon": 121.37,
+      "Stalat": 23.1,
+      "Dist": 91.86,
+      "AZ": 5.53,
+      "PGA(V)": 0.36,
+      "PGA(NS)": 0.9,
+      "PGA(EW)": 0.78
+    },
+    {
+      "Stacode": "WSF",
+      "Staname": "四湖",
+      "Stalon": 120.23,
+      "Stalat": 23.64,
+      "Dist": 129.29,
+      "AZ": 75.77,
+      "PGA(V)": 0.48,
+      "PGA(NS)": 1.2,
+      "PGA(EW)": 0.84
+    }
+  ]
+}

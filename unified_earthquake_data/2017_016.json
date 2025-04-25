@@ -1,0 +1,42 @@
+{
+    "event_id": "2017_016",
+    "timestamp": "2017-03-24T01:09:25",
+    "epicenter_latitude": 23.42,
+    "epicenter_longitude": 120.48,
+    "depth_km": 6.2,
+    "magnitude": 3.5,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "善化",
+            "latitude": 23.14,
+            "longitude": 120.29,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "SSH",
+            "distance_km": 36.94,
+            "pga_v": 1.44,
+            "pga_ns": 0.48,
+            "pga_ew": 0.78,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "佳里",
+            "latitude": 23.17,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "SCL",
+            "distance_km": 39.22,
+            "pga_v": 0.3,
+            "pga_ns": 0.6,
+            "pga_ew": 1.2,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

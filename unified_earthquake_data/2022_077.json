@@ -1,0 +1,27 @@
+{
+    "event_id": "2022_077",
+    "timestamp": "2022-07-08T19:57:48",
+    "epicenter_latitude": 24.84,
+    "epicenter_longitude": 121.98,
+    "depth_km": 9.4,
+    "magnitude": 4.3,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "木柵",
+            "latitude": 24.98,
+            "longitude": 121.59,
+            "county": "臺北市",
+            "intensity": 1,
+            "station_code": "TWA",
+            "distance_km": 42.4,
+            "pga_v": 0.36,
+            "pga_ns": 0.58,
+            "pga_ew": 0.94,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.03,
+            "pgv_ew": 0.05
+        }
+    ]
+}

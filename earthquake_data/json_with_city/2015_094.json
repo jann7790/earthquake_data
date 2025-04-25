@@ -1,0 +1,22 @@
+{
+  "earthquake_id": "094",
+  "timestamp": "2015-12-14T15:19:31",
+  "latitude": 23.92,
+  "longitude": 121.46,
+  "depth_km": 22.3,
+  "magnitude": 4.2,
+  "stations": [
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 47.11,
+      "AZ": 139.97,
+      "PGA(V)": 0.84,
+      "PGA(NS)": 2.03,
+      "PGA(EW)": 1.08,
+      "City": "臺中市"
+    }
+  ]
+}

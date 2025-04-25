@@ -1,0 +1,27 @@
+{
+    "event_id": "2016_039",
+    "timestamp": "2016-04-28T01:04:36",
+    "epicenter_latitude": 24.23,
+    "epicenter_longitude": 121.78,
+    "depth_km": 11.0,
+    "magnitude": 4.1,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 62.45,
+            "pga_v": 0.24,
+            "pga_ns": 1.02,
+            "pga_ew": 0.48,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

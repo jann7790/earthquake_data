@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "059",
+  "timestamp": "2021-07-14T06:53:49",
+  "latitude": 23.93,
+  "longitude": 121.62,
+  "depth_km": 7.8,
+  "magnitude": 4.3,
+  "stations": [
+    {
+      "Stacode": "TWT",
+      "Staname": "德基",
+      "Stalon": 121.16,
+      "Stalat": 24.25,
+      "Dist": 58.75,
+      "AZ": 126.92,
+      "PGA(V)": 0.28,
+      "PGA(NS)": 0.89,
+      "PGA(EW)": 0.42,
+      "PGV(V)": 0.01,
+      "PGV(NS)": 0.03,
+      "PGV(EW)": 0.02,
+      "Int": 1,
+      "PGA(SUM)": 0.94,
+      "PGV(SUM)": 0.03,
+      "City": "臺中市"
+    }
+  ]
+}

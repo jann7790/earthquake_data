@@ -1,0 +1,27 @@
+{
+    "event_id": "2016_076",
+    "timestamp": "2016-05-30T10:52:47",
+    "epicenter_latitude": 24.17,
+    "epicenter_longitude": 121.72,
+    "depth_km": 13.7,
+    "magnitude": 4.7,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 57.23,
+            "pga_v": 1.08,
+            "pga_ns": 4.43,
+            "pga_ew": 2.15,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

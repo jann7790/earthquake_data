@@ -1,0 +1,9 @@
+{
+  "earthquake_id": "045",
+  "timestamp": "2023-07-09T03:47:12",
+  "latitude": 21.91,
+  "longitude": 121.6,
+  "depth_km": 23.1,
+  "magnitude": 5.4,
+  "stations": []
+}

@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "018",
+  "timestamp": "2019-03-14T05:07:22",
+  "latitude": 23.06,
+  "longitude": 121.35,
+  "depth_km": 17.7,
+  "magnitude": 4.7,
+  "stations": [
+    {
+      "Stacode": "SCL",
+      "Staname": "佳里",
+      "Stalon": 120.2,
+      "Stalat": 23.17,
+      "Dist": 118.75,
+      "AZ": 96.28,
+      "PGA(V)": 0.17,
+      "PGA(NS)": 0.58,
+      "PGA(EW)": 0.82,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 130.23,
+      "AZ": 94.42,
+      "PGA(V)": 0.66,
+      "PGA(NS)": 1.05,
+      "PGA(EW)": 1.21,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "WHP",
+      "Staname": "烏石坑",
+      "Stalon": 120.95,
+      "Stalat": 24.28,
+      "Dist": 141.55,
+      "AZ": 162.89,
+      "PGA(V)": 0.7,
+      "PGA(NS)": 2.27,
+      "PGA(EW)": 2.57,
+      "City": "臺中市"
+    }
+  ]
+}

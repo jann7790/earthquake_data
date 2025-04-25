@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "298",
+  "timestamp": "2024-04-23T05:26:22",
+  "latitude": 23.73,
+  "longitude": 121.51,
+  "depth_km": 7.3,
+  "magnitude": 4.6,
+  "stations": [
+    {
+      "Stacode": "FUSS",
+      "Staname": "梨山",
+      "Stalon": 121.24,
+      "Stalat": 24.25,
+      "Dist": 63.74,
+      "BAZ": 154.8,
+      "PGA(V)": 0.35,
+      "PGA(NS)": 0.59,
+      "PGA(EW)": 0.68,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.03,
+      "PGV(EW)": 0.04,
+      "Int": 1,
+      "PGA(SUM)": 0.84,
+      "PGV(SUM)": 0.04,
+      "City": "臺中市"
+    }
+  ]
+}

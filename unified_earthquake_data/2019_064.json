@@ -1,0 +1,27 @@
+{
+    "event_id": "2019_064",
+    "timestamp": "2019-12-11T22:02:05",
+    "epicenter_latitude": 24.79,
+    "epicenter_longitude": 121.89,
+    "depth_km": 10.5,
+    "magnitude": 4.1,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "信義區",
+            "latitude": 25.04,
+            "longitude": 121.57,
+            "county": "臺北市",
+            "intensity": null,
+            "station_code": "NHY",
+            "distance_km": 42.02,
+            "pga_v": 2.0,
+            "pga_ns": 1.55,
+            "pga_ew": 2.37,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

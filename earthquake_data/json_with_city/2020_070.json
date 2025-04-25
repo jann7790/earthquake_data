@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "070",
+  "timestamp": "2020-11-29T21:42:14",
+  "latitude": 24.2,
+  "longitude": 122.25,
+  "depth_km": 31.8,
+  "magnitude": 5.2,
+  "stations": [
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 115.42,
+      "AZ": 143.47,
+      "PGA(V)": 0.9,
+      "PGA(NS)": 0.61,
+      "PGA(EW)": 0.78,
+      "PGV(V)": 0.04,
+      "PGV(NS)": 0.07,
+      "PGV(EW)": 0.08,
+      "Int": 1,
+      "PGA(SUM)": 0.89,
+      "PGV(SUM)": 0.1,
+      "City": "臺北市"
+    }
+  ]
+}

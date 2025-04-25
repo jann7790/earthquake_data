@@ -1,0 +1,11 @@
+{
+    "event_id": "2023_045",
+    "timestamp": "2023-07-09T03:47:12",
+    "epicenter_latitude": 21.91,
+    "epicenter_longitude": 121.6,
+    "depth_km": 23.1,
+    "magnitude": 5.4,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": []
+}

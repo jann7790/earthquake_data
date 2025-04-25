@@ -1,0 +1,42 @@
+{
+    "event_id": "2022_100",
+    "timestamp": "2022-09-18T06:05:48",
+    "epicenter_latitude": 23.17,
+    "epicenter_longitude": 120.69,
+    "depth_km": 13.7,
+    "magnitude": 4.2,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "東山",
+            "latitude": 23.26,
+            "longitude": 120.5,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "TWL",
+            "distance_km": 21.96,
+            "pga_v": 0.56,
+            "pga_ns": 0.79,
+            "pga_ew": 1.01,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.03,
+            "pgv_ew": 0.03
+        },
+        {
+            "location_name": "新化",
+            "latitude": 23.02,
+            "longitude": 120.35,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SHH",
+            "distance_km": 38.59,
+            "pga_v": 0.56,
+            "pga_ns": 0.69,
+            "pga_ew": 0.8,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.04,
+            "pgv_ew": 0.04
+        }
+    ]
+}

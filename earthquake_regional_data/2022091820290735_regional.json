@@ -5,34 +5,6 @@
   "max_intensity": "1",
   "locations": [
     {
-      "latitude": "23.6363",
-      "longitude": "120.2298",
-      "county": "雲林縣",
-      "intensity": "1",
-      "location_name": "四湖"
-    },
-    {
-      "latitude": "23.3473",
-      "longitude": "120.2227",
-      "county": "嘉義縣",
-      "intensity": "1",
-      "location_name": "義竹"
-    },
-    {
-      "latitude": "23.4385",
-      "longitude": "120.6047",
-      "county": "嘉義縣",
-      "intensity": "1",
-      "location_name": "番路"
-    },
-    {
-      "latitude": "23.2438",
-      "longitude": "120.6223",
-      "county": "嘉義縣",
-      "intensity": "1",
-      "location_name": "大埔"
-    },
-    {
       "latitude": "23.1849",
       "longitude": "120.5286",
       "county": "臺南市",

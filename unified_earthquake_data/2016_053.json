@@ -1,0 +1,57 @@
+{
+    "event_id": "2016_053",
+    "timestamp": "2016-05-06T15:53:23",
+    "epicenter_latitude": 23.47,
+    "epicenter_longitude": 121.49,
+    "depth_km": 29.7,
+    "magnitude": 4.9,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 92.35,
+            "pga_v": 0.54,
+            "pga_ns": 1.38,
+            "pga_ew": 1.02,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "霧峰",
+            "latitude": 24.04,
+            "longitude": 120.7,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WWF",
+            "distance_km": 102.66,
+            "pga_v": 0.48,
+            "pga_ns": 0.6,
+            "pga_ew": 0.9,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "東勢",
+            "latitude": 24.26,
+            "longitude": 120.83,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "WDS",
+            "distance_km": 110.09,
+            "pga_v": 0.66,
+            "pga_ns": 0.84,
+            "pga_ew": 1.2,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

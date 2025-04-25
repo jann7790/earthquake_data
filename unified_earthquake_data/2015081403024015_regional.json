@@ -1,0 +1,27 @@
+{
+    "event_id": "2015081403024015_regional",
+    "timestamp": "2015-08-14 03:02:40",
+    "epicenter_latitude": "24.76",
+    "epicenter_longitude": "121.01",
+    "depth_km": null,
+    "magnitude": "1.5",
+    "max_intensity_observed": "1",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "新竹市",
+            "latitude": "24.7786",
+            "longitude": "121.0182",
+            "county": "新竹市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

@@ -5,13 +5,6 @@
   "max_intensity": "1",
   "locations": [
     {
-      "latitude": "22.7443",
-      "longitude": "120.64",
-      "county": "屏東縣",
-      "intensity": "1",
-      "location_name": "三地門"
-    },
-    {
       "latitude": "23.0753",
       "longitude": "120.3641",
       "county": "臺南市",

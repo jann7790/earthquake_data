@@ -1,0 +1,27 @@
+{
+    "event_id": "2017110812113437_regional",
+    "timestamp": "2017-11-08 12:11:34",
+    "epicenter_latitude": "23.76",
+    "epicenter_longitude": "120.96",
+    "depth_km": null,
+    "magnitude": "3.7",
+    "max_intensity_observed": "2",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "臺中市",
+            "latitude": "24.1456",
+            "longitude": "120.6841",
+            "county": "臺中市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

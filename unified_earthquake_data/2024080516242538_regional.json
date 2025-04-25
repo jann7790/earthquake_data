@@ -1,0 +1,27 @@
+{
+    "event_id": "2024080516242538_regional",
+    "timestamp": "2024-08-05 16:24:25",
+    "epicenter_latitude": "23.59",
+    "epicenter_longitude": "120.7078",
+    "depth_km": null,
+    "magnitude": "3.8",
+    "max_intensity_observed": "3",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "白河",
+            "latitude": "23.3526",
+            "longitude": "120.4144",
+            "county": "臺南市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

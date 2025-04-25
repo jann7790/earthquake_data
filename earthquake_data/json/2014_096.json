@@ -1,0 +1,76 @@
+{
+  "earthquake_id": "096",
+  "timestamp": "2014-07-22T10:30:51",
+  "latitude": 23.39,
+  "longitude": 120.48,
+  "depth_km": 8.0,
+  "magnitude": 3.5,
+  "stations": [
+    {
+      "Stacode": "CHY",
+      "Staname": "嘉義市",
+      "Stalon": 120.43,
+      "Stalat": 23.5,
+      "Dist": 12.66,
+      "AZ": 158.72,
+      "PGA(V)": 4.19,
+      "PGA(NS)": 9.21,
+      "PGA(EW)": 5.56
+    },
+    {
+      "Stacode": "WTP",
+      "Staname": "大埔",
+      "Stalon": 120.62,
+      "Stalat": 23.24,
+      "Dist": 21.9,
+      "AZ": 317.51,
+      "PGA(V)": 0.3,
+      "PGA(NS)": 1.26,
+      "PGA(EW)": 0.96
+    },
+    {
+      "Stacode": "CHN1",
+      "Staname": "楠西",
+      "Stalon": 120.53,
+      "Stalat": 23.19,
+      "Dist": 23.24,
+      "AZ": 347.07,
+      "PGA(V)": 1.2,
+      "PGA(NS)": 1.79,
+      "PGA(EW)": 0.72
+    },
+    {
+      "Stacode": "SSH",
+      "Staname": "善化",
+      "Stalon": 120.29,
+      "Stalat": 23.14,
+      "Dist": 34.1,
+      "AZ": 34.64,
+      "PGA(V)": 0.66,
+      "PGA(NS)": 0.66,
+      "PGA(EW)": 0.96
+    },
+    {
+      "Stacode": "SCL",
+      "Staname": "佳里",
+      "Stalon": 120.2,
+      "Stalat": 23.17,
+      "Dist": 37.0,
+      "AZ": 49.72,
+      "PGA(V)": 0.66,
+      "PGA(NS)": 1.74,
+      "PGA(EW)": 1.62
+    },
+    {
+      "Stacode": "WSF",
+      "Staname": "四湖",
+      "Stalon": 120.23,
+      "Stalat": 23.64,
+      "Dist": 37.25,
+      "AZ": 137.2,
+      "PGA(V)": 0.54,
+      "PGA(NS)": 1.5,
+      "PGA(EW)": 0.9
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+    "event_id": "2024_197",
+    "timestamp": "2024-04-12T22:20:01",
+    "epicenter_latitude": 22.36,
+    "epicenter_longitude": 121.63,
+    "depth_km": 14.5,
+    "magnitude": 4.7,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "白河",
+            "latitude": 23.35,
+            "longitude": 120.41,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "C015",
+            "distance_km": 166.02,
+            "pga_v": 0.44,
+            "pga_ns": 0.69,
+            "pga_ew": 0.82,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.04,
+            "pgv_ew": 0.05
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "event_id": "2020_051",
+    "timestamp": "2020-09-21T07:54:48",
+    "epicenter_latitude": 22.43,
+    "epicenter_longitude": 121.58,
+    "depth_km": 9.4,
+    "magnitude": 4.7,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": []
+}

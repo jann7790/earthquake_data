@@ -1,0 +1,42 @@
+{
+    "event_id": "2015_047",
+    "timestamp": "2015-09-02T10:18:13",
+    "epicenter_latitude": 24.87,
+    "epicenter_longitude": 122.02,
+    "depth_km": 11.3,
+    "magnitude": 4.6,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "指南宮",
+            "latitude": 24.98,
+            "longitude": 121.59,
+            "county": "臺北市",
+            "intensity": null,
+            "station_code": "TWA",
+            "distance_km": 44.26,
+            "pga_v": 0.66,
+            "pga_ns": 0.9,
+            "pga_ew": 0.96,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "信義區",
+            "latitude": 25.04,
+            "longitude": 121.57,
+            "county": "臺北市",
+            "intensity": null,
+            "station_code": "NHY",
+            "distance_km": 48.7,
+            "pga_v": 1.91,
+            "pga_ns": 1.62,
+            "pga_ew": 1.38,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

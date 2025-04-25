@@ -1,0 +1,57 @@
+{
+    "event_id": "2020_007",
+    "timestamp": "2020-02-13T15:44:06",
+    "epicenter_latitude": 22.67,
+    "epicenter_longitude": 120.68,
+    "depth_km": 32.8,
+    "magnitude": 4.1,
+    "max_intensity_observed": 1,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "新化",
+            "latitude": 23.02,
+            "longitude": 120.35,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SHH",
+            "distance_km": 52.02,
+            "pga_v": 0.55,
+            "pga_ns": 1.05,
+            "pga_ew": 1.2,
+            "pgv_v": 0.02,
+            "pgv_ns": 0.04,
+            "pgv_ew": 0.04
+        },
+        {
+            "location_name": "臺南市",
+            "latitude": 23.0,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "TAI",
+            "distance_km": 61.57,
+            "pga_v": 1.05,
+            "pga_ns": 1.54,
+            "pga_ew": 1.06,
+            "pgv_v": 0.04,
+            "pgv_ns": 0.05,
+            "pgv_ew": 0.05
+        },
+        {
+            "location_name": "佳里",
+            "latitude": 23.17,
+            "longitude": 120.2,
+            "county": "臺南市",
+            "intensity": 1,
+            "station_code": "SCL",
+            "distance_km": 74.57,
+            "pga_v": 0.55,
+            "pga_ns": 1.06,
+            "pga_ew": 0.76,
+            "pgv_v": 0.01,
+            "pgv_ns": 0.03,
+            "pgv_ew": 0.03
+        }
+    ]
+}

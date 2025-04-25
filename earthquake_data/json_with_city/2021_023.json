@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "023",
+  "timestamp": "2021-04-15T02:09:36",
+  "latitude": 24.83,
+  "longitude": 122.02,
+  "depth_km": 14.7,
+  "magnitude": 4.5,
+  "stations": [
+    {
+      "Stacode": "NHY",
+      "Staname": "信義區",
+      "Stalon": 121.57,
+      "Stalat": 25.04,
+      "Dist": 51.49,
+      "AZ": 116.76,
+      "PGA(V)": 0.89,
+      "PGA(NS)": 0.66,
+      "PGA(EW)": 0.51,
+      "PGV(V)": 0.03,
+      "PGV(NS)": 0.05,
+      "PGV(EW)": 0.05,
+      "Int": 1,
+      "PGA(SUM)": 0.9,
+      "PGV(SUM)": 0.06,
+      "City": "臺北市"
+    }
+  ]
+}

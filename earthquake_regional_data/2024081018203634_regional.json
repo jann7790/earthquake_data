@@ -31,20 +31,6 @@
       "county": "臺南市",
       "intensity": "1",
       "location_name": "佳里"
-    },
-    {
-      "latitude": "23.3473",
-      "longitude": "120.2227",
-      "county": "嘉義縣",
-      "intensity": "2",
-      "location_name": "義竹"
-    },
-    {
-      "latitude": "23.457",
-      "longitude": "120.2939",
-      "county": "嘉義縣",
-      "intensity": "1",
-      "location_name": "太保市"
     }
   ]
 }

@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "108",
+  "timestamp": "2021-12-01T07:17:46",
+  "latitude": 22.92,
+  "longitude": 121.61,
+  "depth_km": 22.9,
+  "magnitude": 4.8,
+  "stations": [
+    {
+      "Stacode": "SHH",
+      "Staname": "新化",
+      "Stalon": 120.35,
+      "Stalat": 23.02,
+      "Dist": 129.98,
+      "AZ": 94.84,
+      "PGA(V)": 0.35,
+      "PGA(NS)": 0.67,
+      "PGA(EW)": 0.77,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.04,
+      "PGV(EW)": 0.04,
+      "Int": 1,
+      "PGA(SUM)": 0.82,
+      "PGV(SUM)": 0.04,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SSH",
+      "Staname": "善化",
+      "Stalon": 120.29,
+      "Stalat": 23.14,
+      "Dist": 137.65,
+      "AZ": 99.91,
+      "PGA(V)": 0.33,
+      "PGA(NS)": 0.75,
+      "PGA(EW)": 0.59,
+      "PGV(V)": 0.01,
+      "PGV(NS)": 0.05,
+      "PGV(EW)": 0.05,
+      "Int": 1,
+      "PGA(SUM)": 0.82,
+      "PGV(SUM)": 0.07,
+      "City": "臺南市"
+    }
+  ]
+}

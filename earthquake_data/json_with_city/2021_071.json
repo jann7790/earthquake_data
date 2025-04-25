@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "071",
+  "timestamp": "2021-07-16T07:33:34",
+  "latitude": 23.98,
+  "longitude": 121.6,
+  "depth_km": 10.4,
+  "magnitude": 4.3,
+  "stations": [
+    {
+      "Stacode": "FUSS",
+      "Staname": "梨山",
+      "Stalon": 121.24,
+      "Stalat": 24.25,
+      "Dist": 46.77,
+      "AZ": 129.95,
+      "PGA(V)": 0.6,
+      "PGA(NS)": 1.06,
+      "PGA(EW)": 1.11,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.03,
+      "PGV(EW)": 0.03,
+      "Int": 1,
+      "PGA(SUM)": 1.04,
+      "PGV(SUM)": 0.04,
+      "City": "臺中市"
+    }
+  ]
+}

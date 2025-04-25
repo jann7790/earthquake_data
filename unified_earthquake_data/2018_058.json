@@ -1,0 +1,27 @@
+{
+    "event_id": "2018_058",
+    "timestamp": "2018-02-10T02:43:09",
+    "epicenter_latitude": 24.03,
+    "epicenter_longitude": 121.81,
+    "depth_km": 5.8,
+    "magnitude": 4.7,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 70.59,
+            "pga_v": 0.42,
+            "pga_ns": 1.26,
+            "pga_ew": 0.6,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

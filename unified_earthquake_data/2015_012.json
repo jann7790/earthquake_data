@@ -1,0 +1,72 @@
+{
+    "event_id": "2015_012",
+    "timestamp": "2015-02-27T00:50:03",
+    "epicenter_latitude": 24.69,
+    "epicenter_longitude": 122.3,
+    "depth_km": 97.6,
+    "magnitude": 5.3,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "信義區",
+            "latitude": 25.04,
+            "longitude": 121.57,
+            "county": "臺北市",
+            "intensity": null,
+            "station_code": "NHY",
+            "distance_km": 84.08,
+            "pga_v": 1.62,
+            "pga_ns": 1.32,
+            "pga_ew": 0.96,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "臺北市",
+            "latitude": 25.04,
+            "longitude": 121.51,
+            "county": "臺北市",
+            "intensity": null,
+            "station_code": "TAP",
+            "distance_km": 88.88,
+            "pga_v": 1.08,
+            "pga_ns": 0.66,
+            "pga_ew": 0.6,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "德基",
+            "latitude": 24.25,
+            "longitude": 121.16,
+            "county": "臺中市",
+            "intensity": null,
+            "station_code": "TWT",
+            "distance_km": 125.61,
+            "pga_v": 1.97,
+            "pga_ns": 4.19,
+            "pga_ew": 2.09,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "新竹市",
+            "latitude": 24.78,
+            "longitude": 121.02,
+            "county": "新竹市",
+            "intensity": null,
+            "station_code": "HSN1",
+            "distance_km": 130.55,
+            "pga_v": 0.78,
+            "pga_ns": 2.33,
+            "pga_ew": 2.03,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

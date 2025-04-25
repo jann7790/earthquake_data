@@ -1,0 +1,11 @@
+{
+    "event_id": "2020_053",
+    "timestamp": "2020-09-29T03:05:08",
+    "epicenter_latitude": 22.39,
+    "epicenter_longitude": 121.02,
+    "depth_km": 11.0,
+    "magnitude": 4.4,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": []
+}

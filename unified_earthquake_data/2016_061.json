@@ -1,0 +1,11 @@
+{
+    "event_id": "2016_061",
+    "timestamp": "2016-05-12T11:20:51",
+    "epicenter_latitude": 24.69,
+    "epicenter_longitude": 121.98,
+    "depth_km": 11.4,
+    "magnitude": 4.6,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": []
+}

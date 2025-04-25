@@ -1,0 +1,28 @@
+{
+  "earthquake_id": "040",
+  "timestamp": "2022-04-10T00:43:50",
+  "latitude": 21.73,
+  "longitude": 121.03,
+  "depth_km": 30.2,
+  "magnitude": 5.0,
+  "stations": [
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 184.5,
+      "AZ": 328.17,
+      "PGA(V)": 0.28,
+      "PGA(NS)": 0.91,
+      "PGA(EW)": 0.52,
+      "PGV(V)": 0.02,
+      "PGV(NS)": 0.03,
+      "PGV(EW)": 0.03,
+      "Int": 1,
+      "PGA(SUM)": 0.92,
+      "PGV(SUM)": 0.04,
+      "City": "臺南市"
+    }
+  ]
+}

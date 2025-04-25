@@ -1,0 +1,46 @@
+{
+  "earthquake_id": "075",
+  "timestamp": "2016-05-30T01:48:05",
+  "latitude": 23.08,
+  "longitude": 121.03,
+  "depth_km": 4.5,
+  "magnitude": 3.0,
+  "stations": [
+    {
+      "Stacode": "TWL",
+      "Staname": "東山",
+      "Stalon": 120.5,
+      "Stalat": 23.26,
+      "Dist": 57.88,
+      "AZ": 110.16,
+      "PGA(V)": 0.48,
+      "PGA(NS)": 0.54,
+      "PGA(EW)": 0.84,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "CHN3",
+      "Staname": "新化",
+      "Stalon": 120.36,
+      "Stalat": 23.08,
+      "Dist": 68.47,
+      "AZ": 89.24,
+      "PGA(V)": 0.3,
+      "PGA(NS)": 0.96,
+      "PGA(EW)": 1.02,
+      "City": "臺南市"
+    },
+    {
+      "Stacode": "SCK",
+      "Staname": "七股",
+      "Stalon": 120.09,
+      "Stalat": 23.15,
+      "Dist": 97.22,
+      "AZ": 94.12,
+      "PGA(V)": 0.18,
+      "PGA(NS)": 1.97,
+      "PGA(EW)": 1.44,
+      "City": "臺南市"
+    }
+  ]
+}

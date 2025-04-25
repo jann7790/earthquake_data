@@ -1,0 +1,27 @@
+{
+    "event_id": "2022032819573250_regional",
+    "timestamp": "2022-03-28 19:57:32",
+    "epicenter_latitude": "21.334",
+    "epicenter_longitude": "122.1968",
+    "depth_km": null,
+    "magnitude": "5",
+    "max_intensity_observed": "1",
+    "source_type": "regional_intensity",
+    "affected_locations": [
+        {
+            "location_name": "七股",
+            "latitude": "23.1466",
+            "longitude": "120.0865",
+            "county": "臺南市",
+            "intensity": "1",
+            "station_code": null,
+            "distance_km": null,
+            "pga_v": null,
+            "pga_ns": null,
+            "pga_ew": null,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}

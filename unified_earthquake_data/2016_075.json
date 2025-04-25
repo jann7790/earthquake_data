@@ -1,0 +1,57 @@
+{
+    "event_id": "2016_075",
+    "timestamp": "2016-05-30T01:48:05",
+    "epicenter_latitude": 23.08,
+    "epicenter_longitude": 121.03,
+    "depth_km": 4.5,
+    "magnitude": 3.0,
+    "max_intensity_observed": null,
+    "source_type": "detailed_station",
+    "affected_locations": [
+        {
+            "location_name": "東山",
+            "latitude": 23.26,
+            "longitude": 120.5,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "TWL",
+            "distance_km": 57.88,
+            "pga_v": 0.48,
+            "pga_ns": 0.54,
+            "pga_ew": 0.84,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "新化",
+            "latitude": 23.08,
+            "longitude": 120.36,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "CHN3",
+            "distance_km": 68.47,
+            "pga_v": 0.3,
+            "pga_ns": 0.96,
+            "pga_ew": 1.02,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        },
+        {
+            "location_name": "七股",
+            "latitude": 23.15,
+            "longitude": 120.09,
+            "county": "臺南市",
+            "intensity": null,
+            "station_code": "SCK",
+            "distance_km": 97.22,
+            "pga_v": 0.18,
+            "pga_ns": 1.97,
+            "pga_ew": 1.44,
+            "pgv_v": null,
+            "pgv_ns": null,
+            "pgv_ew": null
+        }
+    ]
+}
